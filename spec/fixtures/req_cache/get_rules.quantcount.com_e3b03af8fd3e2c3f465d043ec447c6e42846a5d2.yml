@@ -1,0 +1,27 @@
+---
+:scope: 3-bed house
+:url: http://rules.quantcount.com/rules-p-cMQdpDwFdWaPL.js
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Content-Type: application/x-javascript
+  Content-Length: '832'
+  Connection: close
+  Date: Sun, 23 Apr 2017 08:15:02 GMT
+  Last-Modified: Wed, 08 Mar 2017 23:19:59 GMT
+  ETag: '"add78194cc6b62b9abb42ad769f8a7cb"'
+  Cache-Control: max-age=300
+  Accept-Ranges: bytes
+  Server: AmazonS3
+  Age: '226'
+  X-Cache: Hit from cloudfront
+  Via: 1.1 0aa15ac8c76d9ad007aa844d0b71accc.cloudfront.net (CloudFront)
+  X-Amz-Cf-Id: ptUs5woG98YQP-drBL4WX9jSa6PyUG-BvTq8U8EA51wnMwXZQml94A==
+:content: |-
+  /*
+   Quantcast measurement tag
+   Copyright (c) 2008-2017, Quantcast Corp.
+  */
+  (function(d,g,f){try{__qc("defaults",d,{labels:"_fp.event.Default"})}catch(m){}var l=function(a,b,c){return a?"nc"===a?!b||!c||0>b.indexOf(c):"eq"===a?b===c:"sw"===a?0===b.indexOf(c):"ew"===a?(a=b.length-c.length,b=b.lastIndexOf(c,a),-1!==b&&b===a):"c"===a?0<=b.indexOf(c):!1:!1},h=function(a,b,c){var e;if(g.top===g.self)e=f.location.href;else{e=f.referrer;var d=f.createElement("a");d.href=e;e=d.href}l(b,e,c)?a(e):a(!1)},k=function(a){return"array"==={}.toString.call(a).match(/\s([a-zA-Z]+)/)[1].toLowerCase()?
+  {labels:a.join(",")}:{labels:""+a}};__qc("rules",[d,null,[[k,"_fp.event.Homepage"]],[[h,"eq","http://www.rightmove.co.uk/"]]],[d,null,[[k,"_fp.event.Homepage"]],[[h,"sw","http://www.rightmove.co.uk/?"]]])})("p-cMQdpDwFdWaPL",window,document);

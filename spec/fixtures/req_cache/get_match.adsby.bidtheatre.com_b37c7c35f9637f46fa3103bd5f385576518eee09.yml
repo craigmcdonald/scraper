@@ -1,0 +1,17 @@
+---
+:scope: 
+:url: http://match.adsby.bidtheatre.com/pubmaticmatch?redir=http://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTMwNjImdGw9MjAxNjA=&piggybackCookie=uid:$UID
+:body: ''
+:status: 302
+:method: get
+:headers:
+  Server: Apache-Coyote/1.1
+  P3P: policyref="/w3c/p3p.xml", CP="DSP NON LAW OUR CUR DEVo PSAo PSDo IND STA NAV
+    COM INT"
+  Set-Cookie: __kuid=abe4d3a9-e822-47a2-a25b-69b6f656667e.266644928; Domain=.match.adsby.bidtheatre.com;
+    Expires=Thu, 14-Jun-2018 09:02:08 GMT
+  Location: http://image2.pubmatic.com/AdServer/Pug?piggybackCookie=uid:abe4d3a9-e822-47a2-a25b-69b6f656667e&vcode=bz0yJnR5cGU9MSZjb2RlPTMwNjImdGw9MjAxNjA=
+  Content-Length: '0'
+  Date: Wed, 14 Jun 2017 09:02:08 GMT
+  Connection: close
+:content: ''

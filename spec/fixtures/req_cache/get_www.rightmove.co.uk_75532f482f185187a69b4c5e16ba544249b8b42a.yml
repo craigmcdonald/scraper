@@ -1,0 +1,22 @@
+---
+:scope: 3-bed house
+:url: http://www.rightmove.co.uk/ps/images17153/fullsite/fancybox/blank.gif
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Server: Apache
+  Last-Modified: Fri, 02 Jun 2017 10:28:10 GMT
+  ETag: '"2b-550f79c1f6280"'
+  Accept-Ranges: bytes
+  Cache-Control: max-age=2592000
+  Access-Control-Allow-Headers: origin, x-requested-with, content-type, accept
+  Keep-Alive: timeout=15, max=98
+  Content-Type: image/gif
+  Connection: close
+  Date: Tue, 13 Jun 2017 16:39:46 GMT
+  Expires: Thu, 13 Jul 2017 15:42:59 GMT
+  Age: '3407   '
+  Content-Length: '43'
+:content: !binary |-
+  R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==

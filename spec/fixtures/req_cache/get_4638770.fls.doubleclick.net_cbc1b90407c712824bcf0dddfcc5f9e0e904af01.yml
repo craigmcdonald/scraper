@@ -1,0 +1,26 @@
+---
+:scope: 
+:url: http://4638770.fls.doubleclick.net/activityi;src=4638770;type=count0;cat=right003;ord=1;num=3072325778193.772?
+:body: ''
+:status: 302
+:method: get
+:headers:
+  P3P: policyref="http://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa
+    ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+  Timing-Allow-Origin: "*"
+  Date: Wed, 14 Jun 2017 11:31:33 GMT
+  Pragma: no-cache
+  Expires: Fri, 01 Jan 1990 00:00:00 GMT
+  Cache-Control: no-cache, must-revalidate
+  Follow-Only-When-Prerender-Shown: '1'
+  Strict-Transport-Security: max-age=21600
+  Location: http://4638770.fls.doubleclick.net/activityi;dc_pre=COS0nKeevdQCFR6WdwodsCoErQ;src=4638770;type=count0;cat=right003;ord=1;num=3072325778193.772
+  Content-Type: text/html; charset=UTF-8
+  X-Content-Type-Options: nosniff
+  Server: cafe
+  Content-Length: '0'
+  X-XSS-Protection: 1; mode=block
+  Set-Cookie: test_cookie=CheckForPermission; expires=Wed, 14-Jun-2017 11:46:33 GMT;
+    path=/; domain=.doubleclick.net
+  Connection: close
+:content: ''

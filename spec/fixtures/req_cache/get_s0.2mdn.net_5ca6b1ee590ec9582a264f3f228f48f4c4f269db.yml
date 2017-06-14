@@ -1,0 +1,34 @@
+---
+:scope: 
+:url: https://s0.2mdn.net/3786589/1490888653672/images/Col.svg
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Accept-Ranges: bytes
+  Vary: Accept-Encoding
+  Content-Encoding: gzip
+  Content-Type: image/svg+xml
+  Access-Control-Allow-Origin: "*"
+  Content-Length: '681'
+  Date: Tue, 13 Jun 2017 09:28:28 GMT
+  Expires: Wed, 14 Jun 2017 09:28:28 GMT
+  Last-Modified: Thu, 30 Mar 2017 15:44:13 GMT
+  X-Content-Type-Options: nosniff
+  Server: sffe
+  X-XSS-Protection: 1; mode=block
+  Age: '39058'
+  Cache-Control: public, max-age=86400
+  Alt-Svc: quic=":443"; ma=2592000; v="38,37,36,35"
+  Connection: close
+:content: <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  viewBox="0 0 415.15 415.16"><defs><style>.cls-1{fill:#e7e6e6;}.cls-2{clip-path:url(#clip-path);}.cls-3{fill:#039e4c;}.cls-4{fill:none;}.cls-5{fill:#bd2528;}.cls-6{fill:#fbdd02;}.cls-7{fill:#f4983b;}.cls-8{fill:#8ec043;}</style><clipPath
+  id="clip-path"><path class="cls-1" d="M371.58,207.58a162.91,162.91,0,0,1-24.51,86.34,14,14,0,0,0,3.1,18.42l6.27,5A14,14,0,0,0,377,313.85a200.39,200.39,0,0,0,27-143.93l-35.11,8A165.86,165.86,0,0,1,371.58,207.58Z"/></clipPath></defs><title>Asset
+  1</title><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer
+  1"><path class="cls-1" d="M371.58,207.58a162.91,162.91,0,0,1-24.51,86.34,14,14,0,0,0,3.1,18.42l6.27,5A14,14,0,0,0,377,313.85a200.39,200.39,0,0,0,27-143.93l-35.11,8A165.86,165.86,0,0,1,371.58,207.58Z"/><g
+  class="cls-2"><path class="cls-3" d="M213.19,208.89,370.75,335.83a208.07,208.07,0,0,0,39.94-171Z"/><path
+  class="cls-4" d="M116.61,394.08a207.43,207.43,0,0,0,251-54.35L202,206.27,409.59,160a207.52,207.52,0,1,0-293,234.1Z"/></g><path
+  class="cls-5" d="M65,312.34a14,14,0,0,0,3.1-18.42,162.91,162.91,0,0,1-24.51-86.34,165.86,165.86,0,0,1,2.67-29.64l-35.11-8a200.39,200.39,0,0,0,27,143.93,14,14,0,0,0,20.59,3.49Z"/><path
+  class="cls-6" d="M207.58,7.58a199.29,199.29,0,0,0-80.43,16.85l15.61,32.42a164.95,164.95,0,0,1,129.64,0L288,24.43A199.29,199.29,0,0,0,207.58,7.58Z"/><path
+  class="cls-7" d="M14.23,156.27l35.1,8A165,165,0,0,1,130.15,62.92L114.54,30.51A200.43,200.43,0,0,0,14.23,156.27Z"/><path
+  class="cls-8" d="M323.55,91.61a163.05,163.05,0,0,1,42.28,72.67l35.1-8A200.43,200.43,0,0,0,300.62,30.51L285,62.92A164.59,164.59,0,0,1,323.55,91.61Z"/></g></g></svg>

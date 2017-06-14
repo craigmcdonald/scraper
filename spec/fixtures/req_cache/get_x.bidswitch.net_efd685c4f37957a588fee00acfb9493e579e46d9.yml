@@ -1,0 +1,20 @@
+---
+:scope: 
+:url: http://x.bidswitch.net/sync?ssp=pubmatic
+:body: ''
+:status: 302
+:method: get
+:headers:
+  Server: nginx/1.7.10
+  Date: Wed, 14 Jun 2017 09:02:09 GMT
+  Content-Length: '0'
+  Connection: close
+  Cache-Control: no-cache, no-store, must-revalidate
+  Location: http://x.bidswitch.net/ul_cb/sync?ssp=pubmatic
+  P3P: CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"
+  Set-Cookie:
+  - tuuid=203b3a48-33c8-43fa-a614-224345f435de; path=/; expires=Thu, 14-Jun-2018 09:02:09
+    GMT; domain=.bidswitch.net
+  - tuuid_last_update=1497430929; path=/; expires=Thu, 14-Jun-2018 09:02:09 GMT; domain=.bidswitch.net
+  - c=1497430929; path=/; expires=Thu, 14-Jun-2018 09:02:09 GMT; domain=.bidswitch.net
+:content: ''

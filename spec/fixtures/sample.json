@@ -1,0 +1,50 @@
+{"property":
+  {
+    "location":
+    {
+      "postcode":"G132TZ",
+      "country":"GB",
+      "latitude":55.892151218585234,
+      "longitude":-4.3342802016646225
+    },
+    "propertyId":60384643,
+    "viewType":"Current",
+    "imageCount":14,
+    "floorplanCount":0,
+    "videoProvider":"No Video",
+    "propertyInfo":
+      {
+        "propertyType":"Houses",
+        "propertySubType":"Town House",
+        "price":1160.0,
+        "beds":3,
+        "added":"20170609",
+        "soldSTC":false,
+        "retirement":null,
+        "preOwned":"Resale",
+        "ownership":"Non-shared ownership",
+        "auctionOnly":false,
+        "letAgreed":false,
+        "lettingType":"Not Specified",
+        "furnishedType":"Furnished",
+        "minSizeFt":null,
+        "maxSizeFt":null,
+        "minSizeAc":null,
+        "maxSizeAc":null,
+        "businessForSale":false,
+        "priceQualifier":"None",
+        "currency":"GBP",
+        "selectedPrice":null,
+        "selectedCurrency":null}
+      },
+      "branch":
+        {
+          "branchId":51237,
+          "companyName":"Countrywide - Retail Lettings",
+          "brandName":"Slater Hogg & Howison Lettings",
+          "branchName":"West End",
+          "companyType":"Corporate",
+          "agentType":"ea_lettings",
+          "displayAddress":"146 Byres Road, Glasgow, G12 8TD"
+        }
+      }

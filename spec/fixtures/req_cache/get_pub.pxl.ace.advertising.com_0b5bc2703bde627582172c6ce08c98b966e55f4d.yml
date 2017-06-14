@@ -1,0 +1,21 @@
+---
+:scope: 
+:url: http://pub.pxl.ace.advertising.com/cfcm.ashx?providerId=1008&extMatch=1&rcode=2&ctst=1
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Cache-Control: private, no-cache, max-age=0
+  Pragma: no-cache
+  Content-Type: image/gif
+  Expires: Wed, 14 Jun 2017 09:02:09 GMT
+  Server: Microsoft-IIS/7.5
+  P3P: CP=NOI DSP COR LAW CURa DEVa TAIa PSAa PSDa OUR BUS UNI COM NAV
+  X-AspNet-Version: 4.0.30319
+  X-Powered-By: ASP.NET
+  Date: Wed, 14 Jun 2017 09:02:09 GMT
+  Content-Length: '49'
+  Connection: close
+:content: !binary |-
+  R0lGODlhAQABAJH/AP///wAAAMDAwAAAACH5BAEAAAIALAAAAAABAAEAAAIC
+  VAEAOw==

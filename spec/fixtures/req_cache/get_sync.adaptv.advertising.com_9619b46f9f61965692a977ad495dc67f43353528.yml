@@ -1,0 +1,18 @@
+---
+:scope: 3-bed house
+:url: http://sync.adaptv.advertising.com/sync?type=gif&key=pubmatic-55&uid=872DBFB6-C127-4979-8233-BCE8AD4150F2
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Content-Type: image/gif
+  Server: ribs2.0
+  Set-Cookie:
+  - rtbData0="key=pubmatic-55:value=872DBFB6-C127-4979-8233-BCE8AD4150F2:expiresAt=1499965698,ver=2";Path=/;Domain=.adaptv.advertising.com;Expires=Thu,
+    13-Jun-2019 17:08:18 GMT
+  - APID=VBe550e9b0-505a-11e7-b67d-0e97fd9eab71; Max-Age=31622400; Expires=Thu, 14-Jun-2018
+    17:08:18 GMT; Domain=.advertising.com; Path=/; Version=1
+  Content-Length: '42'
+  Connection: close
+:content: !binary |-
+  R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7

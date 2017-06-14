@@ -1,0 +1,17 @@
+---
+:scope: 
+:url: http://green.erne.co/pubmatic/cm?
+:body: ''
+:status: 302
+:method: get
+:headers:
+  Server: openresty
+  Date: Wed, 14 Jun 2017 09:02:09 GMT
+  Content-Length: '0'
+  Connection: close
+  Set-Cookie: u=0a7u418ODU1XOkVg79BAO8u-; Domain=.erne.co; Expires=Fri, 14-Jun-2019
+    09:02:09 GMT; Path=/
+  P3P: CP="NON DSP COR CURa PSA PSD OUR BUS NAV STA"
+  Location: http://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI4ODQmdGw9MTI5NjAw&piggybackCookie=0a7u418ODU1XOkVg79BAO8u-
+  Strict-Transport-Security: max-age=0; includeSubDomains;
+:content: ''

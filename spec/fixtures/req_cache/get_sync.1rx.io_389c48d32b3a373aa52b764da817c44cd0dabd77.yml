@@ -1,0 +1,21 @@
+---
+:scope: 
+:url: http://sync.1rx.io/usersync2/pubmatic
+:body: ''
+:status: 302
+:method: get
+:headers:
+  Server: nginx
+  Date: Wed, 14 Jun 2017 09:02:09 GMT
+  Content-Type: text/html
+  Transfer-Encoding: chunked
+  Connection: close
+  Cache-Control: no-store, no-cache, must-revalidate
+  Expires: '0'
+  Pragma: no-cache
+  Set-Cookie: _rxuuid=%7B%22rx_uuid%22%3A%22RX-7e9cf1a0-b271-42d2-8950-27f672557b8f%22%2C%22zdxidn%22%3A%221508%22%7D;
+    path=/; expires=Fri, 14 Jun 2019 09:02:09 GMT; domain=.1rx.io; httponly
+  P3P: CP="This is not a P3P policy! See https://www.rhythmone.com/p3p to learn why"
+  Location: http://match.adsrvr.org/track/cmf/generic?ttd_pid=adconductor&ttd_tpi=1
+  ETag: RX7e9cf1a0b27142d2895027f672557b8f
+:content: ''

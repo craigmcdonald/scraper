@@ -1,0 +1,19 @@
+---
+:scope: 3-bed house
+:url: http://sync.mathtag.com/sync/img?mt_exid=3&redir=http%3A%2F%2Fimage4.pubmatic.com%2FAdServer%2FSPug%3FpartnerID%3D27%26partnerUID%3D%5BMM_UUID%5D
+:body: ''
+:status: 302
+:method: get
+:headers:
+  Date: Tue, 13 Jun 2017 17:08:18 GMT
+  Content-Type: image/gif
+  Content-Length: '0'
+  Connection: close
+  Cache-Control: no-cache
+  set-cookie: uuid=d2625940-1c02-4d00-9b0b-6162a5b17845; domain=.mathtag.com; path=/;
+    expires=Wed, 11-Jul-2018 17:08:18 GMT
+  Location: http://sync.mathtag.com/sync/img?mt_exid=3&redir=http%3A%2F%2Fimage4.pubmatic.com%2FAdServer%2FSPug%3FpartnerID%3D27%26partnerUID%3D%5BMM_UUID%5D&mm_bnc&mm_bct
+  P3P: CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"
+  Server: MT3 1.15.7.0 2e0cad3 RELEASE zrh-pixel-x9
+  Expires: Tue, 13 Jun 2017 17:08:17 GMT
+:content: ''

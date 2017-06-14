@@ -1,0 +1,21 @@
+---
+:scope: 
+:url: http://pix.impdesk.com/csync/pubmatic
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Server: nginx/1.10.0 (Ubuntu)
+  Date: Wed, 14 Jun 2017 09:02:08 GMT
+  Content-Type: image/gif
+  Content-Length: '43'
+  Cache-Control: no-cache
+  Expires: Wed, 14 Jun 2017 09:02:08 UTC
+  P3P: policyref="http://pix.impdesk.com/p3p.xml", CP="NOI DSP COR ADM PSAo PSDo OURo
+    SAMo UNRo OTRo BUS COM NAV DEM STA PRE"
+  Set-Cookie: idb=WUD7kEGckgEyMUKBWUD7kBWKvMI; Path=/; Domain=impdesk.com; Expires=Mon,
+    09 Jul 2018 09:02:08 GMT
+  Via: 1.1 google
+  Connection: close
+:content: !binary |-
+  R0lGODlhAQABAIAAAP///wAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==

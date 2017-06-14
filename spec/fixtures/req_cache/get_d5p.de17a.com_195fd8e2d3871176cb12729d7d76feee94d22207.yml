@@ -1,0 +1,16 @@
+---
+:scope: 
+:url: http://d5p.de17a.com/getuid/pubmatic?http://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI3NDUmdGw9MTI5NjAw&piggybackCookie=$UID
+:body: ''
+:status: 302
+:method: get
+:headers:
+  Server: nginx
+  Date: Wed, 14 Jun 2017 09:02:09 GMT
+  Content-Length: '0'
+  Connection: close
+  Set-Cookie: cc=1.1;Path=/;Domain=.de17a.com;Expires=Tue, 04-Jun-2019 09:02:09 GMT
+  Expires: Thu, 01 Jan 1970 00:00:00 GMT
+  Location: "/getuid/pubmatic;c?http://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI3NDUmdGw9MTI5NjAw&piggybackCookie=$UID"
+  P3P: CP="NON CURa ADMa DEVa TAIa OUR STP IND UNI COM NAV"
+:content: ''

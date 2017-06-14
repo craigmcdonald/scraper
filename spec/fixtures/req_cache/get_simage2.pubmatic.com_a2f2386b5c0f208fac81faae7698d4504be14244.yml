@@ -1,0 +1,24 @@
+---
+:scope: 
+:url: http://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZqcz0xJmNvZGU9Mjk0NSZ0bD0xMjk2MDA=&piggybackCookie=203b3a48-33c8-43fa-a614-224345f435de
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Date: Wed, 14 Jun 2017 09:02:12 GMT
+  Server: Apache/2.2.24 (Unix) mod_ssl/2.2.24 OpenSSL/1.0.1e-fips mod_fastcgi/2.4.6
+  Set-Cookie:
+  - KRTBCOOKIE_466=16530-203b3a48-33c8-43fa-a614-224345f435de&KRTB&16532-203b3a48-33c8-43fa-a614-224345f435de;
+    domain=pubmatic.com; expires=Tue, 12-Sep-2017 09:02:12 GMT; path=/
+  - PUBRETARGET=dummy; domain=pubmatic.com; expires=Wed, 14-Jun-2017 09:02:12 GMT;
+    path=/
+  - PUBMDCID=3; domain=pubmatic.com; expires=Tue, 12-Sep-2017 09:02:12 GMT; path=/
+  X-lat: Pug22038:0:458
+  Content-Length: '1'
+  P3P: CP="NOI DSP COR LAW CUR ADMo DEVo TAIo PSAo PSDo IVAo IVDo HISo OTPo OUR SAMo
+    BUS UNI COM NAV INT DEM CNT STA PRE LOC"
+  Cache-Control: no-store, no-cache, private
+  Pragma: no-cache
+  Connection: close
+  Content-Type: text/html; charset=utf-8
+:content: " "

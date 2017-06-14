@@ -1,0 +1,22 @@
+---
+:scope: 
+:url: https://stats.g.doubleclick.net/r/collect?t=dc&aip=1&_r=3&v=1&_v=j55&tid=UA-3350334-55&cid=393939231.1497385157&jid=1450002977&gjid=11962821&_gid=1849484286.1497385157&_u=YSBCgAQ~&z=1091583444
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Access-Control-Allow-Origin: "*"
+  Strict-Transport-Security: max-age=10886400; includeSubDomains; preload
+  Date: Tue, 13 Jun 2017 20:19:16 GMT
+  Pragma: no-cache
+  Expires: Fri, 01 Jan 1990 00:00:00 GMT
+  Cache-Control: no-cache, no-store, must-revalidate
+  Last-Modified: Sun, 17 May 1998 03:00:00 GMT
+  X-Content-Type-Options: nosniff
+  Content-Type: image/gif
+  Server: Golfe2
+  Content-Length: '35'
+  Alt-Svc: quic=":443"; ma=2592000; v="38,37,36,35"
+  Connection: close
+:content: !binary |-
+  R0lGODlhAQABAID/AP///wAAACwAAAAAAQABAAACAkQBADs=

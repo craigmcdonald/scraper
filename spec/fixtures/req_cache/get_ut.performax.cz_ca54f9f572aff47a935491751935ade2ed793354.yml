@@ -1,0 +1,24 @@
+---
+:scope: 
+:url: http://ut.performax.cz/piggyback/pubmatic?http://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZqcz0xJmNvZGU9MzMwMyZ0bD0xMjk2MDA=&piggybackCookie=$UID
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Server: openresty
+  Date: Wed, 14 Jun 2017 09:02:09 GMT
+  Content-Type: text/html; charset=utf-8
+  Transfer-Encoding: chunked
+  Connection: close
+  Vary: Accept-Encoding
+  Expires: Mon, 26 Jul 1997 05:00:00 GMT
+  Pragma: no-cache
+  Cache-Control:
+  - no-cache, no-store, must-revalidate
+  - no-cache="set-cookie"
+  X-Time: '0.000'
+  X-Nginx-Proxy: 'user-tracking2 '
+  P3P: CP="CURa ADMa DEVa PSAo PSDo OUR BUS UNI PUR INT DEM STA PRE COM NAV OTC NOI
+    DSP COR"
+  Content-Encoding: gzip
+:content: ''

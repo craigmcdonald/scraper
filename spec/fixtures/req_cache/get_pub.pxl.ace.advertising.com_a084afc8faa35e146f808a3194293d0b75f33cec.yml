@@ -1,0 +1,19 @@
+---
+:scope: 
+:url: http://pub.pxl.ace.advertising.com/cfcm.ashx?providerId=1008&extMatch=1&rcode=2
+:body: ''
+:status: 302
+:method: get
+:headers:
+  Cache-Control: private, no-cache, max-age=0
+  Pragma: no-cache
+  Expires: Wed, 14 Jun 2017 09:02:09 GMT
+  Location: "/cfcm.ashx?providerId=1008&extMatch=1&rcode=2&ctst=1"
+  Server: Microsoft-IIS/7.5
+  P3P: CP=NOI DSP COR LAW CURa DEVa TAIa PSAa PSDa OUR BUS UNI COM NAV
+  X-AspNet-Version: 4.0.30319
+  X-Powered-By: ASP.NET
+  Date: Wed, 14 Jun 2017 09:02:08 GMT
+  Content-Length: '0'
+  Connection: close
+:content: ''

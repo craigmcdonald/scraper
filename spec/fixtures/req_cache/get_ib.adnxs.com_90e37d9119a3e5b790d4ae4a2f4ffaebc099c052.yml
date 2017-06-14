@@ -1,0 +1,25 @@
+---
+:scope: 
+:url: http://ib.adnxs.com/getuidnb?http://image2.pubmatic.com/AdServer/Pug?vcode=bz0xJnR5cGU9MSZqcz0xJmNvZGU9NzkmdGw9MTQ0MCZkcF9pZD01Nw==&vcode=bz0yJnR5cGU9MSZqcz0xJmNvZGU9NzgmdGw9MTU3NjgwMCZkcF9pZD01Nw==&piggybackCookie=$UID
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Server: nginx/1.11.5
+  Date: Wed, 14 Jun 2017 09:02:11 GMT
+  Content-Type: image/gif
+  Content-Length: '43'
+  Connection: close
+  Cache-Control: no-store, no-cache, private
+  Pragma: no-cache
+  Expires: Sat, 15 Nov 2008 16:00:00 GMT
+  P3P: policyref="http://cdn.adnxs.com/w3c/policy/p3p.xml", CP="NOI DSP COR ADM PSAo
+    PSDo OURo SAMo UNRo OTRo BUS COM NAV DEM STA PRE"
+  X-XSS-Protection: '0'
+  AN-X-Request-Uuid: 0bd97bc9-ea52-4b8e-bb8e-b40539769c76
+  Set-Cookie: sess=1; Path=/; Max-Age=86400; Expires=Thu, 15-Jun-2017 09:02:11 GMT;
+    Domain=.adnxs.com; HttpOnly
+  X-Proxy-Origin: 82.27.31.35; 82.27.31.35; 317.bm-nginx-loadbalancer.mgmt.ams1; *.adnxs.com;
+    185.33.223.249:80
+:content: !binary |-
+  R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==

@@ -1,0 +1,17 @@
+---
+:scope: 
+:url: http://pubmatic-match.dotomi.com/pubmatic/match?dtm_test=54b26e2ede7c056f&piggybackCookie=&rurl=http%3A%2F%2Fimage2.pubmatic.com%2FAdServer%2FPug%3Fvcode%3Dbz0yJnR5cGU9MSZjb2RlPTQ2MSZ0bD0xNTc2ODAw
+:body: ''
+:status: 302
+:method: get
+:headers:
+  Server: nginx
+  Date: Wed, 14 Jun 2017 09:02:09 GMT
+  Content-Length: '0'
+  Connection: close
+  Set-Cookie: DotomiUser=178503932477263563$3$39281192$$1; Expires=Thu, 12 Jul 2018
+    09:02:09 GMT; Path=/; Domain=.dotomi.com
+  Cache-Control: max-age=0, no-store
+  P3P: policyref="/w3c/p3p.xml", CP="NOI DSP NID OUR STP"
+  Location: http://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTQ2MSZ0bD0xNTc2ODAwAAACeixhflFOywMCV2IoAAAAAAA
+:content: ''

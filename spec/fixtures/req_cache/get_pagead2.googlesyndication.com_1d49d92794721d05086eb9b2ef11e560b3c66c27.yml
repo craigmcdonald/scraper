@@ -1,0 +1,24 @@
+---
+:scope: 
+:url: https://pagead2.googlesyndication.com/pagead/gen_204?id=xbid&dbm_b=AKAmf-C7saykaNBWeEcCU86-ypKVje3V4UeghB3IsdgLn4JGooUecGl4nh1cd8Xl8DKetZRmLzJi5twDzYznzpi4GsFm43wT7yuLA7tklDTFHXUr83JRzA0
+:body: ''
+:status: 200
+:method: get
+:headers:
+  P3P: policyref="https://www.googleadservices.com/pagead/p3p.xml", CP="NOI DEV PSA
+    PSD IVA IVD OTP OUR OTR IND OTC"
+  Timing-Allow-Origin: "*"
+  Date: Tue, 13 Jun 2017 20:19:18 GMT
+  Pragma: no-cache
+  Expires: Fri, 01 Jan 1990 00:00:00 GMT
+  Cache-Control: no-cache, must-revalidate
+  Content-Type: image/gif
+  X-Content-Type-Options: nosniff
+  Server: cafe
+  Content-Length: '42'
+  X-XSS-Protection: 1; mode=block
+  Alt-Svc: quic="googleads.g.doubleclick.net:443"; ma=2592000; v="38,37,36,35",quic=":443";
+    ma=2592000; v="38,37,36,35"
+  Connection: close
+:content: !binary |-
+  R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7

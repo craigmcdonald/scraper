@@ -1,0 +1,16 @@
+---
+:scope: 
+:url: http://usync.nexage.com/mapuser?providerid=29472&userid=243BEA06-9FD0-4002-8BA4-877444B7D354
+:body: ''
+:status: 302
+:method: get
+:headers:
+  Connection: close
+  Expires: Mon, 15 Jun 1998 00:00:00 GMT
+  Pragma: no-cache
+  Cache-Control: no-store, no-cache
+  Location: http://usync.nexage.com/mapuser?providerid=29472&userid=243BEA06-9FD0-4002-8BA4-877444B7D354;cfp=1
+  Content-Length: '0'
+  P3P: CP="NOI DSP DEVa OUR BUS UNI COM NAV INT"
+  Set-Cookie: CfP=1;domain=nexage.com;path=/
+:content: ''

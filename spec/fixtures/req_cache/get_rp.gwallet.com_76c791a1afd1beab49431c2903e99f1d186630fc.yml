@@ -1,0 +1,25 @@
+---
+:scope: 
+:url: http://rp.gwallet.com/r1/pmuid?https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI4NDQmdGw9MTI5NjAw&piggybackCookie=uid:%24UID
+:body: ''
+:status: 302
+:method: get
+:headers:
+  Content-Length: '0'
+  Server: radiumone/1.4.2
+  Pragma: no-cache
+  P3p: CP="PSAo PSDo OUR BUS DSP NON COR"
+  Content-type: application/octet-stream
+  Expires: Tue, 29 Oct 2002 19:50:44 GMT
+  Set-cookie:
+  - ra1_uid=5784249702369259968; Expires=Thu, 14-Jun-2018 09:02:09 GMT; Path=/; Domain=gwallet.com;
+    Version=1
+  - ra1_pd_1252458608=delete; Expires=Fri, 01-Jan-2010 00:00:00 GMT; Path=/; Domain=gwallet.com;
+    Version=1
+  - ra1_pd=CggIKRIAGNGxGQ; Expires=Thu, 14-Jun-2018 09:02:09 GMT; Path=/; Domain=gwallet.com;
+    Version=1
+  Cache-control: private, no-cache, no-cache=Set-Cookie, proxy-revalidate
+  Location: https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI4NDQmdGw9MTI5NjAw&piggybackCookie=uid:UxdACr6S2QwDMiE2a4Aci0MSOhA
+  connection: close
+  Connection: close
+:content: ''

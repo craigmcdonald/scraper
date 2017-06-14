@@ -1,0 +1,28 @@
+---
+:scope: 
+:url: http://showads.pubmatic.com/AdServer/AdServerServlet?pubId=81195&siteId=81196&adId=236888&kadwidth=300&kadheight=250&SAVersion=2&js=1&kdntuid=1&pageURL=http%3A%2F%2Fwww.rightmove.co.uk%2Fproperty-to-rent%2Fproperty-60384643.html&inIframe=1&pmZoneId=Scotland%2Cproperty-to-rent%2CBand7%2CSTV-Central%2C3%2Chouse%2Cnot_in_market%2CIIM_not_in_market&kadpageurl=http%3A%2F%2Fwww.rightmove.co.uk%2F&operId=3&kltstamp=2017-6-13%2021%3A19%3A5&timezone=1&screenResolution=1024x768&ranreq=0.4230393727775663&pmUniAdId=0&adVisibility=3&adPosition=758x698&dspids=%7B%7D
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Server: nginx
+  Date: Tue, 13 Jun 2017 20:19:03 GMT
+  Content-Type: text/html; charset=utf-8
+  Transfer-Encoding: chunked
+  Connection: close
+  Set-Cookie:
+  - PUBMDCID=3; domain=pubmatic.com; expires=Mon, 11-Sep-2017 20:19:03 GMT; path=/
+  - pp=81195; domain=pubmatic.com; expires=Mon, 11-Sep-2017 20:19:03 GMT; path=/
+  - pubfreq_81196=; domain=pubmatic.com; expires=Thu, 15-Jun-2017 20:19:03 GMT; path=/
+  - pubtime_81196=TMC; domain=pubmatic.com; expires=Wed, 14-Jun-2017 20:19:03 GMT;
+    path=/
+  - PMDTSHR=cat:; domain=pubmatic.com; expires=Wed, 14-Jun-2017 20:19:03 GMT; path=/
+  P3P: CP="NOI DSP COR LAW CUR ADMo DEVo TAIo PSAo PSDo IVAo IVDo HISo OTPo OUR SAMo
+    BUS UNI COM NAV INT DEM CNT STA PRE LOC"
+  Cache-Control: no-store, no-cache, private
+  Content-Encoding: gzip
+:content: |-
+  document.write('<span class="PubAdAI" id="D593A526-8D52-4B68-8716-757F13AF7332">');PubMatic.pmAdInfo.setNetworkId('0',165,0,3.810000,0.000000,'',0.000000,'D593A526-8D52-4B68-8716-757F13AF7332');var str = '%3C%21--%20PubMatic%20ad%20tag%20%28Javascript%29%20%3A%20rightmove_300x250_ROS_2%20%7C%20http%3A%2F%2Fwww.rightmove.co.uk%2F2%20%7C%20300%20x%20250%20Sidekick%20--%3E%0A%3Cscript%20type%3D%22text%2Fjavascript%22%3E%0A%20%20var%20pubId%3D81195%3B%0A%20%20var%20siteId%3D106505%3B%0A%20%20var%20kadId%3D353722%3B%0A%20%20var%20kadwidth%3D300%3B%0A%20%20var%20kadheight%3D250%3B%0A%20%20var%20kadtype%3D1%3B%0A%20%20var%20kadpageurl%3D%22http%3A%2F%2Fwww.rightmove.co.uk%2F%22%3B%0A%20%3C%2Fscript%3E%0A%3Cscript%20type%3D%22text%2Fjavascript%22%20src%3D%22http%3A%2F%2Fads.pubmatic.com%2FAdServer%2Fjs%2Fshowad.js%22%3E%3C%2Fscript%3E';
+  document.writeln(decodeURIComponent(str));
+  document.write('<iframe name="pbeacon" frameborder="0" allowtransparency="true" hspace="0" vspace="0" marginheight="0" marginwidth="0" scrolling="no"  width="0"  height="0" style="position:absolute;top:-20000px;" src="http://aktrack.pubmatic.com/AdServer/AdDisplayTrackerServlet?operId=1&pubId=81195&siteId=81196&adId=236888&adType=3&adServerId=165&kefact=3.810000&kaxefact=3.810000&kadNetFrequecy=0&kadwidth=300&kadheight=250&kadsizeid=9&kltstamp=1497385143&indirectAdId=212747&adServerOptimizerId=1&ranreq=0.4230393727775663&kpbmtpfact=0.000000&dcId=3&tldId=0&passback=25&ekefact=t0hAWdDsCwAzGp8CdHbVrtMihfqWwLu9g6dwrIh8t6wWAikj&ekaxefact=t0hAWfDsCwDQbYHsSQd2hCz5nGZEiwvb0Kf1qKxV6gV3kre9&ekpbmtpfact=t0hAWQ3tCwCZNx6frfERJY_RkOwUla7Zk2KlER9wHw8iR2bB&imprId=D593A526-8D52-4B68-8716-757F13AF7332&oid=D593A526-8D52-4B68-8716-757F13AF7332&ias=257&carrierid=215&crID=0&cntryId=79&campaignId=0&isRTB=0&pmZoneId=Scotland%2Cproperty-to-rent%2CBand7%2CSTV-Central%2C3%2Chouse%2Cnot_in_market%2CIIM_not_in_market&pageURL=http%3A%2F%2Fwww.rightmove.co.uk%2F"> </iframe>');
+  document.write('<!-- PubMatic Ad Ends --> </span>');/* MADS22126: *//* etsdiff:107291 *//* u_ts:2017-6-13%2021%3A19%3A5, u_tz:1 *///

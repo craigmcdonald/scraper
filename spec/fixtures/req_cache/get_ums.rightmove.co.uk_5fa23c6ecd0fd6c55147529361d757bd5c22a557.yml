@@ -1,0 +1,19 @@
+---
+:scope: 
+:url: http://ums.rightmove.co.uk/users/170613DUH6H8FER7QMHJG5AZFCA68ONS?_=1497438829056
+:body: ''
+:status: 500
+:method: get
+:headers:
+  Server: nginx/1.10.2
+  Date: Wed, 14 Jun 2017 11:13:49 GMT
+  Content-Type: text/html
+  Content-Length: '595'
+  Connection: close
+:content: "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body
+  bgcolor=\"white\">\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.10.2</center>\r\n</body>\r\n</html>\r\n<!--
+  a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to
+  disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE
+  and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome
+  friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error
+  page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n"

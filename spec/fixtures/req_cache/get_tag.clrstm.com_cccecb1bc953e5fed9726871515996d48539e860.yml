@@ -1,0 +1,19 @@
+---
+:scope: 
+:url: http://tag.clrstm.com/sync?ssp=bidswitch&bidswitch_ssp_id=pubmatic
+:body: ''
+:status: 302
+:method: get
+:headers:
+  Cache-Control: no-cache, no-store, must-revalidate
+  Content-Length: '0'
+  Date: Wed, 14 Jun 2017 09:02:09 GMT
+  Location: http://tag.clrstm.com/ul_cb/sync?ssp=bidswitch&bidswitch_ssp_id=pubmatic
+  P3P: CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"
+  Set-Cookie:
+  - tuuid_new=c3bb5a0c-9ebb-4206-ab86-3c2499e78592; path=/; expires=Fri, 14-Jun-2019
+    09:02:09 GMT; domain=tag.clrstm.com
+  - tuuid_new_last_update=1497430929; path=/; expires=Fri, 14-Jun-2019 09:02:09 GMT;
+    domain=tag.clrstm.com
+  Connection: close
+:content: ''

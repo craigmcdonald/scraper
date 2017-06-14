@@ -1,0 +1,20 @@
+---
+:scope: 
+:url: https://p.typekit.net/p.gif?s=4&k=&app=&ht=tk&h=s0.2mdn.net&f=15496.15497.15498.15501.15505.15506.15507.15508.15509.15510.15511.15512&a=&sl=1&fl=946&dc=true&js=1.14.9&_=1497385167165
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Accept-Ranges: bytes
+  Access-Control-Allow-Origin: "*"
+  Cache-Control: max-age=604800
+  Content-Type: image/gif
+  ETag: '"5763a523-23"'
+  Expires: Tue, 13 Jun 2017 22:13:08 GMT
+  Last-Modified: Fri, 17 Jun 2016 07:22:11 GMT
+  Server: nginx
+  Content-Length: '35'
+  Date: Tue, 13 Jun 2017 20:19:26 GMT
+  Connection: close
+:content: !binary |-
+  R0lGODlhAQABAJAAAP///wAAACwAAAAAAQABAAACAgQBADs=

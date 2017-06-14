@@ -1,0 +1,19 @@
+---
+:scope: 
+:url: http://b.scorecardresearch.com/b?c1=2&c2=6035627&ns__t=1497387486527&ns_c=ISO-8859-1&cv=3.1&c8=3%20bedroom%20town%20house%20to%20rent%20in%20Craigend%20Close%2C%20Anniesland%2C%20G13&c7=http%3A%2F%2Fwww.rightmove.co.uk%2Fproperty-to-rent%2Fproperty-60384643.html&c9=
+:body: ''
+:status: 302
+:method: get
+:headers:
+  Content-Length: '0'
+  Location: http://b.scorecardresearch.com/b2?c1=2&c2=6035627&ns__t=1497387486527&ns_c=ISO-8859-1&cv=3.1&c8=3%20bedroom%20town%20house%20to%20rent%20in%20Craigend%20Close%2C%20Anniesland%2C%20G13&c7=http%3A%2F%2Fwww.rightmove.co.uk%2Fproperty-to-rent%2Fproperty-60384643.html&c9=
+  Date: Tue, 13 Jun 2017 20:58:05 GMT
+  Connection: close
+  Set-Cookie:
+  - UID=15887a23722a28a1429214g1497387485; expires=Mon, 03-Jun-2019 20:58:05 GMT;
+    path=/; domain=.scorecardresearch.com
+  - UIDR=1497387485; expires=Mon, 03-Jun-2019 20:58:05 GMT; path=/; domain=.scorecardresearch.com
+  Pragma: no-cache
+  Expires: Mon, 01 Jan 1990 00:00:00 GMT
+  Cache-Control: private, no-cache, no-cache=Set-Cookie, no-store, proxy-revalidate
+:content: ''

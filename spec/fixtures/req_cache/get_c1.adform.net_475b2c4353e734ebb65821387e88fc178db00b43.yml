@@ -1,0 +1,15 @@
+---
+:scope: 3-bed house
+:url: http://c1.adform.net/serving/cookie/match?party=14&redirect=http://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI4NzUmdGw9NDMyMDA=&piggybackCookie=[PLACE%20YOUR%20PIGGYBACK%20COOKIES%20HERE]
+:body: ''
+:status: 302
+:method: get
+:headers:
+  Server: nginx
+  Date: Tue, 13 Jun 2017 17:08:18 GMT
+  Content-Length: '0'
+  Connection: close
+  Location: http://c1.adform.net/serving/cookie/match?CC=1&party=14&redirect=http://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI4NzUmdGw9NDMyMDA=&piggybackCookie=[PLACE%20YOUR%20PIGGYBACK%20COOKIES%20HERE]
+  Set-Cookie: uid=4344298415475122920; Expires=Sat, 12 Aug 2017 17:08:18 GMT; Domain=adform.net;
+    Path=/
+:content: ''

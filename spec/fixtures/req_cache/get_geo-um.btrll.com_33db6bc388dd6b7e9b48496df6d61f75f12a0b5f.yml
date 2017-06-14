@@ -1,0 +1,20 @@
+---
+:scope: 3-bed house
+:url: http://geo-um.btrll.com/v1/map_pixel/partner/1895.png?set_aps=1&BR_APS=3WUAcAkFbIoQBlm1w0g&
+:body: ''
+:status: 302
+:method: get
+:headers:
+  Server: nginx
+  Date: Tue, 13 Jun 2017 17:08:18 GMT
+  Content-Length: '0'
+  Connection: close
+  P3P: CP="IDC DSP COR CURa ADMa OUR IND PHY ONL COM STA"
+  Access-Control-Allow-Origin: "*"
+  Set-Cookie: jnc6E7PE=CIKtpcoFEgUI5w4QAA; Expires=Tue, 20 Jun 2017 17:08:19 GMT;
+    Path=/; Domain=geo-um.btrll.com
+  Location: http://image4.pubmatic.com/AdServer/SPug?partnerID=156020&xid=3WUAcAkFbIoQBlm1w0g&
+  Expires: Tue, 01 Jan 1980 00:00:00 GMT
+  Cache-Control: no-store, no-cache, must-revalidate
+  Pragma: no-cache
+:content: ''

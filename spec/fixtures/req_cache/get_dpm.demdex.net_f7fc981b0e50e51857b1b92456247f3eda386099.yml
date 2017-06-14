@@ -1,0 +1,20 @@
+---
+:scope: 
+:url: http://dpm.demdex.net/ibs:dpid=19566&dpuuid=0AB1C788-D90B-4CFC-8D8F-EDF2FCA61618
+:body: ''
+:status: 302
+:method: get
+:headers:
+  Cache-Control: no-cache,no-store,must-revalidate,max-age=0,proxy-revalidate,no-transform,private
+  Date: Wed, 14 Jun 2017 08:57:08 GMT
+  Expires: Thu, 01 Jan 2009 00:00:00 GMT
+  Location: http://dpm.demdex.net/demconf.jpg?et:ibs%7cdata:dpid=19566&dpuuid=0AB1C788-D90B-4CFC-8D8F-EDF2FCA61618
+  P3P: policyref="/w3c/p3p.xml", CP="NOI NID CURa ADMa DEVa PSAa PSDa OUR SAMa BUS
+    PUR COM NAV INT"
+  Pragma: no-cache
+  Set-Cookie: demdex=61757327258931227234439475211570734474;Path=/;Domain=.demdex.net;Expires=Mon,
+    11-Dec-2017 08:57:08 GMT
+  X-TID: vdP6f8xbQmk=
+  Content-Length: '0'
+  Connection: close
+:content: ''

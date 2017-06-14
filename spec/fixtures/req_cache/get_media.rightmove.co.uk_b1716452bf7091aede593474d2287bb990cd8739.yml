@@ -1,0 +1,25 @@
+---
+:scope: 
+:url: http://media.rightmove.co.uk/qr/www.rightmove.co.uk/s2p_60384643_s/QR_51237_REF_000339258.png
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Content-Disposition: attachment
+  Content-Type: text/plain
+  Age: '369583'
+  Date: Tue, 13 Jun 2017 20:18:56 GMT
+  Content-Length: '407'
+  Connection: close
+  Cache-Control: max-age=7776000
+:content: !binary |-
+  iVBORw0KGgoAAAANSUhEUgAAAGIAAABiAQMAAACRa5RNAAAABlBMVEX///8A
+  AABVwtN+AAABTElEQVQ4jb3TMYouMQgAYCGtkKsIaQO5upBW8CqCreDLy+7C
+  P+vUKwzD10SjEeCvI4OHGG1NLmIE36COUKUCmRSM8SZ2wvR3jWDSLS9inPo/
+  uUBVhtz4qfNTJzoPnvxzqQ9hmIubE3FREopOPh8UNW2nOKGOXKTncJVO+2b4
+  JbRTk5LcDE/BMEzai1uVKTSLuRirNmwx7jMaFFH2bUu03y49xSYxY/DCquyy
+  ZSwLr1ICgVPyHlDkwtbTQaxKmgA2tFAu8ukdUQhalcCikyZIXiQYNFr0XmUs
+  U08GvZ14CmLDvI+ryiGQDWd+1fKQaFtK6OPe9qnpzpFr0+3gL008m+M2VpV4
+  dFpz466a6kukQXLVmXUb3k/rqzJojTbP3KoY8/xzsVWpbPAz0fQ3tbNx1OlV
+  NmensaOKsY0YMPR26akMPA82x/7e20/9bfwDjRDgEMN+rngAAAAASUVORK5C
+  YII=

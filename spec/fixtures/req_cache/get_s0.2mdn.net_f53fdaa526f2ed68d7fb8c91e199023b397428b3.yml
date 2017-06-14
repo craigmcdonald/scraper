@@ -1,0 +1,52 @@
+---
+:scope: 3-bed house
+:url: https://s0.2mdn.net/3786589/1490888653672/index.html
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Accept-Ranges: bytes
+  Vary: Accept-Encoding
+  Content-Encoding: gzip
+  Content-Type: text/html
+  Access-Control-Allow-Origin: "*"
+  Content-Length: '1014'
+  Date: Tue, 13 Jun 2017 08:56:57 GMT
+  Expires: Wed, 14 Jun 2017 08:56:57 GMT
+  Last-Modified: Thu, 30 Mar 2017 15:44:13 GMT
+  X-Content-Type-Options: nosniff
+  Server: sffe
+  X-XSS-Protection: 1; mode=block
+  Cache-Control: public, max-age=86400
+  Age: '27773'
+  Alt-Svc: quic=":443"; ma=2592000; v="38,37,36,35"
+  Connection: close
+:content: "<!DOCTYPE html>\n<html>\n<head>\n\t<meta http-equiv=\"Content-Type\" content=\"text/html;
+  charset=utf-8\" />\n\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\" />\n\t<title>Untitled</title>\n<!--Adobe
+  Edge Runtime-->\n<meta name=\"ad.size\" content=\"width=300,height=250\">\n   <script
+  type=\"text/javascript\">\nvar clickTag = \"https://www.experian.co.uk\"; </script>\n
+  \   <script type=\"text/javascript\" charset=\"utf-8\" src=\"https://animate.adobe.com/runtime/6.0.0/edge.6.0.0.min.js\"></script>\n
+  \   <style>\n        .edgeLoad-EDGE-146961040 { visibility:hidden; }\n    </style>\n<script>\n
+  \  AdobeEdge.loadComposition('index', 'EDGE-146961040', {\n    scaleToFit: \"none\",\n
+  \   centerStage: \"none\",\n    minW: \"0px\",\n    maxW: \"undefined\",\n    width:
+  \"300px\",\n    height: \"250px\"\n}, {\"dom\":{}}, {\"dom\":{}});\n</script>\n<!--Adobe
+  Edge Runtime End-->\n\n<script type=\"text/javascript\">\n    \n      (function()
+  {\n        var relegateNavigation = '';\n        var handleClickTagMessage = function(e)
+  {\n          try {\n            var eventData = JSON.parse(e.data);\n          }
+  catch (err) {\n            return;\n          }\n          if (eventData.isInitClickTag)
+  {\n            if (eventData.clickTags) {\n              for (var i = 0; i < eventData.clickTags.length;
+  i++) {\n                var clkTag = eventData.clickTags[i];\n                window[clkTag.name]
+  = clkTag.url;\n              }\n            } else if (eventData.clickTag) {\n              window.clickTag
+  = eventData.clickTag;\n            }\n            relegateNavigation = eventData.relegateNavigation;\n
+  \         }\n        };\n\n        if (open.call) {\n          window.open = function(open)
+  {\n            return function(url, name, features) {\n              if (relegateNavigation
+  === 'parent') {\n                var message = {'clickTag': url, 'isPostClickTag':
+  true};\n                parent.postMessage(JSON.stringify(message), '*');\n              }
+  else {\n                var args = [url, name];\n                if (features) {\n
+  \                 args.push(features);\n                }\n                open.apply(window,
+  args);\n              }\n            };\n          }(window.open);\n        }\n\n
+  \       if (window.addEventListener) {\n          window.addEventListener(\n              'message',
+  handleClickTagMessage, false);\n        } else {\n          window.attachEvent('onmessage',
+  handleClickTagMessage);\n        }\n      })();\n    \n  </script></head>\n<body
+  style=\"margin:0;padding:0;\">\n\t<div id=\"Stage\" class=\"EDGE-146961040\" onclick=\"javascript:window.open(window.clickTag)\"
+  style=\"cursor: pointer;\">\n\t</div>\n</body>\n</html>"

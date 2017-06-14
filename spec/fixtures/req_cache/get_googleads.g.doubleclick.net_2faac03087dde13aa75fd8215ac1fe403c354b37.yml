@@ -1,0 +1,22 @@
+---
+:scope: 
+:url: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-5970402573859546&output=html&h=250&slotname=7354662042&adk=3349553507&adf=3279995813&w=300&ea=0&flash=0&url=http%3A%2F%2Fwww.rightmove.co.uk%2F&wgl=0&dt=1497385153025&bpp=9&bdt=2781&fdt=11&idt=40&shv=r20170607&cbv=r20170110&saldr=sa&correlator=5600508127233&frm=23&ga_vid=1465958275.1497385147&ga_sid=1497385147&ga_hid=760090597&ga_fc=1&pv=2&iag=15&icsg=2&nhd=2&dssz=2&mdo=0&mso=0&u_tz=60&u_his=1&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&adx=698&ady=758&biw=1024&bih=768&isw=300&ish=250&ifk=2658361825&eid=10593696%2C575144605%2C20040041%2C828064250%2C137237721&oid=3&loc=http%3A%2F%2Fwww.rightmove.co.uk%2Fproperty-to-rent%2Fproperty-60384643.html&rx=0&eae=2&fc=528&brdim=0%2C0%2C0%2C0%2C1024%2C0%2C0%2C0%2C300%2C250&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=u&pfx=0&fu=20&bc=1&ifi=1&dtd=60
+:body: ''
+:status: 200
+:method: get
+:headers:
+  P3P: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa
+    ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+  Timing-Allow-Origin: "*"
+  Content-Type: text/html; charset=UTF-8
+  X-Content-Type-Options: nosniff
+  Content-Encoding: gzip
+  Date: Tue, 13 Jun 2017 20:19:12 GMT
+  Server: cafe
+  Cache-Control: private
+  X-XSS-Protection: 1; mode=block
+  Alt-Svc: quic="googleads.g.doubleclick.net:443"; ma=2592000; v="38,37,36,35",quic=":443";
+    ma=2592000; v="38,37,36,35"
+  Connection: close
+  Transfer-Encoding: chunked
+:content: '<html><body style="background-color:transparent"></body></html>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            '

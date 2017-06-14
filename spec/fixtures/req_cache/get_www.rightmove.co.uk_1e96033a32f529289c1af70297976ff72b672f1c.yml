@@ -1,0 +1,20 @@
+---
+:scope: 3-bed house
+:url: http://www.rightmove.co.uk/ps/images/logging/timer.gif?p=/property-to-rent/property-60384643.html&t=4430&r=3458&rt=1497371980812434&trcid=b8efb275-4511-4797-b172-88c15e6be6cd&svr=1708&m=false&c=other
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Date: Tue, 13 Jun 2017 16:39:46 GMT
+  Server: Apache
+  Last-Modified: Fri, 02 Jun 2017 10:28:27 GMT
+  ETag: '"2b-550f79d22c8c0"'
+  Accept-Ranges: bytes
+  Content-Length: '43'
+  Cache-Control: max-age=0, no-store, no-cache
+  Expires: Tue, 13 Jun 2017 16:39:46 GMT
+  Access-Control-Allow-Headers: origin, x-requested-with, content-type, accept
+  Connection: close
+  Content-Type: image/gif
+:content: !binary |-
+  R0lGODlhAQABAIAAAP///////yH5BAUUAAEALAAAAAABAAEAAAICTAEAOw==

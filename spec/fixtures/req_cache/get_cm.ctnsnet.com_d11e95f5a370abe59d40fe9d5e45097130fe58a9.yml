@@ -1,0 +1,21 @@
+---
+:scope: 
+:url: http://cm.ctnsnet.com/int/cm?exc=14&redir=http://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTMxMDcmdGw9NDMyMDA=&piggybackCookie=uid:[user_id]
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Server: Apache-Coyote/1.1
+  P3P: CP="NOI DSP COR NID CUR OUR NOR"
+  Set-Cookie:
+  - opt=0; path=/; domain=.ctnsnet.com; expires=Thu, 14-Jun-2018 09:02:09 GMT;
+  - cid_aab86e8c30d842288d4eba8f5cd4a2c5=1; path=/; domain=.ctnsnet.com; expires=Thu,
+    14-Jun-2018 09:02:09 GMT;
+  Pragma: no-cache
+  Cache-Control: private, no-cache, no-store, max-age=0
+  Content-Type: image/gif
+  Content-Length: '43'
+  Date: Wed, 14 Jun 2017 09:02:08 GMT
+  Connection: close
+:content: !binary |-
+  R0lGODlhAQABAIAAANvf7wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==

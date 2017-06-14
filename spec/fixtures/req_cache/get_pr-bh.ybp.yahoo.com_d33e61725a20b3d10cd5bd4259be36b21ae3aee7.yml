@@ -1,0 +1,18 @@
+---
+:scope: 
+:url: http://pr-bh.ybp.yahoo.com/sync/pubmatic/235FB5B7-A586-4CFD-8849-F23945ECCE96
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Set-Cookie: B=6rbpvplck0khl&b=3&s=he;Path=/;Domain=.yahoo.com;Expires=Thu, 13-Jun-2019
+    20:59:33 GMT
+  Expires: Thu, 01 Jan 1970 00:00:00 GMT
+  Content-Type: image/gif
+  Content-Length: '43'
+  Date: Tue, 13 Jun 2017 20:59:33 GMT
+  Age: '0'
+  Connection: close
+  Server: ATS
+:content: !binary |-
+  R0lGODlhAQABAIAAAMzMzP///yH5BAUUAAAALAAAAAABAAEAAAICRAEAOw==

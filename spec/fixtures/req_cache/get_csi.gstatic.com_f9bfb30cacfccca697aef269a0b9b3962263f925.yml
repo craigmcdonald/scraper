@@ -1,0 +1,18 @@
+---
+:scope: 
+:url: http://csi.gstatic.com/csi?v=3&s=gpt&action=global&it=pubads_load_period.1&vrg=121&pl_id=864890686275584&e=v121,page_load,n5029762,publisher_ads,non-sra,fif,108809080,108809144,108809103,21060199,21060164,21060510&rt=loader_loaded_instant_nw.484,page_load_time_nw.499,impl_loaded_instant.1607
+:body: ''
+:status: 204
+:method: get
+:headers:
+  Access-Control-Allow-Origin: "*"
+  Date: Wed, 14 Jun 2017 11:36:54 GMT
+  Pragma: no-cache
+  Expires: Fri, 01 Jan 1990 00:00:00 GMT
+  Cache-Control: no-cache, no-store, must-revalidate
+  Last-Modified: Wed, 21 Jan 2004 19:51:30 GMT
+  Content-Type: image/gif
+  Server: Golfe2
+  Content-Length: '0'
+  Connection: close
+:content: ''

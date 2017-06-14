@@ -1,0 +1,19 @@
+---
+:scope: 
+:url: http://pixel.tapad.com/idsync/ex/push/check?partner_id=2499&partner_device_id=7cd8a9f8-200e-4df5-880c-ccc252863a55&partner_url=http%3A%2F%2Fimage2.pubmatic.com%2FAdServer%2FPug%3Fvcode%3Dbz0yJnR5cGU9MSZqcz0xJmNvZGU9MTk2OSZ0bD0yNTkyMDA%3D%26piggybackCookie%3D7cd8a9f8-200e-4df5-880c-ccc252863a55
+:body: ''
+:status: 302
+:method: get
+:headers:
+  Server: nginx/1.11.3
+  Date: Wed, 14 Jun 2017 09:02:11 GMT
+  Transfer-Encoding: chunked
+  Connection: close
+  P3P: policyref="http://tapad-taptags.s3.amazonaws.com/policy/p3p.xml", CP="NOI DSP
+    COR ADM PSAo PSDo OURo SAMo UNRo OTRo BUS COM NAV DEM STA PRE"
+  Set-Cookie:
+  - TapAd_TS=1497430931041;Expires=Sun, 13 Aug 2017 09:02:11 GMT;Path=/;Domain=.tapad.com
+  - TapAd_DID=26b56d11-50e0-11e7-8f31-005056a24356;Expires=Sun, 13 Aug 2017 09:02:11
+    GMT;Path=/;Domain=.tapad.com
+  Location: http://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZqcz0xJmNvZGU9MTk2OSZ0bD0yNTkyMDA=&piggybackCookie=7cd8a9f8-200e-4df5-880c-ccc252863a55
+:content: ''

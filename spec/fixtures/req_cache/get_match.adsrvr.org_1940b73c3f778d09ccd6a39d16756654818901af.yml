@@ -1,0 +1,23 @@
+---
+:scope: 
+:url: http://match.adsrvr.org/track/cmb/generic?ttd_pid=pubmatic
+:body: ''
+:status: 302
+:method: get
+:headers:
+  Cache-Control: private,no-cache, must-revalidate
+  Content-Type: text/html
+  Date: Wed, 14 Jun 2017 09:02:09 GMT
+  Location: http://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI4NDkmdGw9MTI5NjAw&piggybackCookie=3faac1e2-f78e-4d32-8a48-363c374fe6ef
+  P3P: CP="NOI DSP COR CUR ADMo DEVo PSAo PSDo OUR SAMo BUS UNI NAV"
+  Pragma: no-cache
+  Server: Microsoft-IIS/8.5
+  Set-Cookie:
+  - TDID=3faac1e2-f78e-4d32-8a48-363c374fe6ef; domain=.adsrvr.org; expires=Thu, 14-Jun-2018
+    09:02:10 GMT; path=/
+  - TDCPM=CAESFwoIcHVibWF0aWMSCwjUz92rwsOZNRAFGAUgASgCMgsIvuCf5NjDmTUQBTgB; domain=.adsrvr.org;
+    expires=Thu, 14-Jun-2018 09:02:10 GMT; path=/
+  X-AspNet-Version: 4.0.30319
+  Content-Length: '309'
+  Connection: close
+:content: 'Redirecting to: <a href="http://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI4NDkmdGw9MTI5NjAw&piggybackCookie=3faac1e2-f78e-4d32-8a48-363c374fe6ef">http://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI4NDkmdGw9MTI5NjAw&piggybackCookie=3faac1e2-f78e-4d32-8a48-363c374fe6ef</a>'

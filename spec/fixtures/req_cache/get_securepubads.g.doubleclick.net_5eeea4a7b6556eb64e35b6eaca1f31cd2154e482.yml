@@ -1,0 +1,20 @@
+---
+:scope: 
+:url: https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjst6a49xN4P2fBXcGifTy3QiaUl8Nfxu_NynqShYOQRGBwLLAjXupN87hCNHqT_EC2K27YkKCX_a07zU9ALERw521RfzmNs4sQ7l3GBcsWlVbDe61hSz8L__i6Vqy-eQDeT8bMqeuzvxpF8WGTSZbkDERWt_DeUEovG7_C2p5yGKvbWDENeKPuOsx_uaAlxcmXYyT30crCOZA1U82_8bjh_vzkjc3wXxFZkFAnT1isPrJ-5tTEfjgDFEoscsMFzH6k9r9YJXKraj1yaqBqe7mVEgk796dLMZrKRBqxg&sig=Cg0ArKJSzGP9gnbSVNOPEAE&urlfix=1&adurl=
+:body: ''
+:status: 200
+:method: get
+:headers:
+  P3P: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa
+    ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+  Timing-Allow-Origin: "*"
+  Cache-Control: private
+  Content-Type: text/html; charset=UTF-8
+  X-Content-Type-Options: nosniff
+  Date: Tue, 13 Jun 2017 20:19:12 GMT
+  Server: cafe
+  Content-Length: '0'
+  X-XSS-Protection: 1; mode=block
+  Alt-Svc: quic=":443"; ma=2592000; v="38,37,36,35"
+  Connection: close
+:content: ''

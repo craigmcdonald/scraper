@@ -1,0 +1,18 @@
+---
+:scope: 
+:url: https://sync.adaptv.advertising.com/sync?type=gif&key=invitemedianewyork2&uid=CAESEA25EzTwprvRSjoNEyX1jN8&google_cver=1
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Content-Type: image/gif
+  Server: ribs2.0
+  Set-Cookie:
+  - rtbData0="key=pubmatic-55:value=09326673-6A0D-4BAF-B7D4-01D343B9F850:expiresAt=1499977152,key=invitemedianewyork2:value=CAESEA25EzTwprvRSjoNEyX1jN8:expiresAt=1505161157,ver=2";Path=/;Domain=.adaptv.advertising.com;Expires=Thu,
+    13-Jun-2019 20:19:17 GMT
+  - APID=VB90b893ec-5075-11e7-84d7-0a5be3fc79ff; Max-Age=31622400; Expires=Thu, 14-Jun-2018
+    20:19:17 GMT; Domain=.advertising.com; Path=/; Version=1
+  Content-Length: '42'
+  Connection: close
+:content: !binary |-
+  R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7

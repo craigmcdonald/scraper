@@ -1,0 +1,20 @@
+---
+:scope: 3-bed house
+:url: http://platform.twitter.com/oct.js
+:body: ''
+:status: 302
+:method: get
+:headers:
+  Retry-After: '0'
+  Location: https://static.ads-twitter.com/oct.js
+  Content-Length: '0'
+  Accept-Ranges: bytes
+  Date: Tue, 13 Jun 2017 16:39:47 GMT
+  Via: 1.1 varnish
+  Connection: close
+  X-Served-By: mtc-tw-lon2-cr1-8-TWLON2
+  X-Cache: HIT
+  P3P: CP="CAO DSP LAW CURa ADMa DEVa TAIa PSAa PSDa IVAa IVDa OUR BUS IND UNI COM
+    NAV INT"
+  Vary: ''
+:content: ''

@@ -1,0 +1,22 @@
+---
+:scope: 
+:url: http://pixel.sitescout.com/dmp/pixelSync?network=Pubmatic
+:body: ''
+:status: 302
+:method: get
+:headers:
+  Cache-Control: max-age=0,no-cache,no-store
+  Pragma: no-cache
+  Expires: Tue, 11 Oct 1977 12:34:56 GMT
+  P3P: CP="NON DEVa PSAa PSDa OUR NOR NAV",policyref="/w3c/p3p.xml"
+  Set-Cookie:
+  - ssi=7cd8a9f8-200e-4df5-880c-ccc252863a55; Domain=.sitescout.com; Expires=Thu,
+    14-Jun-2018 09:02:09 GMT; Path=/
+  - _ssum=eyI0IjoxNDk3NDMwOTI5MzYzLCI3IjoxNDk3NDMwOTI5MzYzfQ; Domain=.sitescout.com;
+    Expires=Fri, 14-Jul-2017 09:02:09 GMT; Path=/
+  Location: http://dpm.demdex.net/ibs:dpid=82530&dpuuid=7cd8a9f8-200e-4df5-880c-ccc252863a55&redir=http%3A%2F%2Fpixel.tapad.com%2Fidsync%2Fex%2Fpush%3Fpartner_id%3D2499%26partner_device_id%3D7cd8a9f8-200e-4df5-880c-ccc252863a55%26partner_url%3Dhttp%253A%252F%252Fimage2.pubmatic.com%252FAdServer%252FPug%253Fvcode%253Dbz0yJnR5cGU9MSZqcz0xJmNvZGU9MTk2OSZ0bD0yNTkyMDA%253D%2526piggybackCookie%253D7cd8a9f8-200e-4df5-880c-ccc252863a55
+  Content-Length: '0'
+  Date: Wed, 14 Jun 2017 09:02:08 GMT
+  Connection: close
+  Server: AC1.1
+:content: ''

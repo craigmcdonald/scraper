@@ -1,0 +1,33 @@
+---
+:scope: 
+:url: http://www.rightmove.co.uk/ps/images17153/maps/icons/rmpin.png
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Server: Apache
+  Last-Modified: Fri, 02 Jun 2017 10:28:28 GMT
+  ETag: '"1f0-550f79d320b00"'
+  Accept-Ranges: bytes
+  Cache-Control: max-age=2592000
+  Access-Control-Allow-Headers: origin, x-requested-with, content-type, accept
+  Keep-Alive: timeout=15, max=99
+  Content-Type: image/png
+  Connection: close
+  Date: Tue, 13 Jun 2017 20:18:59 GMT
+  Expires: Thu, 13 Jul 2017 20:18:21 GMT
+  Age: '38     '
+  Content-Length: '496'
+:content: !binary |-
+  iVBORw0KGgoAAAANSUhEUgAAABgAAAAeCAMAAAAB8C7XAAAAilBMVEUAAAD/
+  ////////////////////////////////////////////////////////////
+  //////////////////////////9TU18yMkJDQ1E3N0ZPT1y6ur9zc33///+n
+  p618fIZgYGyrq7Hj4+WdnaReXmm0tLnb296fn6Z5eYPBwcXAwMWzs7impqz0
+  fqniAAAAF3RSTlMAxGYogvgGFO/r08Gy4teghlw1JQGEGHfGS50AAAD+SURB
+  VCjPdZHrmoIgEIaHAPPUuV1SRETTag/3f3uL87AhZu8f4R1mPkVwUEbiuo4J
+  ozCF5p1ueiH6Rnf5pLTiV/HkylfgYJUSE1TF3PnKiABTYQ/lSsxQfMzJ3fyi
+  vFzKwuXktqHDpbR6pJS47SgwjSv0WMGtZkAanGNVISU+hKUhEPfY4EThWvoY
+  amy1JyVG2QWK+n0hMUujTALZcnj25nV/P+B4W/rA2xEgVa9XorZ4ueIFvN5o
+  85j7xyYCy+FrXvg+wMiZ3EN/J2dATlyFv+mE2uf75Ce7H++HHXgi0v77lkQw
+  Yb3VzqdrCPhM29D7nmwwZsi89zn7JNn7+X+DojFp1wVevgAAAABJRU5ErkJg
+  gg==

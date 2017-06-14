@@ -1,0 +1,25 @@
+---
+:scope: 
+:url: http://match.basebanner.com/match?http://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTMxNjAmdGw9MTI5NjAw&piggybackCookie=uid:$UID&excid=23&cijs=0
+:body: ''
+:status: 302
+:method: get
+:headers:
+  Server: nginx/1.9.12
+  Access-Control-Allow-Headers: X-Requested-With, X-Prototype-Version, Content-Type,
+    Origin, Allow
+  P3P: policyref="http://null/w3c/p3p.xml", CP="NOI IDC DSP COR CURa ADMa OUR IND
+    COM STA NOR UNI"
+  Set-Cookie: cicouid=$$$$$$$$$$$$$$$$-4840317078740705188V2C9ptdxVoJjiQ0YVrD2sw;
+    Domain=basebanner.com; Expires=Thu, 14-Jun-2018 09:02:09 GMT; Path=/
+  Location: http://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTMxNjAmdGw9MTI5NjAw&piggybackCookie=uid:-4840317078740705188&excid=23&cijs=0
+  Content-Length: '0'
+  Accept-Ranges: bytes
+  Date: Wed, 14 Jun 2017 09:02:09 GMT
+  Via: 1.1 varnish
+  Connection: close
+  X-Served-By: cache-lhr6324-LHR
+  X-Cache: MISS
+  X-Cache-Hits: '0'
+  X-Timer: S1497430929.217793,VS0,VE9
+:content: ''

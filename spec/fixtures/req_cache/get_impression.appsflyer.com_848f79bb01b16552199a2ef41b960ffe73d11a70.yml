@@ -1,0 +1,13 @@
+---
+:scope: 
+:url: https://impression.appsflyer.com/com.rbs.mobile.android.rbs?pid=doubleclick_int&af_viewthrough_lookback=2d&af_siteid=$%7BUNIVERSAL_SITE_ID%7D&af_ad_id=$%7BCREATIVE_ID%7D&c=$%7BCAMPAIGN_ID)&af_c_id=$%7BCAMPAIGN_ID%7D
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Content-Type: text/html; charset=utf-8
+  Date: Tue, 13 Jun 2017 20:19:16 GMT
+  Strict-Transport-Security: max-age=31536000; includeSubDomains
+  Content-Length: '2'
+  Connection: close
+:content: ok

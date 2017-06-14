@@ -1,0 +1,28 @@
+---
+:scope: 
+:url: http://t.co/i/adsct?p_id=Twitter&p_user_id=0&txn_id=l4g89&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0
+:body: ''
+:status: 200
+:method: get
+:headers:
+  cache-control: no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+  connection: close
+  content-encoding: gzip
+  content-length: '65'
+  content-type: image/gif;charset=utf-8
+  date: Tue, 13 Jun 2017 20:19:02 GMT
+  expires: Tue, 31 Mar 1981 05:00:00 GMT
+  last-modified: Tue, 13 Jun 2017 20:19:02 GMT
+  pragma: no-cache
+  server: tsa_f
+  status: 200 OK
+  x-connection-hash: 2d4b968460854c7bd424fe07e9649315
+  x-content-type-options: nosniff
+  x-frame-options: SAMEORIGIN
+  x-response-time: '102'
+  x-transaction: 00f6f206000495d5
+  x-twitter-response-tags: BouncerCompliant
+  x-xss-protection: 1; mode=block
+  Connection: close
+:content: !binary |-
+  R0lGODlhAQABAIAAAP///wAAACH5BAkAAAEALAAAAAABAAEAAAICTAEAOw==

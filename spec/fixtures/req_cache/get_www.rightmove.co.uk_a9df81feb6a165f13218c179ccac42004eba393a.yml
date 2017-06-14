@@ -1,0 +1,31 @@
+---
+:scope: 3-bed house
+:url: http://www.rightmove.co.uk/ps/images/header/signedin.png
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Server: Apache
+  Last-Modified: Fri, 02 Jun 2017 10:28:13 GMT
+  ETag: '"1b3-550f79c4d2940"'
+  Accept-Ranges: bytes
+  Cache-Control: max-age=2592000
+  Access-Control-Allow-Headers: origin, x-requested-with, content-type, accept
+  Keep-Alive: timeout=15, max=100
+  Content-Type: image/png
+  Connection: close
+  Date: Tue, 13 Jun 2017 16:39:45 GMT
+  Expires: Thu, 13 Jul 2017 15:42:59 GMT
+  Age: '3406   '
+  Content-Length: '435'
+:content: !binary |-
+  iVBORw0KGgoAAAANSUhEUgAAABYAAAAkCAYAAACNBsqdAAAAGXRFWHRTb2Z0
+  d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAVVJREFUeNpiZMADgoPjFYBU
+  PhAbALEDVPgAEF8A4olr1y58gEsvIx5D+4FUAQN+MAFoeCHRBgMNPQ91JTHg
+  AtBwQ3RBZhwuDWAgHkhoaRkIXL9+cSdOF0PD9D4DeUAROcyZ0CTrGcgHKHrR
+  DXagwGAHfAYrUGCwAj6DqQboZvADCsx6gM/gAxQYfACfwY0UGNyIM+cBc88H
+  YC5iJCPZNQIzxwa8WRpo+AGg4QoklBULsBVEzNhUAg3fCHU5yHAOHAZ+AOJO
+  kko3pLJDAEglALE/mtRGqEs/MAwbwEhIATA4QGWzPVJkgqqlg+ipgJSqKQFa
+  FCrgyWmgZLaAKIOJMJAoCxjRvNxPQdEJsqAQFkTMSK5cDsQCFMQXSG8EMP0/
+  BOaDC4xAQ0HZdz+VE4UjE4X1HM76j4nCeg5n/Tf0q6ZRg4eYwQdoYO4BkMGF
+  FDZUsBZGAAEGAHSRZXasi6u8AAAAAElFTkSuQmCC

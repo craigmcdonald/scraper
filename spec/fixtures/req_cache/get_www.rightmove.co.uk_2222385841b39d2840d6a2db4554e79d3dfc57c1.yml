@@ -1,0 +1,20 @@
+---
+:scope: 
+:url: http://www.rightmove.co.uk/ps/images/analytics/page_view.gif?type=page&p=%2Fproperty-to-rent%2Fproperty-60384643.html&pcid=170613ROVEWIGL03TGDCDND4HNJAXABZ&c=LettingsPropertyDetailsController&ref=none&suid=none&mob=false&ckse=true&cksp=TT&mvt=none&mvts=false&dat=lon%3D-4.3342802016646225%7Cpst%3D22%7Caer%3D1%7Cbed%3D3%7Cnph%3D14%7Clft%3D0%7Caed%3D2017-06-09-14-37-49%7Cau%3Dfalse%7Cpd%3Dfalse%7Cprc%3D1160%7Cpt%3D1%7Cst%3D1%7Cpq%3D0%7Clat%3D55.892151218585234%7Cfp%3Dfalse%7Cchannel%3Drenting%7CpropertyId%3D60384643%7CbranchId%3D51237%7CvideoType%3Dnone%7Ccdseg%3Dnone&evt=property-details&ga=renting%2Fpropertydetails&emb=false&jsid=123d47b7-3d4f-461b-a882-1507b1bc14ea&rc=none&dt=desktop&w=1024&h=768&tcid=c7aab13f-e5b2-4a04-80b3-5ac76ab566ea&uts=1497372474607&sts=1497371980938&svr=1708&ut=none&seg=undefined&rp=property-details&rpb=property-details%3Eproperty-details
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Date: Tue, 13 Jun 2017 16:47:55 GMT
+  Server: Apache
+  Last-Modified: Fri, 02 Jun 2017 10:27:56 GMT
+  ETag: '"2b-550f79b49c300"'
+  Accept-Ranges: bytes
+  Content-Length: '43'
+  Cache-Control: max-age=0, no-store, no-cache
+  Expires: Tue, 13 Jun 2017 16:47:55 GMT
+  Access-Control-Allow-Headers: origin, x-requested-with, content-type, accept
+  Connection: close
+  Content-Type: image/gif
+:content: !binary |-
+  R0lGODlhAQABAIAAAP///////yH5BAUUAAEALAAAAAABAAEAAAICTAEAOw==

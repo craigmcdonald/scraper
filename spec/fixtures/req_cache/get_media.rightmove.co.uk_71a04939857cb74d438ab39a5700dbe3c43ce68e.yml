@@ -1,0 +1,34 @@
+---
+:scope: 3-bed house
+:url: http://media.rightmove.co.uk/qr/www.rightmove.co.uk/s2p_60384643_s/QR_51237_REF_000339258.png
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Content-Disposition: attachment
+  Content-Type: text/plain
+  Cache-Control: max-age=7900000
+  Via:
+  - 1.1 varnish
+  - 1.1 varnish
+  Fastly-Debug-Digest: 6069499f358a8ee5b28cbbac0bd8a8ac34f4cf7e2408bb3de3b6c7f0a523acf6
+  Content-Length: '407'
+  Accept-Ranges: bytes
+  Date: Tue, 13 Jun 2017 16:39:45 GMT
+  Age: '355121'
+  Connection: close
+  X-Served-By: cache-bma7028-BMA, cache-lhr6340-LHR
+  X-Cache: MISS, HIT
+  X-Cache-Hits: 0, 1
+  X-Timer: S1497371986.935424,VS0,VE0
+:content: !binary |-
+  iVBORw0KGgoAAAANSUhEUgAAAGIAAABiAQMAAACRa5RNAAAABlBMVEX///8A
+  AABVwtN+AAABTElEQVQ4jb3TMYouMQgAYCGtkKsIaQO5upBW8CqCreDLy+7C
+  P+vUKwzD10SjEeCvI4OHGG1NLmIE36COUKUCmRSM8SZ2wvR3jWDSLS9inPo/
+  uUBVhtz4qfNTJzoPnvxzqQ9hmIubE3FREopOPh8UNW2nOKGOXKTncJVO+2b4
+  JbRTk5LcDE/BMEzai1uVKTSLuRirNmwx7jMaFFH2bUu03y49xSYxY/DCquyy
+  ZSwLr1ICgVPyHlDkwtbTQaxKmgA2tFAu8ukdUQhalcCikyZIXiQYNFr0XmUs
+  U08GvZ14CmLDvI+ryiGQDWd+1fKQaFtK6OPe9qnpzpFr0+3gL008m+M2VpV4
+  dFpz466a6kukQXLVmXUb3k/rqzJojTbP3KoY8/xzsVWpbPAz0fQ3tbNx1OlV
+  NmensaOKsY0YMPR26akMPA82x/7e20/9bfwDjRDgEMN+rngAAAAASUVORK5C
+  YII=

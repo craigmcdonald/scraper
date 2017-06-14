@@ -1,0 +1,19 @@
+---
+:scope: 3-bed house
+:url: http://sync.mathtag.com/sync/img?mt_exid=3&redir=http%3A%2F%2Fimage4.pubmatic.com%2FAdServer%2FSPug%3FpartnerID%3D27%26partnerUID%3D%5BMM_UUID%5D&mm_bnc&mm_bct
+:body: ''
+:status: 302
+:method: get
+:headers:
+  Date: Tue, 13 Jun 2017 17:08:18 GMT
+  Content-Type: image/gif
+  Content-Length: '0'
+  Connection: close
+  Cache-Control: no-cache
+  location: http://image4.pubmatic.com/AdServer/SPug?partnerID=27&partnerUID=d2625940-1c02-4d00-9b0b-6162a5b17845
+  P3P: CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"
+  Server: MT3 1.15.7.0 2e0cad3 RELEASE zrh-pixel-x5
+  Set-Cookie: uuidc=5SUfgSrWWW+9QC8DV0MqReBay/tpOSvUJBnkHPr4KNRwQivLcDw74mW4AOm+LWGFBfMIgKmu/JaHEWIumlCXQi8qhBK5t5KhZKGAGrVumeE=;
+    Expires=Wed, 11-Jul-18 17:08:18 GMT; Domain=.mathtag.com; Path=/
+  Expires: Tue, 13 Jun 2017 17:08:17 GMT
+:content: ''

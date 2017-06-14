@@ -1,0 +1,19 @@
+---
+:scope: 
+:url: http://p.rfihub.com/cm?in=1&pub=224&getuid=http://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTMwNzYmdGw9MTI5NjAw&piggybackCookie=uid:$UID
+:body: ''
+:status: 302
+:method: get
+:headers:
+  P3P: CP="NOI CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT"
+  Set-Cookie:
+  - ruds=H4sIAAAAAAAAAOMSNjQwAUJDC0tTSwMLc1NzYwNjIT5D3aCIqvCMgOJCQyevKgDdCFlMJQAAAA;Path=/;Domain=.rfihub.com
+  - rud=H4sIAAAAAAAAAOMSNjQwAUJDC0tTSwMLc1NzYwNjIT5D3aCIqvCMgOJCQyevKileQxNLcxNjA0sjCwtDIwByFLbaNAAAAA;Path=/;Domain=.rfihub.com;Expires=Mon,
+    09-Jul-2018 09:02:08 GMT
+  - eud=H4sIAAAAAAAAANvEyGtoYmluYmxgaWRhYWgEAF5XMuUQAAAA;Path=/;Domain=.rfihub.com;Expires=Mon,
+    09-Jul-2018 09:02:08 GMT
+  Expires: Thu, 01 Jan 1970 00:00:00 GMT
+  Location: http://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTMwNzYmdGw9MTI5NjAw&r=
+  Content-Length: '0'
+  Connection: close
+:content: ''

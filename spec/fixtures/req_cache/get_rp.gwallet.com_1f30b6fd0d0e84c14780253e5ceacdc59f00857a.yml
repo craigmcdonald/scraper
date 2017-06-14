@@ -1,0 +1,20 @@
+---
+:scope: 
+:url: http://rp.gwallet.com/r1/cm/p41
+:body: ''
+:status: 302
+:method: get
+:headers:
+  Content-Length: '0'
+  Server: radiumone/1.4.2
+  Pragma: no-cache
+  P3p: CP="PSAo PSDo OUR BUS DSP NON COR"
+  Content-type: application/octet-stream
+  Expires: Tue, 29 Oct 2002 19:50:44 GMT
+  Set-cookie: ra1_uid=5784249702369259968; Expires=Thu, 14-Jun-2018 09:02:09 GMT;
+    Path=/; Domain=gwallet.com; Version=1
+  Cache-control: private, no-cache, no-cache=Set-Cookie, proxy-revalidate
+  Location: http://rp.gwallet.com/r1/cm/p41?check_uid_cookie
+  connection: close
+  Connection: close
+:content: ''

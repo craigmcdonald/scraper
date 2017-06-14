@@ -1,0 +1,20 @@
+---
+:scope: 
+:url: http://www.rightmove.co.uk/ps/images/logging/timer.gif?p=/property-to-rent/property-60384643.html&t=1146&r=201&rt=1497385131235784&trcid=050ac2c0-612e-4d2f-867c-5de106207349&svr=1713&m=false&c=other
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Date: Tue, 13 Jun 2017 20:35:29 GMT
+  Server: Apache
+  Last-Modified: Fri, 02 Jun 2017 10:28:27 GMT
+  ETag: '"2b-550f79d22c8c0"'
+  Accept-Ranges: bytes
+  Content-Length: '43'
+  Cache-Control: max-age=0, no-store, no-cache
+  Expires: Tue, 13 Jun 2017 20:35:29 GMT
+  Access-Control-Allow-Headers: origin, x-requested-with, content-type, accept
+  Connection: close
+  Content-Type: image/gif
+:content: !binary |-
+  R0lGODlhAQABAIAAAP///////yH5BAUUAAEALAAAAAABAAEAAAICTAEAOw==

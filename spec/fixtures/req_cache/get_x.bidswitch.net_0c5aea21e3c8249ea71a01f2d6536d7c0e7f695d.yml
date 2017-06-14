@@ -1,0 +1,15 @@
+---
+:scope: 
+:url: http://x.bidswitch.net/sync?dsp_id=26&expires=14&user_id=c3bb5a0c-9ebb-4206-ab86-3c2499e78592&ssp=pubmatic
+:body: ''
+:status: 302
+:method: get
+:headers:
+  Server: nginx/1.7.10
+  Date: Wed, 14 Jun 2017 09:02:11 GMT
+  Content-Length: '0'
+  Connection: close
+  Cache-Control: no-cache, no-store, must-revalidate
+  Location: "//simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZqcz0xJmNvZGU9Mjk0NSZ0bD0xMjk2MDA=&piggybackCookie=203b3a48-33c8-43fa-a614-224345f435de"
+  P3P: CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"
+:content: ''

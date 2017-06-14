@@ -1,0 +1,21 @@
+---
+:scope: 
+:url: http://cm.g.doubleclick.net/pixel?google_nid=pubmatic&google_cm&google_sc
+:body: ''
+:status: 302
+:method: get
+:headers:
+  P3P: policyref="http://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa
+    ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+  Location: http://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTIxNzcmdGw9MTI5NjAw&piggybackCookie=CAESEC5A7ZeEy_K8Mu5DWy_rWuo&google_cver=1
+  Date: Tue, 13 Jun 2017 20:19:05 GMT
+  Pragma: no-cache
+  Expires: Fri, 01 Jan 1990 00:00:00 GMT
+  Cache-Control: no-cache, must-revalidate
+  Content-Type: text/html; charset=UTF-8
+  Server: HTTP server (unknown)
+  Content-Length: '349'
+  X-XSS-Protection: 1; mode=block
+  Connection: close
+:content: "<HTML><HEAD><meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<TITLE>302
+  Moved</TITLE></HEAD><BODY>\n<H1>302 Moved</H1>\nThe document has moved\n<A HREF=\"http://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTIxNzcmdGw9MTI5NjAw&amp;piggybackCookie=CAESEC5A7ZeEy_K8Mu5DWy_rWuo&amp;google_cver=1\">here</A>.\r\n</BODY></HTML>\r\n"

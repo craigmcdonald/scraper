@@ -1,0 +1,33 @@
+---
+:scope: 
+:url: https://s0.2mdn.net/3786589/1490888653672/images/NoCol.svg
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Accept-Ranges: bytes
+  Vary: Accept-Encoding
+  Content-Encoding: gzip
+  Content-Type: image/svg+xml
+  Access-Control-Allow-Origin: "*"
+  Content-Length: '597'
+  Date: Tue, 13 Jun 2017 09:28:28 GMT
+  Expires: Wed, 14 Jun 2017 09:28:28 GMT
+  Last-Modified: Thu, 30 Mar 2017 15:44:13 GMT
+  X-Content-Type-Options: nosniff
+  Server: sffe
+  X-XSS-Protection: 1; mode=block
+  Age: '39058'
+  Cache-Control: public, max-age=86400
+  Alt-Svc: quic=":443"; ma=2592000; v="38,37,36,35"
+  Connection: close
+:content: <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  viewBox="0 0 415.15 415.16"><defs><style>.cls-1{fill:#e7e6e6;}.cls-2{clip-path:url(#clip-path);}.cls-3{fill:none;}</style><clipPath
+  id="clip-path"><path class="cls-1" d="M65,312.34a14,14,0,0,0,3.1-18.42,162.91,162.91,0,0,1-24.51-86.34,165.86,165.86,0,0,1,2.67-29.64l-35.11-8a200.39,200.39,0,0,0,27,143.93,14,14,0,0,0,20.59,3.49Z"/></clipPath></defs><title>Asset
+  1</title><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer
+  1"><path class="cls-1" d="M65,312.34a14,14,0,0,0,3.1-18.42,162.91,162.91,0,0,1-24.51-86.34,165.86,165.86,0,0,1,2.67-29.64l-35.11-8a200.39,200.39,0,0,0,27,143.93,14,14,0,0,0,20.59,3.49Z"/><g
+  class="cls-2"><path class="cls-3" d="M126.44,16.6A207.43,207.43,0,0,0,2.85,241.72L212.24,204.2,111,391.3A207.52,207.52,0,1,0,126.44,16.6Z"/></g><path
+  class="cls-1" d="M207.57,7.58a199.29,199.29,0,0,0-80.43,16.85l15.61,32.42a164.95,164.95,0,0,1,129.64,0L288,24.43A199.29,199.29,0,0,0,207.57,7.58Z"/><path
+  class="cls-1" d="M371.57,207.58a162.91,162.91,0,0,1-24.51,86.34,14,14,0,0,0,3.1,18.42l6.27,5A14,14,0,0,0,377,313.85a200.39,200.39,0,0,0,27-143.93l-35.11,8A165.86,165.86,0,0,1,371.57,207.58Z"/><path
+  class="cls-1" d="M14.22,156.27l35.1,8A165,165,0,0,1,130.14,62.93L114.53,30.51A200.43,200.43,0,0,0,14.22,156.27Z"/><path
+  class="cls-1" d="M323.53,91.62a163.05,163.05,0,0,1,42.28,72.67l35.1-8A200.43,200.43,0,0,0,300.61,30.51L285,62.93A164.59,164.59,0,0,1,323.53,91.62Z"/></g></g></svg>

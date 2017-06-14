@@ -1,0 +1,29 @@
+---
+:scope: 
+:url: https://s0.2mdn.net/3786589/1490888653672/images/arrow.png
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Accept-Ranges: bytes
+  Content-Type: image/png
+  Access-Control-Allow-Origin: "*"
+  Content-Length: '281'
+  Date: Tue, 13 Jun 2017 08:56:25 GMT
+  Expires: Wed, 14 Jun 2017 08:56:25 GMT
+  Last-Modified: Thu, 30 Mar 2017 15:44:13 GMT
+  X-Content-Type-Options: nosniff
+  Server: sffe
+  X-XSS-Protection: 1; mode=block
+  Age: '41942'
+  Cache-Control: public, max-age=86400
+  Alt-Svc: quic=":443"; ma=2592000; v="38,37,36,35"
+  Connection: close
+:content: !binary |-
+  iVBORw0KGgoAAAANSUhEUgAAACAAAAAaCAMAAADhRa4NAAAARVBMVEUAAAD/
+  ////////////////////////////////////////////////////////////
+  //////////////////////////9SnXPCAAAAFnRSTlMAsvX38u4vpiQD+qKU
+  Pzcc6Nq2dwYeH4v7bgAAAG1JREFUKM+F0zcOgDAQRNHFAZMzc/+jgmgoEPun
+  s/Qkhx3bJ3u3zuYlS4srSpRy44BjI9FWLIKUak8UEtZHFEEKkycGFvEWo1ld
+  qp+E7hFJbpJlALgFHZKuSQ9FT03DonFTYahyVFqo/fku8eNcgjcMXiZNgAYA
+  AAAASUVORK5CYII=

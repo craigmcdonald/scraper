@@ -1,0 +1,23 @@
+---
+:scope: 
+:url: https://cm.g.doubleclick.net/pixel?google_nid=adaptv_dbm&google_cm&google_sc&google_dbm
+:body: ''
+:status: 302
+:method: get
+:headers:
+  P3P: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa
+    ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+  Location: https://sync.adap.tv/sync?type=gif&key=invitemedianewyork2&uid=CAESEA25EzTwprvRSjoNEyX1jN8&google_cver=1
+  Date: Tue, 13 Jun 2017 20:19:15 GMT
+  Pragma: no-cache
+  Expires: Fri, 01 Jan 1990 00:00:00 GMT
+  Cache-Control: no-cache, must-revalidate
+  Content-Type: text/html; charset=UTF-8
+  Server: HTTP server (unknown)
+  Content-Length: '313'
+  X-XSS-Protection: 1; mode=block
+  Alt-Svc: quic="googleads.g.doubleclick.net:443"; ma=2592000; v="38,37,36,35",quic=":443";
+    ma=2592000; v="38,37,36,35"
+  Connection: close
+:content: "<HTML><HEAD><meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<TITLE>302
+  Moved</TITLE></HEAD><BODY>\n<H1>302 Moved</H1>\nThe document has moved\n<A HREF=\"https://sync.adap.tv/sync?type=gif&amp;key=invitemedianewyork2&amp;uid=CAESEA25EzTwprvRSjoNEyX1jN8&amp;google_cver=1\">here</A>.\r\n</BODY></HTML>\r\n"

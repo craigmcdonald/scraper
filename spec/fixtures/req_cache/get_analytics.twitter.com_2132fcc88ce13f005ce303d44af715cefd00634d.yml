@@ -1,0 +1,40 @@
+---
+:scope: 3-bed house
+:url: https://analytics.twitter.com/i/adsct?p_id=Twitter&p_user_id=0&txn_id=l4g89&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels
+:body: ''
+:status: 200
+:method: get
+:headers:
+  cache-control: no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+  connection: close
+  content-encoding: gzip
+  content-type: application/javascript;charset=utf-8
+  date: Tue, 13 Jun 2017 16:39:48 GMT
+  expires: Tue, 31 Mar 1981 05:00:00 GMT
+  last-modified: Tue, 13 Jun 2017 16:39:48 GMT
+  p3p:
+  - CP="CAO DSP LAW CURa ADMa DEVa TAIa PSAa PSDa IVAa IVDa OUR BUS IND UNI COM NAV
+    INT"
+  - CP="CAO DSP LAW CURa ADMa DEVa TAIa PSAa PSDa IVAa IVDa OUR BUS IND UNI COM NAV
+    INT"
+  - CP="CAO DSP LAW CURa ADMa DEVa TAIa PSAa PSDa IVAa IVDa OUR BUS IND UNI COM NAV
+    INT"
+  pragma: no-cache
+  server: tsa_f
+  set-cookie:
+  - personalization_id="v1_66db1hLCeQaQZva/Tsw/ag=="; Expires=Thu, 13 Jun 2019 16:39:48
+    GMT; Path=/; Domain=.twitter.com
+  - guest_id=v1%3A149737198805135732; Domain=.twitter.com; Path=/; Expires=Thu, 13-Jun-2019
+    16:39:48 UTC
+  status: 200 OK
+  strict-transport-security: max-age=631138519
+  transfer-encoding: chunked
+  x-connection-hash: 97c9f87fa3100e88db3773fc021682cb
+  x-content-type-options: nosniff
+  x-frame-options: SAMEORIGIN
+  x-response-time: '106'
+  x-transaction: 00eec9cf006a5492
+  x-twitter-response-tags: BouncerCompliant
+  x-xss-protection: 1; mode=block
+  Connection: close
+:content: twttr.conversion.loadPixels({})

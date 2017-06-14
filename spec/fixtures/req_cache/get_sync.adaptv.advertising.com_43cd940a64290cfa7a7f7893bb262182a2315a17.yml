@@ -1,0 +1,18 @@
+---
+:scope: 
+:url: http://sync.adaptv.advertising.com/sync?type=gif&key=pubmatic-55&uid=243BEA06-9FD0-4002-8BA4-877444B7D354
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Content-Type: image/gif
+  Server: ribs2.0
+  Set-Cookie:
+  - rtbData0="key=pubmatic-55:value=243BEA06-9FD0-4002-8BA4-877444B7D354:expiresAt=1499978120,ver=2";Path=/;Domain=.adaptv.advertising.com;Expires=Thu,
+    13-Jun-2019 20:35:20 GMT
+  - APID=VBd1886c2e-5077-11e7-a682-0aaf72d08291; Max-Age=31622400; Expires=Thu, 14-Jun-2018
+    20:35:20 GMT; Domain=.advertising.com; Path=/; Version=1
+  Content-Length: '42'
+  Connection: close
+:content: !binary |-
+  R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7

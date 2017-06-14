@@ -1,0 +1,21 @@
+---
+:scope: 3-bed house
+:url: https://googleads4.g.doubleclick.net/pcs/view?xai=AKAOjssF6Gh4kYME7v4irMY4HEZ4GezwPjXsSpdtj7K6IIVlfmyYx49vr7NCTzvtrfQh5yQE9gz1mjgt8cCdMwYqpubqqmDODTWGW8cWIBFkUONZbLQ&sig=Cg0ArKJSzEGfYCScGmHJEAE&urlfix=1&adurl=
+:body: ''
+:status: 200
+:method: get
+:headers:
+  P3P: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa
+    ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+  Timing-Allow-Origin: "*"
+  Cache-Control: private
+  Content-Type: text/html; charset=UTF-8
+  X-Content-Type-Options: nosniff
+  Date: Tue, 13 Jun 2017 16:39:50 GMT
+  Server: cafe
+  Content-Length: '0'
+  X-XSS-Protection: 1; mode=block
+  Alt-Svc: quic="googleads.g.doubleclick.net:443"; ma=2592000; v="38,37,36,35",quic=":443";
+    ma=2592000; v="38,37,36,35"
+  Connection: close
+:content: ''

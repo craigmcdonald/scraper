@@ -1,0 +1,25 @@
+---
+:scope: 
+:url: https://rbs.demdex.net/event?d_event=imp&d_src=82105&d_adgroup=320653110&d_adsrc=4386786&d_campaign=11194836&d_creative=79175888&d_placement=149250049&d_site=1581117&d_bust=2601452661
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Cache-Control: no-cache,no-store,must-revalidate,max-age=0,proxy-revalidate,no-transform,private
+  Content-Type: image/gif
+  Date: Tue, 13 Jun 2017 20:19:21 GMT
+  DCS: irl1-prod-dcs-d2ba7912.edge-irl1.demdex.com 5.11.2.20170612092943 5ms
+  Expires: Thu, 01 Jan 2009 00:00:00 GMT
+  P3P: policyref="/w3c/p3p.xml", CP="NOI NID CURa ADMa DEVa PSAa PSDa OUR SAMa BUS
+    PUR COM NAV INT"
+  Pragma: no-cache
+  Set-Cookie:
+  - demdex=31210394287396130213925844989341030972;Path=/;Domain=.demdex.net;Expires=Sun,
+    10-Dec-2017 20:19:21 GMT
+  - rbs=31210394287396130213925844989341030972;Path=/;Domain=.rbs.demdex.net;Expires=Sun,
+    10-Dec-2017 20:19:21 GMT
+  X-TID: pBcECHFlSoY=
+  Content-Length: '42'
+  Connection: close
+:content: !binary |-
+  R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7

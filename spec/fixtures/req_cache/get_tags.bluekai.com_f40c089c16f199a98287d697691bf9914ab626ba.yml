@@ -1,0 +1,20 @@
+---
+:scope: 3-bed house
+:url: http://tags.bluekai.com/site/3096?dt=0&r=1586676699&sig=2510641703&bkca=KJpnEnsN1e50zUJp1+BNBMx0NpVhBn4D+E90B+jNz7SNzcxh1ExNze1Y9ngxYwz=
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Date: Tue, 13 Jun 2017 17:08:18 GMT
+  P3P: CP="NOI DSP COR CUR ADMo DEVo PSAo PSDo OUR SAMo BUS UNI NAV", policyref="http://tags.bluekai.com/w3c/p3p.xml"
+  Expires: Wed, 14 Jun 2017 17:08:18 GMT
+  Cache-Control: max-age=86400, private
+  Content-Length: '62'
+  Set-Cookie: bku=s9y999/zxaA5gIvS; expires=Sun, 10-Dec-2017 17:08:18 GMT; path=/;
+    domain=.bluekai.com
+  BK-Server: '277'
+  Content-Type: image/gif
+  Connection: close
+:content: !binary |-
+  R0lGODlhAQABAJAAAAAAAP///yH/C05FVFNDQVBFMi4wAwEAAAAh+QQJAAAB
+  ACwAAAAAAQABAAACAkwBADs=

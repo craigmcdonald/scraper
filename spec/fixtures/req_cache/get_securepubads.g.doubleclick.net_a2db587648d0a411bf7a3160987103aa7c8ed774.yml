@@ -1,0 +1,20 @@
+---
+:scope: 3-bed house
+:url: https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsvvBaqWVmhyGXZ5zjdJK_1VCjQOD4bsKl2OtAKHCgj4MAu6mwwBpbQnCZxy_czvTEtVjaj4t-Jr8BqGlrfv-kHYsApngXotpiLPZgehB_KwY-coH-Z-XwVxurrFD56BM_68_ZemuuyHwNeZSVY1a7vNSjmAYmLwgnwcoVr6sSBh7e4w3k-Hhx0UMzzVcYlQakUrAWofbLH4WETbtqpb17ogaLKvYNyjuUl1BNb2npyh-K7Z6U0SdwmikfbfPDe9H49T27Xq6YCfl-xwaw6vOCfPbvvUJGHRkEjXh7Q&sig=Cg0ArKJSzLNCGXISWYfkEAE&urlfix=1&adurl=
+:body: ''
+:status: 200
+:method: get
+:headers:
+  P3P: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa
+    ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+  Timing-Allow-Origin: "*"
+  Cache-Control: private
+  Content-Type: text/html; charset=UTF-8
+  X-Content-Type-Options: nosniff
+  Date: Tue, 13 Jun 2017 17:08:17 GMT
+  Server: cafe
+  Content-Length: '0'
+  X-XSS-Protection: 1; mode=block
+  Alt-Svc: quic=":443"; ma=2592000; v="38,37,36,35"
+  Connection: close
+:content: ''
