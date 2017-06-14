@@ -1,0 +1,21 @@
+---
+:scope: 
+:url: http://pagead2.googlesyndication.com/pagead/gen_204?id=sodar&v=14&t=2&bgai=BPjb3_aNBWYDICIbIxgKRyYlgAAAAADgB4AQC&bg=!ycqlytJE9KUDEbV2D0MCAAAAMFIAAAADmQFPat_uO-0icZX9LhDMWKuc-p2kxEnwCxgXat5Logt2RGFvRBoMK04r9Q9VGuFYlE0ehn0OilEmQ402wIF-zbzW1oVUJfueTp-CiB1yrDPXWMHXdOgJoOLBqXF7noAen8gn4DXmm5IGwG3K9E07J4nGE1YhZ_hFBoSowV5yb1MI5HZhxheeafpMlifUyirc0sgA8g9e5b-cUio5TSZTgYBjfVn6TOYkQnCoEQpqnovIGcdoHJ6Mixd2t-ecCWOQNb-X8p-H_JAFZRn0UIiqCqCGra5i-s2l3eXGZ9VP1FHn2YimzYS8lLayfVYdf4j_1vyWQGzfiCETKgUeTFQu2Sc5ovTZotcplwCmL2_QT3pWjt8qppDRXs3B1Nqd_b_GWtH9p0qdFdKOzT_CSy_7vyqhK_KbcRSE8EylSEXuzN5RFsYMp-83V2IbEUqbNfi7Ta0
+:body: ''
+:status: 204
+:method: get
+:headers:
+  P3P: policyref="http://www.googleadservices.com/pagead/p3p.xml", CP="NOI DEV PSA
+    PSD IVA IVD OTP OUR OTR IND OTC"
+  Timing-Allow-Origin: "*"
+  Date: Wed, 14 Jun 2017 21:00:45 GMT
+  Pragma: no-cache
+  Expires: Fri, 01 Jan 1990 00:00:00 GMT
+  Cache-Control: no-cache, must-revalidate
+  Content-Type: text/html; charset=UTF-8
+  X-Content-Type-Options: nosniff
+  Server: cafe
+  Content-Length: '0'
+  X-XSS-Protection: 1; mode=block
+  Connection: close
+:content: ''

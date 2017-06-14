@@ -1,11 +1,12 @@
 require 'simplecov'
 SimpleCov.start
-Dir["#{__dir__.gsub('spec','lib/*.rb')}"].each {|f| require f }
+Dir["#{__dir__.gsub('spec','lib/*.rb')}"].reverse.each {|f| require f }
 require "#{__dir__}/rails_logger.rb"
 Capybara.threadsafe = true
 Dotenv.load
 require 'billy/capybara/rspec'
 Capybara.javascript_driver = :poltergeist_billy
+require 'pry'
 
 RSpec.configure do |config|
   config.expect_with :rspec do |expectations|

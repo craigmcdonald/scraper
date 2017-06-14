@@ -1,0 +1,40 @@
+---
+:scope: 
+:url: http://4638770.fls.doubleclick.net/activityi;dc_pre=CMWk2ZGdvtQCFReYdwodMvcD7Q;src=4638770;type=count0;cat=right003;ord=1;num=6223552606534.213
+:body: ''
+:status: 200
+:method: get
+:headers:
+  P3P: policyref="http://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa
+    ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+  Timing-Allow-Origin: "*"
+  Date: Wed, 14 Jun 2017 20:58:59 GMT
+  Expires: Wed, 14 Jun 2017 20:58:59 GMT
+  Cache-Control: private, max-age=0
+  Strict-Transport-Security: max-age=21600
+  Content-Type: text/html; charset=UTF-8
+  X-Content-Type-Options: nosniff
+  Content-Encoding: gzip
+  Server: cafe
+  Content-Length: '812'
+  X-XSS-Protection: 1; mode=block
+  Set-Cookie: test_cookie=CheckForPermission; expires=Wed, 14-Jun-2017 21:13:59 GMT;
+    path=/; domain=.doubleclick.net
+  Connection: close
+:content: "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"><html><head><title></title></head><body
+  style=\"background-color: transparent\"><!-- Start Quantcast Tag -->\n<script type=\"text/javascript\">
+  \nvar _qevents = _qevents || [];\n\n(function() {\nvar elem = document.createElement('script');\nelem.src
+  = (document.location.protocol == \"https:\" ? \"https://secure\" : \"http://edge\")
+  + \".quantserve.com/quant.js\";\nelem.async = true;\nelem.type = \"text/javascript\";\nvar
+  scpt = document.getElementsByTagName('script')[0];\nscpt.parentNode.insertBefore(elem,
+  scpt);\n})();\n\n_qevents.push(\n{qacct:\"p-cMQdpDwFdWaPL\",labels:\"_fp.event.RightMove
+  Total Site Unique\"}\n);\n</script>\n<noscript>\n<img src=\"//pixel.quantserve.com/pixel/p-cMQdpDwFdWaPL.gif?labels=_fp.event.RightMove+Total+Site+Unique\"
+  style=\"display: none;\" border=\"0\" height=\"1\" width=\"1\" alt=\"Quantcast\"/>\n</noscript>\n<!--
+  End Quantcast tag --><script>(function() {\n  var _fbq = window._fbq || (window._fbq
+  = []);\n  if (!_fbq.loaded) {\n    var fbds = document.createElement('script');\n
+  \   fbds.async = true;\n    fbds.src = '//connect.facebook.net/en_US/fbds.js';\n
+  \   var s = document.getElementsByTagName('script')[0];\n    s.parentNode.insertBefore(fbds,
+  s);\n    _fbq.loaded = true;\n  }\n  _fbq.push(['addPixelId', '814637088573239']);\n})();\nwindow._fbq
+  = window._fbq || [];\nwindow._fbq.push(['track', 'PixelInitialized', {}]);\n</script>\n<noscript><img
+  height=\"1\" width=\"1\" alt=\"\" style=\"display:none\" src=\"https://www.facebook.com/tr?id=814637088573239&amp;ev=PixelInitialized\"
+  /></noscript></body></html>"
