@@ -64,7 +64,6 @@ class RightMoveScraper < Scraper
     @table_data[:deposit] = parse_row('Deposit:')
     @table_data[:furnishing] = parse_row('Furnishing:')
     @table_data[:available_from] = parse_row('Date available:')
-    @table_parsed = true
   end
 
   def parse_row(text)
