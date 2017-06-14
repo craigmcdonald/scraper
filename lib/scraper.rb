@@ -8,6 +8,7 @@ require 'celluloid/current'
 class Scraper
   include Capybara::DSL
   include Celluloid
+  include Shared::SnakeCase
 
   attr_accessor :page_loaded
 
@@ -26,20 +27,4 @@ class Scraper
     @session.visit @url
     @page_loaded = true
   end
-
-  private
-
-  def snakeize(str)
-    str.gsub(/(?<l>\B[A-Z])/,'_\k<l>').downcase.to_sym
-  end
-
-  def keys_to_snake_case(obj)
-    return obj unless obj.is_a?(Hash)
-    Hash[
-      obj.map do |k,v|
-        [snakeize(k), keys_to_snake_case(v)]
-      end
-    ]
-  end
-
 end

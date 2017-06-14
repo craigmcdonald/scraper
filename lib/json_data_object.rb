@@ -1,6 +1,7 @@
 require 'json'
 
 class JsonDataObject
+  include Shared::SnakeCase
 
   def initialize(str)
     @data = keys_to_snake_case(JSON.parse(str))
@@ -20,10 +21,6 @@ class JsonDataObject
 
   private
 
-  def snakeize(str)
-    str.gsub(/(?<l>\B[A-Z])/,'_\k<l>').downcase.to_sym
-  end
-
   def nested_keys(obj=@data)
     keys = []
     if obj.values.map { |v| v.is_a?(Hash) }.flatten.include?(true)
@@ -38,14 +35,4 @@ class JsonDataObject
     .map { |v| nested_value(key,v) }
     .flatten
   end
-
-  def keys_to_snake_case(obj)
-    return obj unless obj.is_a?(Hash)
-    Hash[
-      obj.map do |k,v|
-        [snakeize(k), keys_to_snake_case(v)]
-      end
-    ]
-  end
-
 end
