@@ -8,7 +8,6 @@ require 'celluloid/current'
 class Scraper
   include Capybara::DSL
   include Celluloid
-  include Shared::SnakeCase
 
   attr_accessor :page_loaded
 
@@ -27,4 +26,20 @@ class Scraper
     @session.visit @url
     @page_loaded = true
   end
+
+  def method_missing(meth, *args, &block)
+    super
+  end
+
+  def respond_to?(meth,include_all=false)
+    super
+  end
+
+  def set_up_methods(array=[])
+    array.each do |key|
+      define_singleton_method(key) { method_missing(key) }
+    end
+  end
+
+
 end

@@ -1,0 +1,50 @@
+---
+:scope: 
+:url: http://media.rightmove.co.uk/dir/company/clogo_rmchoice_34399_0003_max_100x50.jpeg
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Server: Apache
+  Access-Control-Allow-Headers: origin, x-requested-with, content-type, accept
+  Content-Type: image/jpeg
+  Cache-Control: max-age=7900000
+  Via:
+  - 1.1 varnish
+  - 1.1 varnish
+  Fastly-Debug-Digest: 00bc744a826303ba490f9a702ff67084031a5311e4308ba96147d5ac807fb9ce
+  Content-Length: '1086'
+  Accept-Ranges: bytes
+  Date: Fri, 16 Jun 2017 13:50:24 GMT
+  Age: '4305479'
+  Connection: close
+  X-Served-By: cache-bma7025-BMA, cache-lhr6331-LHR
+  X-Cache: HIT, HIT
+  X-Cache-Hits: 1, 1500
+  X-Timer: S1497621024.342756,VS0,VE0
+:content: !binary |-
+  /9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsL
+  DBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/
+  2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIy
+  MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAyAFMDASIAAhEBAxEB/8QA
+  GwABAAIDAQEAAAAAAAAAAAAAAAEEAgMGBQf/xAAtEAACAgIBAgUDBAIDAAAA
+  AAABAgADBBEFEiEGEzFBUSJTkiMyYXEUFkNigf/EABgBAAMBAQAAAAAAAAAA
+  AAAAAAIDBAEF/8QAIBEAAgMBAAICAwAAAAAAAAAAAAECAxESEyFBUSIyUv/a
+  AAwDAQACEQMRAD8A+ZyJMj1ndhDTuVVaRuNEzYqTMJKY1ouhQjT0mOkyx0Se
+  iHwhvhRW6TI7iWSkwKQXBAypRp3J3JZZiIidZHbThlEREckvB6XDJV/lrZZW
+  LCOvoVhsbCM2yPf0Had7x3hXJ5HicXNTPCNeAxQ0fSFNvl/u9N7O9TgOOtFT
+  JYwYorsHKjZUMjLvXx3nRDnctcfCoTkkSrDPVUqhgN9XVsjWidwbFJ/qO95+
+  Lw6PC8H5OXWHPIlQdgBMbrO/NNfoPbY3Mk8E5liY4HKL12Ogb9D6QGsKdm9z
+  td6+J5R8bcoLvMqzcSnsB010lVGmLntr3JO/mU/9lzhkYNy59KjB0aKgr9A0
+  SR9OtH1MVlv2Btv9IsVcTk2eGb+ZOXZqq1qgiUBh9PT3Lew+qeWLa2Whcfyk
+  yMh1Frhdn49NaA9D29Zdu57IzsOzA1xvlWubAqY5HQxABKnXb9onmW3rVclC
+  2p+gUeq7oPQ/bZ0QPY/PxGR796GpSx6zssjwPl4+a1D8rZ0LVZYdYu3PQyqd
+  KD3B6u39Slk+FMrBN9mZzCpj462tdYlXVrosVBoe5JYf1KVvjTmHua2vNw6W
+  YPvyaiv1MwZm9PUlRNA8U8iHO7sBqmFivS1JKMHYMwI18gH+IvLflk+2/Zcf
+  w1kLx/G5z8zXXRyLrXQz167l2B38AAA/+6niczhvg8tl8ZdZbaldTtu6jy22
+  ELAgd/ceu+4lp/EWfbiV4ll2BZi1hQlL0kovSzMNDX/Zh/XaUuU5C/Oubkc2
+  7H2KDjU1UqVGukqABr0AO9w4Ke+zY99eznIiJUUEhip2pIPyJl59w/5X/IzC
+  INc8MqtSN65Nv3X/ACMzGTb91/yMqSeoiVRkmXwtiWze7DRsYj+TC3Og+lyP
+  6Mq9ceZC6Q3yItnIt+6/5GYnJt+6/wCRlbrMx2TMckC7Im5sm37r/kZrLM52
+  zEn5JmOpMTOaI7bl8CIiT9EnZMREBCoiQYiOiUwIMREYORIiImMCQkxEQyaY
+  iIgCj//Z

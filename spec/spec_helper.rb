@@ -7,6 +7,7 @@ Dotenv.load
 require 'billy/capybara/rspec'
 Capybara.javascript_driver = :poltergeist_billy
 require 'pry'
+require "#{__dir__}/fixture_data.rb"
 
 RSpec.configure do |config|
   config.expect_with :rspec do |expectations|

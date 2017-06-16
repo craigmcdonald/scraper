@@ -1,0 +1,15 @@
+---
+:scope: 
+:url: https://sc.iasds01.com/dtc?ias_callback=__IntegralAS_d520a4dfa76b9363c24596f114d6ec4e_154&advEntityId=61284&asid=d520a4df-a76b-9363-c245-96f114d6ec4e&second_pass=1
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Server: nginx/1.4.7
+  Date: Fri, 16 Jun 2017 12:32:11 GMT
+  Content-Length: '0'
+  Connection: close
+  Set-Cookie: DMADT=zkVAGIqPQN+I9UCu8DQt1Q; Domain=.iasds01.com; Expires=Wed, 29-May-2019
+    12:32:10 GMT; Path=/
+  X-Server-Name: dt33ami.ami.303net.pvt
+:content: ''

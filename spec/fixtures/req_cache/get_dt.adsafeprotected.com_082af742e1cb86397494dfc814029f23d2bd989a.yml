@@ -1,0 +1,18 @@
+---
+:scope: 
+:url: https://dt.adsafeprotected.com/dt?advEntityId=61284&asId=d520a4df-a76b-9363-c245-96f114d6ec4e&tv=%7Bc:fHGBsv,pingTime:-2,time:55,type:a,sca:%7Bdfp:%7Bdf:4,sz:300.250,dom:ins%7D%7D,env:%7Bsf:1,pom:1%7D,rt:1,cb:0,th:0,es:0,sa:1,sc:1,ha:1,gm:0,fif:0,slTimes:%7Bi:0,o:0,n:56,pp:0,pm:0%7D,slEvents:[%7Bsl:n,t:38,wc:0.0.0.0,ac:NaN.NaN.300.250,am:i,cc:0.0.300.250,piv:-1,obst:0,th:0,reas:,cmps:1,bkn:%7Bpiv:[42~1],as:[42~300.250]%7D%7D],slEventCount:1,em:true,fr:false,uf:0,e:,tt:rjss,dtt:0,fm:qmIluyU+11%7C12%7C13%7C14*.61284-10583655%7C15,idMap:14*,sinceFw:11,readyFired:false%7D&br=w
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Server: nginx/1.4.7
+  Date: Fri, 16 Jun 2017 12:32:11 GMT
+  Content-Type: image/gif
+  Content-Length: '43'
+  Connection: close
+  P3P: CP="COM NAV INT STA NID OUR IND NOI"
+  Pragma: no-cache
+  Cache-Control: no-cache
+  X-Server-Name: dt33ami.ami.303net.pvt
+:content: !binary |-
+  R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==

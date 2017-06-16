@@ -1,0 +1,61 @@
+---
+:scope: 
+:url: http://media.rightmove.co.uk/dir/company/clogo_17625_0002_max_100x50.png
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Server: Apache
+  Access-Control-Allow-Headers: origin, x-requested-with, content-type, accept
+  Content-Type: image/png
+  Cache-Control: max-age=7900000
+  Via:
+  - 1.1 varnish
+  - 1.1 varnish
+  Fastly-Debug-Digest: ffdd0770d5922c7a5d7b4197354267af7825a7f7a52ccdaeb72d671c9a6f2152
+  Content-Length: '1579'
+  Accept-Ranges: bytes
+  Date: Fri, 16 Jun 2017 13:50:24 GMT
+  Age: '36193'
+  Connection: close
+  X-Served-By: cache-bma7026-BMA, cache-lhr6320-LHR
+  X-Cache: MISS, HIT
+  X-Cache-Hits: 0, 1
+  X-Timer: S1497621024.396548,VS0,VE0
+:content: !binary |-
+  iVBORw0KGgoAAAANSUhEUgAAADEAAAAyCAMAAADC1sOAAAAABGdBTUEAALGP
+  C/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3Cc
+  ulE8AAACdlBMVEX////+9ffoQ3TmNGn+8/bkJF3iE1DlLmTmMGbjHVjkKF/o
+  RXXpS3nmMWbiFFHlLWPjH1nlK2LlL2XiFFDvep385Ov85evwgqL0pbz62uPv
+  eJviFVHjHFfxkKz2uMvtb5Tud5r5zNn1rMLlLGPiFlLudpn74un86O7wh6b0
+  pLz73ebvfJ7tbJL74en85+3xjarzn7j73ubwg6P4xtX72+T1scX+9/nnP3Hi
+  F1P73+jkJ1/85ezkIVv4yNf62eLjF1P3vM3++vzlKmH3vs/73+fjG1b2tMjn
+  OGv4w9PvgKH//v7qVIDpT3z//f3veZz62OL0p77++PrlKF/2uszznLbmNmrj
+  GVT6097kI1zylbHqV4LpSnn//f73usztbpP50d3taZDoR3fsZo7609/tcJX9
+  7PHwiaj4ydf1qsDqU3/nPG7ueJvznLX62ePzm7XkIlvyl7L62uTlKGD73ufm
+  M2j5y9j97fLmN2vxka3tb5XoQnP/+/z1rMHrYInrWYT0o7r3u8zjGFToRnb+
+  +vv2uMriFVLucZb//P3rX4jmMmf2s8fmM2f74OjylrHxjqvsZ470pr384+vw
+  hqb+9vjqVoL4xNP85uzkJFzvf6D+9fjsYIn72uTzoLjjHVfkH1nymbTtbpTw
+  iqj2tcjjHFb73eX1rsPzn7fjGVXykq773OX2ssbzoLnjGlXlLGLta5Lvf6Hu
+  eZzpTXvnOGzpTHvkJV3xi6nnOm3sYYrlKWDylLDoRnXnP3DvgKDoQXLmL2Xx
+  jKrxj6zkIFrudZnoSXjrXojwhaX0pr7nO27pS3rnQHH3wNDpSXjnPG/rW4Xs
+  Y4znPW/kIVrmNWmAu0lHAAAAAWJLR0QAiAUdSAAAAAlwSFlzAAAASAAAAEgA
+  RslrPgAAAilJREFUSMdjYCAZMDIxkwKYGBlYWNlIAawsozpGdYzqGNUxqoNi
+  HewcHBzsnFAxLm4eXj4gzccPEhUAsQSBLCEBJB3CIqJi4hKSUtJAERlZOXkF
+  RSVlNjYVVTV1DU0tbT42FR1dPX0DQyMVJFcZm7BJm5qZs7FZaFpasbHxWyva
+  sLEJ29rZWzg4OgHlnV1c2dzM3JF0eJiwsXl6ebOx+fgagew2YvADmeNvzxYQ
+  GARkBQN1hDCGouoIcwiPYGOL9IoC6YiOiQXpcOGOi08QBumwTkxKTuFD1pGa
+  ZpwOdDtbhlcmSEeWmS1Ih3p2Tm5ePkhHql9BoUERso7iktKyciCjgqESpKOq
+  ugbqqlqGAqir6qrrUV2VGNjQyMbW1NzSCuS3tXdAdXQydEF1dLM4I3QIK/ao
+  sPWCPN3aV93PxxaUO8EeGLyKE10tJk2eAlQ3ddp06RkzZ8F1qIT4z54zd958
+  E1U2NvsFpZoLF2UvZmMTiPRfslRiWZMw2/IV/itXaa7mkUbYwQcEQN4acLTa
+  r+VvBEcvVBSFRc+UuG69DVvcgjC+DRvZFk9h26SxmW3LVm62bdvr2Hbs3MW2
+  u5NtzR4Ltr37kHTsl5jOdkCHj09Bge3gIbbDR46y8R87znZCoo+NTZyNLfMk
+  m/cpJrYpp5FS4rYzMmynzzbyee9la3Rns0pyYpt77gxbkNNeNrbzbGyC09k2
+  XbjIptzPSj+fz4w+TgqInkl6gwwAvPXP6Au8mk8AAAAldEVYdGNyZWF0ZS1k
+  YXRlADIwMTMtMTAtMTZUMTU6MzU6MjgrMDE6MDCn96H0AAAAJXRFWHRkYXRl
+  OmNyZWF0ZQAyMDE3LTA2LTE2VDA0OjQ3OjEwKzAxOjAwsOGtrQAAACV0RVh0
+  ZGF0ZTptb2RpZnkAMjAxNy0wNi0xNlQwNDo0NzoxMCswMTowMMG8FREAAAAl
+  dEVYdG1vZGlmeS1kYXRlADIwMTMtMTAtMTZUMTU6MzU6MjgrMDE6MDD4RtfA
+  AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAABJRU5E
+  rkJggg==

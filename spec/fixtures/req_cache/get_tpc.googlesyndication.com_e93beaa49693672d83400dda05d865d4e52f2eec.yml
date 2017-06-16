@@ -1,0 +1,11 @@
+---
+:scope: 
+:url: http://tpc.googlesyndication.com/generate_204?1bfSXQ
+:body: ''
+:status: 204
+:method: get
+:headers:
+  Content-Length: '0'
+  Date: Fri, 16 Jun 2017 14:48:20 GMT
+  Connection: close
+:content: ''

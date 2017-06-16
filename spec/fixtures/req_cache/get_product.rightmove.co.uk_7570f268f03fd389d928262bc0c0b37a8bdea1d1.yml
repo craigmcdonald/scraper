@@ -1,0 +1,38 @@
+---
+:scope: 
+:url: http://product.rightmove.co.uk/featuredcustomer.html?index=1&locationIdentifier=OUTCODE%5E926&transaction=lettings&page=1&productsPerPage=3&sessionId=170616SR96EZZ5KEC1783X26ZQUJJ8BU
+:body: ''
+:status: 200
+:method: get
+:headers:
+  X-Application-Context: location-product-web:80
+  Last-Modified: Fri, 09 Jun 2017 09:42:10 GMT
+  Cache-Control: max-age=7200
+  Accept-Ranges: bytes
+  Content-Type: text/html;charset=UTF-8
+  Content-Language: en-GB
+  Content-Length: '828'
+  Date: Fri, 16 Jun 2017 13:50:23 GMT
+  Connection: close
+:content: |
+  <!DOCTYPE html>
+  <html>
+  <head lang="en">
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <script type="text/javascript" async src="//www.google-analytics.com/ga.js" id=""></script>
+      <style>*{border:0;padding:0;margin:0}.sandbox,body,html{height:100%}.sandbox{display:table;width:100%}.sandbox-content{display:table-cell;text-align:center;vertical-align:middle}img{vertical-align:bottom}</style>
+  </head>
+  <body>
+  <div class="sandbox">
+      <div id="sandbox" class="sandbox-content"></div>
+  </div>
+
+  <!--[if (lt IE 9)&(!IEMobile)]>
+  <script src="/javascript/polyfills.bundle.4e963b53b4995e1d.js"></script>
+  <![endif]-->
+
+  <script src="/javascript/featuredcustomer.bundle.e25e3e54a7c184d0.js"></script>
+  </body>
+  </html>

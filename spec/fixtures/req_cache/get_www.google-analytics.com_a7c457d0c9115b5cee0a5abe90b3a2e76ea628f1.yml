@@ -1,0 +1,20 @@
+---
+:scope: 
+:url: http://www.google-analytics.com/r/__utm.gif?utmwv=5.6.7&utms=3&utmn=1766645306&utmhn=www.rightmove.co.uk&utmcs=UTF-8&utmsr=1024x768&utmvp=1024x768&utmsc=32-bit&utmul=en-gb&utmje=0&utmfl=-&utmdt=Properties%20To%20Rent%20in%20G13%20-%20Flats%20%26%20Houses%20To%20Rent%20in%20G13%20-%20Rightmove&utmhid=1148027880&utmr=-&utmp=renting%2Fsearchresults&utmht=1497624572596&utmac=UA-3350334-30&utmcc=__utma%3D6980913.1135630381.1497624573.1497624573.1497624573.1%3B%2B__utmz%3D6980913.1497624573.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=223788668&utmredir=1&utmmt=1&utmu=qRCgAAAAAAAAAAAAAAAAAAAE~
+:body: ''
+:status: 302
+:method: get
+:headers:
+  Location: https://stats.g.doubleclick.net/r/collect?v=1&aip=1&t=dc&_r=3&tid=UA-3350334-30&cid=1135630381.1497624573&jid=223788668&_v=5.6.7&z=1766645306
+  Access-Control-Allow-Origin: "*"
+  Date: Fri, 16 Jun 2017 14:49:33 GMT
+  Pragma: no-cache
+  Expires: Fri, 01 Jan 1990 00:00:00 GMT
+  Cache-Control: no-cache, no-store, must-revalidate
+  Last-Modified: Sun, 17 May 1998 03:00:00 GMT
+  Content-Type: text/html; charset=UTF-8
+  Server: Golfe2
+  Content-Length: '370'
+  Connection: close
+:content: "<HTML><HEAD><meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<TITLE>302
+  Moved</TITLE></HEAD><BODY>\n<H1>302 Moved</H1>\nThe document has moved\n<A HREF=\"https://stats.g.doubleclick.net/r/collect?v=1&amp;aip=1&amp;t=dc&amp;_r=3&amp;tid=UA-3350334-30&amp;cid=1135630381.1497624573&amp;jid=223788668&amp;_v=5.6.7&amp;z=1766645306\">here</A>.\r\n</BODY></HTML>\r\n"

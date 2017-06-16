@@ -1,0 +1,23 @@
+---
+:scope: 
+:url: http://www.rightmove.co.uk/api/_sidebar?locationIdentifier=OUTCODE%5E926&radius=0.25&channel=RENT
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Set-Cookie:
+  - permuserid=170616SR96EZZ5KEC1783X26ZQUJJ8BU;Max-Age=31536000;domain=rightmove.co.uk;path=/
+  - rmsessionid=7df6e9ae-fb30-48ee-bc71-0fc75a33fa44;domain=rightmove.co.uk;path=/
+  - TS019c0ed0=012f990cd31dbc509917e1fb5abb0c567dce2fa3a676fd1b6cc13bd2e497d0f3aab4f86918;
+    Path=/
+  - TS01826437=012f990cd376ce6a84d9b89b2da1a818a7232850da4d9dce5997d9061785d40b6cacc1d8b7385ebbc0fac16479997dff49878a74d141672c2bd97c67adde58b2409b9b25ab;
+    path=/; domain=rightmove.co.uk
+  X-Application-Context: property-web:80
+  X-NewRelic-App-Data: PxQEUFVTDQoTXFdSAQIGU0YdFGQHBDcQUQxLA1tMXV1dORYzVBBGBxdCdhUSEVFRRRAEPhhiXgIBU1dBIQkNFkINVA5dSmgdVABNM1QNUhYBUnYTAwJLERxUT1IbARlWVAMPB1VTWlYcUhRAWwFVClFdCVgJUQFUU1AFUERPXlJcFwQ/
+  Content-Type: application/json;charset=UTF-8
+  Content-Encoding: gzip
+  Vary: Accept-Encoding
+  Date: Fri, 16 Jun 2017 13:50:21 GMT
+  Connection: close
+  Transfer-Encoding: chunked
+:content: '{"nearbyLocationSearches":{"heading":"Nearby G13","subHeading":null,"model":[{"text":"G81","url":"/property-to-rent/find.html?locationIdentifier=OUTCODE^973","noFollow":true},{"text":"G61","url":"/property-to-rent/find.html?locationIdentifier=OUTCODE^953","noFollow":true},{"text":"G52","url":"/property-to-rent/find.html?locationIdentifier=OUTCODE^949","noFollow":true},{"text":"G51","url":"/property-to-rent/find.html?locationIdentifier=OUTCODE^948","noFollow":true},{"text":"G20","url":"/property-to-rent/find.html?locationIdentifier=OUTCODE^930","noFollow":true},{"text":"G12","url":"/property-to-rent/find.html?locationIdentifier=OUTCODE^925","noFollow":true},{"text":"PA4","url":"/property-to-rent/find.html?locationIdentifier=OUTCODE^1941","noFollow":true}]},"withinLocationSearches":null}'

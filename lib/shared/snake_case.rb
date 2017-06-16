@@ -6,7 +6,8 @@ module Shared
     end
 
     def keys_to_snake_case(obj)
-      return obj unless obj.is_a?(Hash)
+      return obj unless obj.is_a?(Hash) || obj.is_a?(Array)
+      return obj.map {|v| keys_to_snake_case(v) } if obj.is_a?(Array)
       Hash[
         obj.map do |k,v|
           [snakeize(k), keys_to_snake_case(v)]

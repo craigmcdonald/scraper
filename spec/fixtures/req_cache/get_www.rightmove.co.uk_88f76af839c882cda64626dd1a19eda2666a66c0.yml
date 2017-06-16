@@ -1,0 +1,427 @@
+---
+:scope: 
+:url: http://www.rightmove.co.uk/pvw/css/rebranded-font.search.head.555232d8c6a1ef3f.css
+:body: ''
+:status: 200
+:method: get
+:headers:
+  X-Application-Context: property-web:80
+  Last-Modified: Wed, 07 Jun 2017 09:53:53 GMT
+  Cache-Control: max-age=31536000
+  Accept-Ranges: bytes
+  Content-Type: text/css
+  Content-Encoding: gzip
+  Vary: Accept-Encoding
+  Connection: close
+  Date: Fri, 16 Jun 2017 13:50:20 GMT
+  Age: '881    '
+  Content-Length: '11781'
+:content: '/* 07/06/2017 10:44:45 *//*! normalize.css v3.0.2 | MIT License | git.io/normalize
+  */img,legend{border:0}body,html{overflow-x:hidden}a:active,a:hover,input,input:focus,select,select:focus,textarea,textarea:focus{outline:0}.select-valuePrefix,button,select{text-transform:none}.aspect-3x2,.l-container,.select-value,.select-wrapper,sub,sup{position:relative}.aspect-3x2::after,.main::after{content:"
+  "}.filtersBar-filter,.globalHeader-burger{-webkit-user-select:none;-ms-user-select:none}.filters-location
+  .input,.propertyCard-title{text-overflow:ellipsis}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block;vertical-align:baseline}audio:not([controls]){display:none;height:0}[hidden],template{display:none}a{background-color:transparent}abbr[title]{border-bottom:1px
+  dotted}b,optgroup,strong{font-weight:700}dfn{font-style:italic}mark{background:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;vertical-align:baseline}sup{top:-.5em}sub{bottom:-.25em}svg:not(:root){overflow:hidden}figure{margin:1em
+  40px}hr{-webkit-box-sizing:content-box;box-sizing:content-box;height:0}pre,textarea{overflow:auto}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}button,input,optgroup,select,textarea{color:inherit;font:inherit;margin:0}button{overflow:visible}button,html
+  input[type=button],input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer}button[disabled],html
+  input[disabled]{cursor:default}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}input[type=checkbox],input[type=radio]{-webkit-box-sizing:border-box;box-sizing:border-box;padding:0}input[type=number]::-webkit-inner-spin-button,input[type=number]::-webkit-outer-spin-button{height:auto}input[type=search]{-webkit-appearance:textfield;-webkit-box-sizing:content-box;box-sizing:content-box}.button,.modal-acceptBlock
+  button{-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;text-align:center}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration{-webkit-appearance:none}fieldset{border:1px
+  solid silver;margin:0 2px;padding:.35em .625em .75em}legend{padding:0}table{border-collapse:collapse;border-spacing:0}td,th{padding:0}*,:after,:before{-webkit-box-sizing:border-box;box-sizing:border-box}body{margin:0;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;font-smoothing:antialiased;text-rendering:optimizeSpeed;background-color:#FFF;font-family:Effra-Regular,sans-serif;font-weight:400;color:#53535F;letter-spacing:normal}.header-rebranding
+  .globalNav,.propertyCard-title{-webkit-font-smoothing:antialiased;font-weight:400}body.no-transition
+  *{-webkit-transition:none!important;transition:none!important}h1,h2,h3,h4,h5,h6{margin:0;font-size:15px;font-weight:400}p{margin:0}.main{overflow:hidden}.main::after{display:table;clear:both}.l-container{display:inherit;width:100%;max-width:1400px;margin:0
+  auto}.clear{clear:both}.is-hidden{display:none}.modal-acceptBlock button{appearance:none;display:inline-block;height:40px;padding:10.5px
+  13px;background-color:#262637;border:2px solid #262637;border-radius:2px;line-height:15px;font-size:15px;color:#fff;cursor:pointer}.button,.select{border-radius:0;cursor:pointer}.button,.input{font-size:17px}.modal-acceptBlock
+  button::-ms-expand{display:none}.modal-acceptBlock button:hover{background-color:#3E6D95;border-color:#3E6D95}.modal-acceptBlock
+  button:active{background-color:#25547D;border-color:#25547D}.button{appearance:none;display:inline-block;background-color:#F4F4F5;padding:0
+  15px;border:1px solid #DFDFE1;line-height:40px;color:#53535F}.button::-ms-expand{display:none}.button--full{display:block;width:100%}.button--primary{background-color:#00DEB6;border-color:#00DEB6;color:#262637}.select{-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;border:none;background:0
+  0}.select::-ms-expand{display:none}.select-value{width:100%;display:block;text-align:center;color:inherit}@media
+  (min-width:48em){.select-valuePrefix{display:none}}.is-expanded .select-wrapper::after{-webkit-transform:rotate(180deg);-ms-transform:rotate(180deg);transform:rotate(180deg)}.select-chevron{width:9px;height:9px;margin-left:2px;pointer-events:none;fill:#797885;stroke:transparent;-webkit-transition-property:fill,-webkit-transform;transition-property:fill,-webkit-transform;transition-property:transform,fill;transition-property:transform,fill,-webkit-transform;-webkit-transition-duration:.2s;transition-duration:.2s;-webkit-transition-timing-function:ease-in-out;transition-timing-function:ease-in-out;display:inline-block}.is-expanded
+  .select-chevron{fill:#FFF;-webkit-transform:rotate(180deg);-ms-transform:rotate(180deg);transform:rotate(180deg)}.input{padding:10px;background-color:#FFF;border-radius:0;border:none}.input--full{display:block;width:100%}.aspect-3x2>*{position:absolute}.aspect-3x2::after{display:block;padding-bottom:66%}.filter-tray-underlay,.property-tray-underlay,.unit-size-price-tray-underlay{display:none;position:fixed;top:100px;bottom:0;left:0;right:0;z-index:1000}.filter-tray-underlay--open,.property-tray-underlay--open,.unit-size-price-tray-underlay--open{display:block}.sticky-filters
+  .filter-tray-underlay,.sticky-filters .property-tray-underlay,.sticky-filters .unit-size-price-tray-underlay{top:50px}.filter-tray-underlay-header,.property-tray-underlay-header,.unit-size-price-tray-underlay-header{display:none;position:fixed;top:0;left:0;right:0;height:50px;z-index:9000}.filter-tray-underlay-header--open,.property-tray-underlay-header--open,.unit-size-price-tray-underlay-header--open{display:block}.sticky-filters
+  .filter-tray-underlay-header,.sticky-filters .property-tray-underlay-header,.sticky-filters
+  .unit-size-price-tray-underlay-header{top:50px}.info-letAgreedFilter,.info-soldStcFilter,.propertyCard-priceQualifierIndicator{cursor:pointer;background:#BBB;border-radius:50%;color:#FFF;width:14px;height:14px;display:inline-block;font-size:12px;text-align:center;text-decoration:none;line-height:14px;margin:0}.l-filtersBar{position:relative;width:100%;height:50px;z-index:4000}@media
+  (min-width:37.5em){.l-filtersBar{-webkit-transition:-webkit-transform ease-out .2s;transition:-webkit-transform
+  ease-out .2s;transition:transform ease-out .2s;transition:transform ease-out .2s,-webkit-transform
+  ease-out .2s;will-change:transform}.global-submenu-open .l-filtersBar{-webkit-transform:translateY(142px);-ms-transform:translateY(142px);transform:translateY(142px)}.global-submenu-open
+  .header-rebranding .l-filtersBar{-webkit-transform:translateY(120px);-ms-transform:translateY(120px);transform:translateY(120px)}}.filter-tray--fullscreen
+  .l-filtersBar,.property-type-tray--fullscreen .l-filtersBar,.sticky-filters .l-filtersBar{position:fixed;top:0;left:0;right:0;-webkit-transform:translateY(0);-ms-transform:translateY(0);transform:translateY(0);z-index:6000}@media
+  (max-width:37.49em){.autocomplete-suggestions--open .l-filtersBar{position:fixed;top:0;left:0;right:0;-webkit-transform:translateY(0);-ms-transform:translateY(0);transform:translateY(0);z-index:6000}}.l-filtersBar-container{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:stretch;-webkit-align-items:stretch;-ms-flex-align:stretch;align-items:stretch;height:100%}.l-propertySearch-header::after,.l-propertySearch-titleWrapper::after,.l-propertySearch::after{content:"
+  ";display:table;clear:both}.sticky-filters .l-propertySearch{padding-top:50px}.l-propertySearch-title{position:relative;width:100%}.l-propertySearch-titleWrapper{position:relative;width:100%;background-color:#FFF}.l-propertySearch-header{width:100%;background-color:#FFF;float:left}@media
+  (min-width:64em){.l-propertySearch-header,.l-propertySearch-titleWrapper{margin-right:-331px;padding-right:331px}}.l-propertySearch-headerContent{width:100%}.l-propertySearch-main{position:relative;clear:left;background-color:#E9E9EB}@media
+  (min-width:87.5em){.l-propertySearch-header{margin-right:-361px;padding-right:361px}.l-propertySearch-main::before{content:"
+  ";position:absolute;left:-100%;bottom:0;width:100%;top:41px;background-color:#E9E9EB;border-top:1px
+  solid #DFDFE1}}@media (min-width:64em){.l-propertySearch-main::after{content:" ";position:absolute;top:0;right:0;width:331px;height:100%;border-left:1px
+  solid #DFDFE1;background:#FFF}.l-propertySearch-results{margin-right:-331px;padding-right:331px}}@media
+  (min-width:87.5em){.l-propertySearch-main::after{width:361px}}.l-propertySearch-results{width:100%;float:left}.no-results
+  .l-propertySearch-results{height:480px}.filter-tray--fullscreen .l-propertySearch-results{display:none}.l-propertySearch-sidebar{display:none;position:relative;float:right;width:0;left:0;right:0;bottom:0;background-color:#FFF;border-left:1px
+  solid #DFDFE1;z-index:1}@media (min-width:64em){.l-propertySearch-sidebar{display:block;width:331px;padding-bottom:60px;transform:translate3d(0,0,0);-webkit-transform:translate3d(0,0,0);-webkit-overflow-scrolling:touch}}.l-propertySearch-paginationWrapper::after,.l-searchResults::after{display:table;clear:both;content:"
+  "}@media (min-width:87.5em){.l-propertySearch-results{margin-right:-361px;padding-right:361px}.l-propertySearch-sidebar{width:361px}}.l-propertySearch-paginationWrapper{position:relative;width:100%;background:#FFF}@media
+  (min-width:64em){.l-propertySearch-paginationWrapper:before{content:" ";position:absolute;top:0;right:0;width:331px;height:100%;background-color:#FFF;border-left:1px
+  solid #DFDFE1}.l-propertySearch-paginationAndSearchFooter{margin-right:-331px;padding-right:331px}}@media
+  (min-width:87.5em){.l-propertySearch-paginationWrapper:before{width:361px}}.l-propertySearch-paginationAndSearchFooter{position:relative;width:100%}@media
+  (min-width:87.5em){.l-propertySearch-paginationAndSearchFooter{margin-right:-361px;padding-right:361px}}.l-propertySearch-sidebar--anchored-bottom{position:fixed;left:auto}.l-propertySearch-sidebar--anchored-top{position:fixed;top:65px;left:auto}.l-searchResults{position:relative;padding:7.5px;min-height:480px}@media
+  (min-width:87.5em){.l-searchResults{padding:15px}}.l-searchResult{padding:7.5px}@media
+  (min-width:87.5em){.l-searchResult{padding:15px 15px 15px 0}}.l-searchResult--additional-prop-element{position:relative;display:block;postion:relative;padding:0
+  15px 30px;color:#797885;clear:both;border-bottom:1px dashed #D5D5D5;margin-bottom:30px;margin-right:30px}.l-searchResult--additional-prop-element
+  h1{position:absolute;top:20px;left:0;padding-left:15px;padding-right:10px;background-color:#E9E9EB}@media
+  (min-width:75em){.l-searchResult--additional-prop-element{padding:0 15px 30px}}.l-searchResult-creative{padding:0
+  7.5px}@media (min-width:37.5em) and (max-width:47.99em){.is-list{width:50%;float:left;clear:none}}@media
+  (min-width:37.5em){.is-grid{width:50%;float:left;clear:none}.byron{-webkit-transition:background-color
+  ease-in .15s;transition:background-color ease-in .15s}}@media (min-width:75em){.l-searchResult-creative{padding:15px}.is-grid{width:33.33333%;float:left;clear:none}}.byron{position:relative;height:3px;background-color:#004889}.globalNav--expanded
+  .byron{background-color:transparent}.byron::after,.byron::before{content:" ";position:absolute;left:0;width:100%;height:3px;background-color:#004889;-webkit-transition:-webkit-transform
+  ease-in .15s;transition:-webkit-transform ease-in .15s;transition:transform ease-in
+  .15s;transition:transform ease-in .15s,-webkit-transform ease-in .15s}.byron::before{top:9px}.globalNav--expanded
+  .byron::before{-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);transform:rotate(45deg)}.byron::after{top:18px}.globalNav--expanded
+  .byron::after{-webkit-transform:rotate(-45deg) translate(6px,-6px);-ms-transform:rotate(-45deg)
+  translate(6px,-6px);transform:rotate(-45deg) translate(6px,-6px)}.globalHeader{position:relative;border-bottom:1px
+  solid #FFF;z-index:4000;text-align:center}.global-submenu-open .globalHeader{border-bottom:1px
+  solid #D5D5D5}.globalHeader-logo--house{position:absolute;top:0;left:0;height:50px;width:50px;padding:11px}@media
+  (min-width:64em){.globalHeader{-webkit-transition:-webkit-transform ease-out .2s;transition:-webkit-transform
+  ease-out .2s;transition:transform ease-out .2s;transition:transform ease-out .2s,-webkit-transform
+  ease-out .2s;text-align:left}.globalHeader-logo--house{display:none}}@media (max-width:53.115em){.overseas-property-for-sale
+  .globalHeader-logo--house{display:inline-block}}.globalHeader-logo{display:none;position:relative;height:50px;padding:11px;z-index:1}@media
+  (min-width:53.125em){.overseas-property-for-sale .globalHeader-logo--house{display:none}.globalHeader-logo.overseas{display:inline-block;position:absolute;left:0;top:0}}@media
+  (max-width:53.115em){.globalHeader-logo.overseas{display:none}}@media (min-width:64em){.globalHeader-logo{display:inline-block;position:absolute;left:0;top:0}.globalHeader-signin{display:none}}.globalHeader-burger{display:none;position:absolute;top:0;left:0;width:54px;height:50px;padding:15px;cursor:pointer;-moz-user-select:none;user-select:none}.globalHeader-mobileTitle{float:left;height:40px;padding-left:15px;border-left:1px
+  solid #DFDFE1;margin:5px 0 5px 50.5px;font-size:18px;line-height:40px}@media (min-width:37.5em){.globalHeader-mobileTitle{display:none}}.globalHeader-signin{position:absolute;top:0;right:0;height:50px;width:50px;padding:16px}.globalHeader-noJavascript,.globalHeader-oldBrowser{background:#CD7677;color:#fff;padding:15px}.globalHeader-noJavascript{text-align:center}.header-rebranding
+  .globalHeader-logo{padding:13px 13px 13px 15px}.header-rebranding .globalHeader-logo--house{padding:13px}.globalNav-wrapper{position:relative;height:50px;background-color:#FFF;margin:0
+  auto}.globalNav-wrapper::after{content:" ";display:table;clear:both}@media (min-width:48em){.globalNav-wrapper::before{content:"
+  ";position:absolute;left:-100%;bottom:0;width:100%;top:-1px;background-color:#FFF}}.globalNav-underlay{display:none;position:fixed;top:0;bottom:0;left:0;right:0;opacity:0;z-index:0}.globalNav-underlay--open{display:block;top:174px;z-index:1000}.globalNav{display:none;position:fixed;top:50px;width:80%;left:-100%;bottom:0;-webkit-transition:left
+  ease-out .2s;transition:left ease-out .2s}.globalNav--expanded .globalNav{left:0}@media
+  (min-width:37.5em){.globalNav{display:block;position:relative;top:auto;left:auto;bottom:auto;width:100%;height:50px;padding:0;-webkit-transform:none;-ms-transform:none;transform:none}.globalNav-container.overseas
+  .globalNav-item{margin-right:15px}}.globalNav .menuReverse{right:0}.globalNav-container.overseas{padding-right:30px}@media
+  (min-width:75em){.globalNav-container.overseas .globalNav-item{margin-right:50px}}.globalNav-container{height:100%;background-color:#FFF;-webkit-box-shadow:0
+  3px 3px 0 rgba(0,0,0,.3);box-shadow:0 3px 3px 0 rgba(0,0,0,.3)}@media (min-width:37.5em){.globalNav-container{display:block;padding:0
+  15px;background-color:transparent;-webkit-box-shadow:none;box-shadow:none;text-align:right;float:right}}@media
+  (min-width:37.5em) and (max-width:47.99em){.globalNav-container{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;width:100%;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;padding:0
+  50px 0 65px}}.globalNav-background{display:none;position:relative;top:1px;height:0;background-color:#E9E9EB;-webkit-transition:height
+  ease-out .2s;transition:height ease-out .2s;will-change:height;clear:both}.global-submenu-open
+  .globalNav-background{height:540px}@media (min-width:37.5em){.globalNav-background{display:block}.global-submenu-open
+  .globalNav-background{height:142px}}.globalNav-background:after,.globalNav-background:before{content:''
+  '';position:absolute;width:50%;height:100%;background:#E9E9EB;display:block}.globalNav-link:before,.propertyCard-additionalImgs:before,.propertyCard-images::after,.propertyCard::after{content:"
+  "}.globalNav-background:before{left:-50%}.globalNav-background:after{right:-50%}.globalNav-item{display:block;position:relative;overflow:hidden}@media
+  (min-width:37.5em){.globalNav-item{float:left;display:block;height:50px;margin-right:15px;overflow:visible}}.globalNav-subNav,.propertyCard-address,.propertyCard-content,.propertyCard-details,.propertyCard-tag,.propertyCard-title{overflow:hidden}.globalNav-item:first-child{border-top:1px
+  solid #D5D5D5}@media (min-width:48em){.globalNav-item,.globalNav-item.globalNav-itemOverseas{margin-right:50px}}.globalNav-item.globalNav-itemSignin,.header-rebranding
+  .globalNav .globalNav-item.globalNav-itemSignin{margin-right:0}@media (min-width:37.5em){.globalNav-item:first-child{border-top:none}.globalNav-item.globalNav-itemSignin{display:none}}@media
+  (min-width:64em){.globalNav-item.globalNav-itemSignin{display:block}}.globalNav-signin-icon{margin-left:5px}.globalNav
+  .select-chevron{position:absolute;top:50%;right:15px;margin-top:-4px}.globalNav
+  .is-expanded .select-chevron{fill:#262637}.globalNav-item--fullList{display:none}@media
+  (min-width:37.5em){.globalNav .select-chevron{display:none}.globalNav-item--fullList{display:inline-block}}.globalNav-link{display:block;position:relative;height:50px;padding:15px;color:#53535F;font-weight:400;text-decoration:none;text-align:left}.globalNav-link>span{white-space:nowrap}.globalNav-link--active{color:#177777;font-weight:500}@media
+  (min-width:37.5em){.globalNav-link{border:none;text-align:center;padding:15px 0}}.globalNav-link:before{position:absolute;left:30px;bottom:-6px;width:12px;height:12px;background-color:#E9E9EB;border-width:0
+  1px 1px 0;border-style:solid;border-color:#D5D5D5;margin-left:-6px;-webkit-transform:rotate(-135deg)
+  scale(0);-ms-transform:rotate(-135deg) scale(0);transform:rotate(-135deg) scale(0);z-index:1000;-webkit-transition:-webkit-transform
+  ease-out .2s;transition:-webkit-transform ease-out .2s;transition:transform ease-out
+  .2s;transition:transform ease-out .2s,-webkit-transform ease-out .2s;will-change:transform}.globalNav-item.is-expanded
+  .globalNav-link:before{-webkit-transform:rotate(-135deg) scale(1);-ms-transform:rotate(-135deg)
+  scale(1);transform:rotate(-135deg) scale(1)}.globalNav-item.is-expanded+.globalNav-item
+  .globalNav-link{border-top:none}.global-submenu-open .header-rebranding .globalNav-background{height:120px}.header-rebranding
+  .globalNav{font-family:Effra-Regular,Arial,Geneva,sans-serif;font-size:17px;color:#76767C}.header-rebranding
+  .globalNav .globalNav-item{color:#76767C}@media (min-width:75em){.header-rebranding
+  .globalNav{margin-right:30px}}.header-rebranding .globalNav .globalNav-link:hover{color:#262637}.header-rebranding
+  .globalNav .globalNav-subNavLink{color:#036B75;font-size:15px;line-height:30px;vertical-align:middle;padding:0}.header-rebranding
+  .globalNav .globalNav-subNavLink:hover{color:#262637}.header-rebranding .globalNav
+  .globalNav-subNavColumn:first-child{border-left:1px solid #D5D5D5;border-right:1px
+  dashed #D5D5D5}.header-rebranding .globalNav .globalNav-subNavColumn:last-child{border-left:none;border-right:none}.header-rebranding
+  .globalNav .globalNav-subNavColumn:only-child{border-left:1px solid #D5D5D5;border-right:none}.header-rebranding
+  .globalNav .menuBorderReverse:first-child{border-left:none;border-right:1px dashed
+  #D5D5D5}.header-rebranding .globalNav .menuBorderReverse:last-child{border-left:none;border-right:1px
+  solid #D5D5D5;float:right}.header-rebranding .globalNav .menuBorderReverse:only-child{border-left:none;border-right:1px
+  solid #D5D5D5}.header-rebranding .globalNav .globalNav-subNavColumn{margin-top:15px;margin-bottom:15px;height:90px;min-height:90px;display:inline-block;position:relative}.globalNav-subNav{height:0;background-color:#E9E9EB;z-index:1}@media
+  (min-width:37.5em){.globalNav-link:before{left:50%}.globalNav-subNav{opacity:0;position:absolute;min-width:415px;height:auto;text-align:left;background:0
+  0;visibility:hidden}.globalNav-subNav.globalNav-subNav--commercial{min-width:250px}.is-expanded
+  .globalNav-subNav{opacity:1;-webkit-transition:opacity ease-out .2s;transition:opacity
+  ease-out .2s;visibility:visible}}.globalNav-subNav.menu3Columns{left:10%;min-width:600px}.globalNav-subNav.menu2Columns{left:25%}.globalNav-subNav.menu1Columns{left:33%}@media
+  (min-width:37.5em) and (max-width:47.99em){.globalNav-itemPrices .globalNav-subNav{left:-60px}}.is-expanded
+  .globalNav-subNav{height:auto}.globalNav-subNavColumn{padding:0;margin:0;list-style-type:none}@media
+  (min-width:37.5em){.globalNav-subNavColumn{float:left;min-width:200px;min-height:102px;margin:10px
+  0;border-left:1px solid #D5D5D5}.globalNav-item--rightAligned .globalNav-subNavColumn{border-left:none;border-right:1px
+  solid #D5D5D5}.globalNav-item--rightAligned .globalNav-subNavColumn:first-child{border-left:none}}.globalNav-subNavItem{margin:0}.globalNav-subNavLink{display:block;margin:0
+  15px;border-bottom:1px dotted #D5D5D5;padding:15px 22.5px;color:#004889;font-size:15px;font-weight:400;text-decoration:none;text-align:left}@media
+  (min-width:37.5em){.globalNav-subNavLink{border:none;padding:7.5px 0}.propertyCard-branchLogo{padding-bottom:15px}}.globalNav-subNavColumn:last-child
+  .globalNav-subNavItem:last-child .globalNav-subNavLink{border:none}.globalHeader-signin
+  .icon-signedIn,.globalHeader-signin .icon-signedOut,.globalNav-itemSignin .icon-signedIn,.globalNav-itemSignin
+  .icon-signedOut{position:relative}.globalHeader-signin .icon-signedOut,.globalNav-itemSignin
+  .icon-signedOut{fill:#DFDFE1}.globalHeader-signin .icon-signedIn,.globalNav-itemSignin
+  .icon-signedIn{fill:#53535F}.globalNav-itemSignin .icon-signedIn,.globalNav-itemSignin
+  .icon-signedOut{display:none}@media (min-width:64em){.globalHeader-signin .icon-signedIn,.globalHeader-signin
+  .icon-signedOut,.globalNav-itemSignin .icon-signedIn,.globalNav-itemSignin .icon-signedOut{float:right}.globalNav-itemSignin
+  .icon-signedIn,.globalNav-itemSignin .icon-signedOut{display:block}}.globalHeader-signin-link--disabled,.globalNav-link--disabled{display:none}.icon-signedIn,.icon-signedOut{width:18px;height:18px;margin-top:1px;pointer-events:none}.globalHeader-logo--house-svg{width:28px;height:28px}.globalHeader-logo-svg{width:134px;height:28px}.globalHeader-logo-overseas-svg{width:278px;height:36px;position:absolute;left:-8px}.rebranded-logo
+  .globalHeader-logo--house-svg{width:24px;height:24px}.rebranded-logo .globalHeader-logo-svg{width:120px;height:24px}.propertyCard-branchLogo{padding-left:15px;float:right}.propertyCard-contacts
+  .propertyCard-branchLogo{display:none;float:left;padding:0}@media (min-width:48em){.is-list
+  .propertyCard-branchLogo{display:none}.is-list .propertyCard-contacts .propertyCard-branchLogo{display:block}}.propertyCard-branchLogo-image{max-height:40px;max-width:92px}.propertyCard-branchLogo-image[src=""]{display:none}.propertyCard--featured
+  .propertyCard-branchLogo-image{width:auto;max-height:46px;padding:2px;vertical-align:bottom}.propertyCard-branchLogo-link{display:inline-block}.propertyCard{position:relative;background-color:#FFF;-webkit-box-shadow:0
+  3px 3px -3px rgba(0,0,0,.3);box-shadow:0 3px 3px -3px rgba(0,0,0,.3)}.propertyCard::after{display:table;clear:both}.propertyCard-link{text-decoration:none;color:inherit}.propertyCard-anchor{position:absolute;top:-115px}.propertyCard--featured
+  .propertyCard-hideIconsMVT{display:none}.propertyCard-section{padding:15px 15px
+  7.5px;overflow:hidden}@media (min-width:37.5em){.propertyCard--featured .propertyCard-hideIconsMVT{display:block}.propertyCard-section{height:120px}}@media
+  (min-width:48em){.is-list .propertyCard-section{position:relative;height:130px;padding-right:45px;padding-bottom:0}.is-list
+  .propertyCard--premium .propertyCard-section{height:214px}}.propertyCard--featured
+  .propertyCard-section{height:114px}@media (min-width:37.5em){.propertyCard--featured
+  .propertyCard-section{height:134px;padding-bottom:35px}}@media (min-width:48em){.is-list
+  .propertyCard--featured .propertyCard-section{padding-top:39px;height:190px}}@media
+  (min-width:77.5em){.is-list .propertyCard--featured .propertyCard-section{height:244px}}.propertyCard--featured.propertyCard-hideMobileIconsMVT
+  .propertyCard-section{height:auto}@media (min-width:37.5em){.propertyCard--featured.propertyCard-hideMobileIconsMVT
+  .propertyCard-section{height:134px;padding-bottom:35px}}@media (min-width:48em){.is-list
+  .propertyCard--featured.propertyCard-hideMobileIconsMVT .propertyCard-section{padding-top:39px;height:190px}.is-list
+  .propertyCard-content{position:absolute;top:0;left:265px;bottom:0;right:0;z-index:0}}@media
+  (min-width:77.5em){.is-list .propertyCard--featured.propertyCard-hideMobileIconsMVT
+  .propertyCard-section{height:244px}.is-list .propertyCard-content{left:530px}}@media
+  (min-width:48em){.is-list .propertyCard--featured .propertyCard-content{left:320px}}@media
+  (min-width:77.5em){.is-list .propertyCard--featured .propertyCard-content{left:597px}}.propertyCard-cutout{border-top-left-radius:1000px;border-top-right-radius:1000px;position:absolute;width:60px;height:30px;left:50%;bottom:0;padding-top:10px;margin-left:-30px;-webkit-box-shadow:inset
+  0 1px 3px rgba(0,0,0,.3);box-shadow:inset 0 1px 3px rgba(0,0,0,.3);text-align:center;cursor:pointer;z-index:1}@media
+  (min-width:48em){.is-list .propertyCard-cutout{right:30px;left:auto;top:50%;top:calc(50%
+  - (74px / 2));margin:-30px 0 0;-webkit-transform:rotate(-90deg);-ms-transform:rotate(-90deg);transform:rotate(-90deg);-webkit-transform-origin:top
+  right;-ms-transform-origin:top right;transform-origin:top right}}.propertyCard-cutout.propertyCard-hideIconsMVT{display:none}@media
+  (min-width:37.5em){.propertyCard-cutout.propertyCard-hideIconsMVT{display:block}.propertyCard-details{min-height:80px}}@media
+  (min-width:77.5em){.is-list .propertyCard--featured .propertyCard-cutout{margin-top:0}}.propertyCard-save--saved{display:none}.propertyCard--saved
+  .propertyCard-save--saved,.propertyCard-save--unsaved{display:inline-block}.propertyCard--saved
+  .propertyCard-save--unsaved{display:none}.propertyCard-save{width:22px;height:100%;padding-bottom:5px;fill:#EB3264}.propertyCard-description{display:none;position:relative;margin-top:4px;font-size:15px;line-height:1.17rem}.propertyCard-distance--show
+  .propertyCard-description{margin-top:3px}@media (min-width:48em){.is-list .propertyCard-save{padding-bottom:0;padding-right:5px;-webkit-transform:rotate(90deg);-ms-transform:rotate(90deg);transform:rotate(90deg)}.is-list
+  .propertyCard-description{display:block}.is-list .propertyCard-details{min-height:0}}.propertyCard-title{color:#177777;margin-bottom:2px;font-family:Effra-Medium,Arial,Geneva,sans-serif;white-space:nowrap}.propertyCard-address{max-height:42px;font-style:normal;line-height:1.2rem;font-size:15px;font-family:Effra-Medium,Arial,Geneva,sans-serif;-webkit-font-smoothing:antialiased;font-weight:400}.propertyCard-detailsFooter,.propertyCard-distance{font-size:13px;font-weight:400;font-family:Effra-Medium,Arial,Geneva,sans-serif;-webkit-font-smoothing:antialiased}.propertyCard-distance{display:none;margin-top:8px;line-height:1}.propertyCard-distance--show
+  .propertyCard-distance{display:block}.propertyCard-detailsFooter{padding:0 15px}@media
+  (min-width:37.5em){.propertyCard-detailsFooter{position:absolute;bottom:53px;left:15px;right:15px;padding:0}}.propertyCard--featured
+  .propertyCard-detailsFooter{display:none}.propertyCard-tag{clear:both}@media (min-width:48em){.is-list
+  .propertyCard-detailsFooter{bottom:81.5px}.is-list .propertyCard--featured .propertyCard-detailsFooter{display:block}.is-list
+  .propertyCard-tag{max-height:none;background-color:#FFF;padding:7px 0;overflow:auto}}.propertyCard-tagTitle,.propertyCard-tagTitle--development{background-color:#009177}.propertyCard-tagTitle{display:none;margin:2px
+  4px 2px 0;padding:2px 5px;font-size:12px;text-transform:uppercase;color:#FFF;border-radius:2px}.propertyCard-tagTitle:last-child{margin-right:0}.propertyCard-tagTitle--show{display:inline-block}.propertyCard-tagLink{display:none;margin:2px
+  4px 2px 0;padding:0}.propertyCard-tagLink:last-child{margin-right:0}.propertyCard-tagLink
+  a{text-decoration:none;font-size:15px;color:#177777;font-weight:400}@media (min-width:56.25em){.propertyCard-tagLink--show{display:inline-block}}.propertyCard-tagLink-chevron{fill:#177777;stroke:transparent;-webkit-transform:rotate(-90deg);-ms-transform:rotate(-90deg);transform:rotate(-90deg);width:7px;height:7px;display:inline-block;margin:1px
+  2px}.propertyCard-tagTitle--display-status{background-color:#353547}.propertyCard-branchSummary{display:none;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}@media
+  (min-width:48em){.is-list .propertyCard-branchSummary{display:block}}.propertyCard-branchSummary-addedOrReduced--recent{color:#11B666}.propertyCard-fadeOut{display:none;position:absolute;top:-1.5rem;right:0;width:120px;height:1.2rem;background:-webkit-gradient(linear,left
+  top,right top,from(rgba(255,255,255,0)),to(white));background:linear-gradient(to
+  right,rgba(255,255,255,0) 0,#fff 100%);pointer-events:none}.propertyCard-header{display:block;position:relative;width:100%;background-color:#F4F4F5;color:#53535F}@media
+  (min-width:48em){.is-list .propertyCard-fadeOut{display:block}.is-list .propertyCard-header{width:265px}}@media
+  (min-width:77.5em){.is-list .propertyCard-header{width:530px}}.propertyCard--premium
+  .propertyCard-header{background-color:#11B666;color:#FFF}.propertyCard--featured
+  .propertyCard-header{background-color:#0499A8;color:#FFF}@media (min-width:48em){.is-list
+  .propertyCard--featured .propertyCard-header{width:320px}}@media (min-width:77.5em){.is-list
+  .propertyCard--featured .propertyCard-header{width:597px}}.propertyCard-headerLink{color:inherit}.propertyCard-premiumLabel{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;position:absolute;top:0;right:0;bottom:0;min-width:110px;max-width:110px;background-color:#0F9F5A;padding:15px;font-size:13px;text-align:center;text-transform:uppercase}@media
+  (min-width:48em){.is-list .propertyCard-premiumLabel{min-width:88.33px;max-width:88.33px}.is-list
+  .propertyCard-images{width:265px}}.propertyCard--featured .propertyCard-premiumLabel,.propertyCard-premiumLabel:empty{display:none}.propertyCard-images{position:relative}.propertyCard-images::after{display:table;clear:both}@media
+  (min-width:48em){.is-list .propertyCard--featured .propertyCard-images{width:320px;padding-top:24px}}@media
+  (min-width:77.5em){.is-list .propertyCard-premiumLabel{min-width:132.5px;max-width:132.5px}.is-list
+  .propertyCard--featured .propertyCard-images{width:398px}.is-list .propertyCard--premium
+  .propertyCard-images{width:397.5px}}.propertyCard-img-link{display:block;position:relative;overflow:hidden;font-size:17px}.propertyCard-img{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;position:absolute;top:0;left:0;width:100%;height:100%;background-color:#CECECE;font-size:inherit;color:#FFF}.propertyCard-img>img{display:block;width:100%;height:auto;margin:0
+  auto;z-index:2}.propertyCard-img.no-image .camera,.propertyCard-img.no-image>img{display:none}.propertyCard-img
+  .camera{width:27%;position:absolute;fill:#c2c2c2;padding-bottom:1px;vertical-align:middle;top:0;left:0;right:0;margin-left:auto;margin-right:auto;height:100%}@media
+  screen and (-ms-high-contrast:active),(-ms-high-contrast:none){.propertyCard-img
+  .camera{display:none}}.propertyCard-awaitingImage{display:none;width:27%;height:auto;text-align:center}.no-image
+  .propertyCard-awaitingImage{display:block}.propertyCard-additionalImgs{display:none;position:relative;width:100%;z-index:0}.propertyCard-additionalImgs:before{position:absolute;top:0;left:0;width:100%;height:2px;background-color:#FFF;z-index:2}@media
+  (min-width:48em){.is-list .propertyCard-additionalImgs{position:relative;bottom:auto}}@media
+  (min-width:77.5em){.is-list .propertyCard-additionalImgs{display:block;position:absolute;top:0;left:265px}.is-list
+  .propertyCard-additionalImgs:before{display:none}}.propertyCard--featured .propertyCard-additionalImgs,.propertyCard--featured.propertyCard--premium
+  .propertyCard-additionalImgs{display:none}@media (min-width:48em){.is-list .propertyCard--featured
+  .propertyCard-additionalImgs,.is-list .propertyCard--featured.propertyCard--premium
+  .propertyCard-additionalImgs{display:none}}@media (min-width:77.5em){.is-list .propertyCard--featured
+  .propertyCard-additionalImgs,.is-list .propertyCard--featured.propertyCard--premium
+  .propertyCard-additionalImgs{display:block;position:absolute;top:24px;left:398px;width:50%}.is-list
+  .propertyCard--premium .propertyCard-additionalImgs{left:397.5px;width:33.33333%}}.propertyCard--premium
+  .propertyCard-additionalImgs{display:block}@media (min-width:37.5em){.propertyCard--premium
+  .propertyCard-additionalImgs{display:none}}@media (min-width:48em){.is-list .propertyCard--premium
+  .propertyCard-additionalImgs{display:block}}.propertyCard-additionalImg{position:relative;width:50%;background-color:#CECECE;margin-top:2px;float:left;overflow:hidden}.propertyCard-additionalImg+.propertyCard-additionalImg:before{content:"
+  ";position:absolute;top:0;left:0;width:2px;height:100%;background-color:#FFF;z-index:3}.propertyCard-additionalImg
+  img{display:block;width:100%}.propertyCard-additionalImg img[src=""]{display:none}.propertyCard--featured
+  .propertyCard-additionalImg,.propertyCard--premium .propertyCard-additionalImg{font-size:13px}@media
+  (min-width:77.5em){.is-list .propertyCard-additionalImg{width:100%}.is-list .propertyCard-additionalImg:nth-child(n+2){display:none}.is-list
+  .propertyCard-additionalImg:first-child{margin-top:0}.is-list .propertyCard-additionalImg:before{content:"
+  ";position:absolute;top:0;left:0;width:2px;height:100%;background-color:#FFF;z-index:3}.is-list
+  .propertyCard--featured .propertyCard-additionalImg{width:100%;display:block}.is-list
+  .propertyCard--featured .propertyCard-additionalImg:nth-child(n+3){display:none}}.propertyCard--premium
+  .propertyCard-additionalImg{width:33.33333%}@media (min-width:48em){.is-list .propertyCard--premium
+  .propertyCard-additionalImg{width:50%}}@media (min-width:48em) and (min-width:75em){.is-list
+  .propertyCard--premium .propertyCard-additionalImg{width:33.33333%}}@media (min-width:77.5em){.is-list
+  .propertyCard--premium .propertyCard-additionalImg{display:block;width:100%}}.propertyCard--premium
+  .propertyCard-additionalImg--gridLayout{display:block}@media (min-width:48em){.is-list
+  .propertyCard--premium .propertyCard-additionalImg--gridLayout{display:none}.is-list
+  .propertyCard--featured .propertyCard-price,.is-list .propertyCard--premium .propertyCard-price{border-right:none}}@media
+  (min-width:48em) and (min-width:75em){.is-list .propertyCard--premium .propertyCard-additionalImg--gridLayout{display:block}}.propertyCard-price{position:relative;padding:10px;min-height:73px}.propertyCard--featured
+  .propertyCard-price,.propertyCard--premium .propertyCard-price{border-right:none}.propertyCard--featured
+  .propertyCard-commercial-sizing--link,.propertyCard--premium .propertyCard-commercial-sizing--link{color:#FFF}.propertyCard-commercial-sizing--link{color:#177777;font-size:15px}.propertyCard-priceLink{text-decoration:none;color:inherit}.propertyCard-priceLink.propertyCard-salePrice{min-height:53px}.propertyCard-priceValue{min-height:33px;font-size:25px;font-weight:400;line-height:1}.commercial
+  .propertyCard-priceQualifier,.commercial .propertyCard-priceValue{display:inline-block}.commercial
+  .propertyCard-priceQualifier{margin-left:2px}.propertyCard-commercial-sizing--link{display:block}.propertyCard-secondaryPriceValue{font-size:15px}.propertyCard-priceQualifier{font-size:15px;font-weight:400}.propertyCard--featured
+  .propertyCard-priceQualifier,.propertyCard--premium .propertyCard-priceQualifier{min-height:20px}.property-to-rent.channel--rent
+  .propertyCard-priceQualifier{display:none}.propertyCard-priceQualifierIndicator{position:relative;margin:0
+  4px;color:#BBB}.propertyCard-priceQualifierIndicator:before{display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;text-align:center;content:''?'';color:#FFF}.propertyCard-camera,.propertyCard-floorplan,.propertyCard-virtualtour{height:12px;vertical-align:baseline}.propertyCard-contacts::after,.propertyCard-moreInfo::after,.searchHeader::after{content:"
+  "}.propertyCard-secondaryPriceQualifier{font-size:15px;font-weight:400}.channel--rent
+  .propertyCard-secondaryPriceQualifier{display:none}.propertyCard-secondaryFeesApply{font-size:15px;cursor:pointer}.propertyCard-moreInfoFeaturedTitle,.propertyCard-moreInfoNumber{font-size:13px;color:#FFF;line-height:1}.propertyCard-priceContacts{display:none;position:absolute;top:50%;right:15px;margin-top:-19px}.propertyCard--featured
+  .propertyCard-priceContacts{display:block}@media (min-width:48em){.is-list .propertyCard-price{border-right:1px
+  solid #DFDFE1}.is-list .propertyCard--featured .propertyCard-priceContacts{display:none}.is-list
+  .propertyCard-moreInfo{position:absolute;top:0;left:0;right:0}}.propertyCard-moreInfo{z-index:3}.propertyCard-moreInfo::after{display:table;clear:both}.propertyCard--featured
+  .propertyCard-moreInfo{background-color:#0499A8}.propertyCard-moreInfoFeaturedTitle{display:none;padding:6px
+  10px 5px;font-family:Effra-Medium,Arial,Geneva,sans-serif;-webkit-font-smoothing:antialiased;font-weight:400;text-transform:uppercase}.propertyCard--featured
+  .propertyCard-moreInfoFeaturedTitle{display:block}.propertyCard-moreInfoMeta{position:absolute;top:0;left:0;border-bottom-right-radius:4px;padding:4px
+  10px;background-color:#262637;opacity:.9;z-index:3}@media (min-width:48em){.is-list
+  .propertyCard-moreInfoFeaturedTitle{float:left}.is-list .propertyCard-moreInfoMeta{position:static;top:auto;left:auto;float:left}}.propertyCard-moreInfoItem{float:left;line-height:1;cursor:pointer;text-decoration:none}.propertyCard-moreInfoItem+.propertyCard-moreInfoItem{margin-left:8px}.propertyCard-camera,.propertyCard-floorplan,.propertyCard-virtualtour{fill:#FFF;display:inline-block}.propertyCard-floorplan{width:12px}.propertyCard-camera{width:15px}.propertyCard-virtualtour{width:12px}.propertyCard-contactButton{display:block;position:relative;width:38px;height:38px;border:1px
+  solid #DFDFE1;border-radius:50%;padding:10px;margin-left:10px}.propertyCard--featured
+  .propertyCard-price .propertyCard-contactButton{float:right;position:relative;width:40px;height:40px;margin-left:10px;background-color:#FFF}@media
+  (min-width:37.5em){.channel--buy .propertyCard-priceQualifier{min-height:20px}.propertyCard-contactButton--phone{display:none!important}}.propertyCard-contactButtonIcon{position:absolute;top:50%;left:50%;fill:#177777}.propertyCard-contactButtonIcon--envelope{width:19.07px;height:13px;margin-top:-6.5px;margin-left:-9.53px}.propertyCard-contactButtonIcon--phone{width:20px;height:20px;margin-top:-10px;margin-left:-10px}.propertyCard-contacts{position:relative;height:auto;padding:7.5px
+  15px 10px}.propertyCard-contacts::after{display:table;clear:both}@media (min-width:48em){.is-list
+  .propertyCard-contacts{position:absolute;bottom:0;right:0;height:74px;left:265px;border-top:1px
+  solid #DFDFE1;padding:20px 0 20px 7.5px}}@media (min-width:77.5em){.is-list .propertyCard-contacts{left:530px}}@media
+  (min-width:37.5em){.propertyCard-hideMobileIconsMVT .propertyCard-contacts{display:block}}@media
+  (max-width:37.49em){.propertyCard--featured .propertyCard-contacts{padding:0}}@media
+  (min-width:48em){.is-list .propertyCard--featured .propertyCard-contacts{left:320px;padding:20px
+  0 20px 10px}}@media (min-width:77.5em){.is-list .propertyCard--featured .propertyCard-contacts{left:597px}}.propertyCard-contactsAddedOrReduced{float:left;font-size:12px;visibility:visible}.propertyCard--featured
+  .propertyCard-contactsAddedOrReduced{display:none}@media (min-width:48em){.is-list
+  .propertyCard-contactsAddedOrReduced{display:none;float:none}}.propertyCard-contactsAddedOrReduced--recent{color:#11B666}.propertyCard-contactsItem{margin-left:7.5px;float:right;line-height:1;cursor:pointer;text-decoration:none}@media
+  (min-width:48em){.is-list .propertyCard-contactsItem{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;float:left;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;position:relative;height:100%}}.propertyCard-contactsItem.propertyCard-hideIconsMVT{display:none}@media
+  (min-width:37.5em){.propertyCard-contactsItem.propertyCard-hideIconsMVT{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex}}.propertyCard--featured
+  .propertyCard-contactsItem{display:none}@media (min-width:48em){.is-list .propertyCard--featured
+  .propertyCard-contactsItem{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex}}.propertyCard-contactsItemDetails{display:none}@media
+  (min-width:48em){.is-list .propertyCard-contactsItemDetails{display:inline-block}}.propertyCard-contactsItemDetails--email{display:none;margin-left:7.5px}@media
+  (min-width:48em){.is-list .propertyCard-contactsItemDetails--email{display:inline-block}}@media
+  (min-width:64em){.is-list .propertyCard-contactsItemDetails--email{display:none}}@media
+  (min-width:87.5em){.is-list .propertyCard--featured .propertyCard-contacts{padding:20px
+  0 20px 15px}.is-list .propertyCard-contactsItemDetails--email{display:inline-block}}.propertyCard-contactsPhoneNumber{display:none;color:#53535F;font-size:15px;font-family:Effra-Medium,Arial,Geneva,sans-serif;-webkit-font-smoothing:antialiased;font-weight:400;padding:3px
+  0;text-decoration:none}@media (min-width:48em){.is-list .propertyCard-contactsPhoneNumber{display:block}}.propertyCard-contactsPhoneRates{display:none;color:#177777;font-size:13px;font-family:Effra-Medium,Arial,Geneva,sans-serif;-webkit-font-smoothing:antialiased;font-weight:400}.propertyCard-contactsEmailAgents{color:#53535F;font-size:15px;font-family:Effra-Medium,Arial,Geneva,sans-serif;-webkit-font-smoothing:antialiased;font-weight:400}.zeroResults{width:100%;padding:7.5px;color:#797885}.zeroResults-wrap{-webkit-box-shadow:0
+  3px 3px -3px rgba(0,0,0,.3);box-shadow:0 3px 3px -3px rgba(0,0,0,.3)}.zeroResults-title{background-color:#F4F4F5;padding:15px
+  30px;font-size:29px;font-weight:300}@media (min-width:37.5em){.zeroResults-title{font-size:31px}.zeroResults-text--large{font-size:21px}}.zeroResults-body{padding:30px;background-color:#FFF}.zeroResults-text--large{margin:0;font-size:21px;font-weight:300}.zeroResults-text--small{font-size:15px}@media
+  (min-width:37.5em){.zeroResults-text--small{font-size:17px}.currency-text--small{font-size:13px}}.currency-guidance{margin:0
+  15px 7.5px;padding:7.5px 0}.currency-wrap{background:#fff;padding:7.5px}.searchHeader,.searchTitle{background-color:#FFF;color:#53535F}.currency-text--small{font-size:13px}.currency-logo{display:block;padding-right:12px}@media
+  (max-width:47.99em){.currency-text{padding:11px 7.5px 7.5px}}@media (min-width:48em){.is-list
+  .propertyCard-contactsPhoneRates{display:block}.currency-logo{float:left}.currency-text{padding-top:5px}}.currency-link{text-decoration:none;color:#177777}.searchHeader{position:relative;height:42px;padding-left:15px;border-bottom:1px
+  solid #DFDFE1;font-size:15px}@media (min-width:87.5em){.currency-guidance{margin:0
+  30px 7.5px 15px}.searchHeader{padding-right:0;padding-left:15px}}.searchHeader::after{position:absolute;left:50%;bottom:-8px;width:14px;height:14px;background-color:#FFF;border-width:0
+  1px 1px 0;border-style:solid;border-color:#DFDFE1;margin-left:-7px;-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);transform:rotate(45deg);z-index:1}.searchHeader-title{display:inline-block;float:left;-webkit-transform:translateZ(0);transform:translateZ(0);height:40px;line-height:44px}.searchHeader-resultCount{font-size:23px;font-family:Effra-Medium,Arial,Geneva,sans-serif;-webkit-font-smoothing:antialiased;font-weight:400;line-height:1}.modalContentTitle,.modalTitle{border-bottom:1px
+  solid #DFDFE1;font-weight:700}.searchHeader-bar{position:relative;border-top:1px
+  solid #DFDFE1}.searchHeader-controls{float:right}.saveSearch-btn-mvt{display:inline}.searchTitle{padding:10px
+  15px;font-size:0}@media (min-width:87.5em){.searchTitle{padding-left:15px;padding-right:15px}}.searchTitle-heading{display:inline;margin-right:10px;color:#53535F}.searchTitle-save{position:relative;top:3px;width:15px;height:16px;padding:0;fill:#BBB;cursor:default}.searchTitle-chevron{display:inline-block;height:20px;width:6px;position:relative;top:5px;margin-right:10px}.searchTitle-saveLabel{font-style:normal;margin-left:5px;font-size:15px}.searchTitle-saveLabel--dark{color:#262637}.searchTitle-save--saved{display:none}.searchTitle--saveable.searchTitle--saved
+  .searchTitle-save.searchTitle-save--saved,.searchTitle-save--unsaved{display:inline-block}.searchTitle--saveable
+  .searchTitle-save{fill:#EB3264;cursor:pointer}.saveSearch-btn-mvt .searchTitle--saveable
+  .searchTitle-save{fill:#F2B04E}.searchTitle--saveable.searchTitle--saved .searchTitle-save.searchTitle-save--saved--dark{fill:#EB8219}.searchTitle--saveable.searchTitle--saved
+  .searchTitle-save.searchTitle-save--unsaved{display:none}.searchTitle-saveIcons{display:inline-block;position:relative;cursor:pointer}.tooltip.searchTitle-tooltip{position:relative}.tooltip.searchTitle-tooltip:before{margin-bottom:-92px;margin-right:-200px;height:72px;line-height:30px;padding:5px
+  38px}.tooltip.searchTitle-tooltip.tooltip--show:after,.tooltip.searchTitle-tooltip.tooltip--show:before{display:block}.tooltip.searchTitle-tooltip.searchTitle--saveable.tooltip--show:after,.tooltip.searchTitle-tooltip.searchTitle--saveable.tooltip--show:before{display:none}.tooltip.searchTitle-tooltip.tooltip--leftMargin:before{margin-right:-372px}@media
+  (max-width:37.49em){.tooltip.searchTitle-tooltip:before{position:fixed;top:175px;left:5vw;width:90vw;padding:5px}.tooltip.searchTitle-tooltip.tooltip--leftMargin:before{margin-right:0}.tooltip.searchTitle-tooltip.tooltip--show:after{display:none}}.tooltip.searchTitle-tooltip.tooltip--rightMargin:before{margin-right:-14px}.tooltip.searchTitle-tooltip.tooltip--show:after{top:auto;margin-top:13px;margin-right:2px}.modal,.modalInner{display:-webkit-box;display:-ms-flexbox;-webkit-box-orient:vertical;-webkit-box-direction:normal}.modalScrollLock{overflow:hidden}.modalScrollLockIos{overflow:hidden;position:fixed}.modal{position:fixed;display:-webkit-flex;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;top:0;width:100%;height:100%;z-index:9000;background:rgba(0,0,0,.33)}.modalInner,.modalTitle{position:relative;color:#53535F}.modalInner{display:-webkit-flex;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;width:90%;max-width:650px;margin:auto;background-color:#FFF;border-radius:2px;-webkit-box-shadow:0
+  0 5px rgba(0,0,0,.5),0 6px 20px 0 rgba(0,0,0,.5);box-shadow:0 0 5px rgba(0,0,0,.5),0
+  6px 20px 0 rgba(0,0,0,.5);text-align:left}.modalTitle{background:#F4F4F5;padding:15px
+  15px 15px 32px}.modalContentTitle{margin-bottom:15px;margin-top:15px;padding-bottom:15px;font-size:17px}.modalCloseIcon{font-style:normal;font-size:17px;font-weight:400;line-height:17px;padding-left:15px;border-left:1px
+  solid #DFDFE1}.modalClose{position:absolute;top:0;right:0;padding:15px 15px 15px
+  0;cursor:pointer}.modalContent{max-height:410px;color:#53535F;margin:15px 30px;overflow:auto}.modalContent
+  p{margin:15px 0}.modalContent p:first-child{margin-top:0}.modal-acceptBlock{text-align:right}.filtersBar{background-color:#262637;font-weight:400}@media
+  (min-width:75em){.filtersBar{padding-left:15px}}.sticky-filters .filtersBar{-webkit-box-shadow:0
+  3px 3px -3px rgba(0,0,0,.3);box-shadow:0 3px 3px -3px rgba(0,0,0,.3)}.filtersBar-filter{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;position:relative;-moz-user-select:none;user-select:none}@media
+  (min-width:48em){.filtersBar-filter:nth-child(n+3){border-left:1px solid #53535F}}.filtersBar-filter
+  .filters-label{display:none}.filtersBar-filter .filters-value{padding:0}.filtersBar-filter
+  .filters-measurement{padding:0 10px}.filtersBar-filter .filters-text{color:rgba(255,255,255,.5)}.filters-dropdown
+  .select-wrapper{width:auto;float:none;min-width:125px}.filters-dropdown .select-wrapper:after{right:0}.filtersBar-location{-webkit-box-align:stretch;-webkit-align-items:stretch;-ms-flex-align:stretch;align-items:stretch;-webkit-box-flex:5;-webkit-flex:5;-ms-flex:5;flex:5;padding:0;margin:5px
+  0 0 5px;border-bottom:5px solid #262637;border-right:1px solid #262637}@media (min-width:87.5em){.filtersBar-location{-webkit-box-flex:8;-webkit-flex:8;-ms-flex:8;flex:8}}.filtersBar-location.autocomplete--is-open{border-bottom:5px
+  solid #FFF}.filtersBar-location.autocomplete--is-open:after{display:block;position:absolute;left:0;bottom:-5px;width:100%;border-top:1px
+  dashed #DFDFE1;content:''''}.saveSearch::after,.searchLayoutControls::after,.searchSidebar-mapLink:after,.searchSidebar::after{content:"
+  "}.filtersBar .autocomplete--is-open .filtersBar-radius{border-radius:0 2px 0 0}.filtersBar
+  .filtersBar-radius{display:none;min-width:125px;font-size:17px;border-radius:0 2px
+  2px 0}@media (min-width:31.25em){.filtersBar .filtersBar-radius{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;background-color:#FFF;padding:5px
+  10px}}.filtersBar .filtersBar-radius .select-value{padding-right:15px}.filtersBar
+  .filtersBar-radius .select-wrapper{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex:1;-webkit-flex:1;-ms-flex:1;flex:1;padding-left:10px;border-left:1px
+  solid #DFDFE1;color:#262637;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center}.filtersBar
+  .filtersBar-radius .select-chevron{position:absolute;top:50%;right:0;margin-top:-4px;fill:#797885}@media
+  (max-width:63.99em){.filtersBar-bedrooms{display:none}}@media (min-width:87.5em){.filtersBar-bedrooms,.filtersBar-price,.filtersBar-price-commercial{-webkit-box-flex:6;-webkit-flex:6;-ms-flex:6;flex:6}}.filtersBar-bedrooms
+  .filters-dropdown .select-wrapper{min-width:110px}@media (max-width:47.99em){.filtersBar-price,.filtersBar-size{display:none}}@media
+  (min-width:75em){.filtersBar-location{margin-left:0}.filtersBar-size{-webkit-box-flex:7;-webkit-flex:7;-ms-flex:7;flex:7}}.filtersBar-size
+  .filters-dropdown .select-wrapper,.filtersBar-unit .filters-dropdown .select-wrapper{min-width:90px!important}.filtersBar-more,.filtersBar-propertyType,.filtersBar-unitSizePriceTrigger{padding:0
+  20px;border-top:1px solid transparent;color:#FFF;cursor:pointer}@media (max-width:74.99em){.filtersBar-price-commercial,.filtersBar-propertyType{display:none}}@media
+  (min-width:87.5em){.filtersBar-propertyType{-webkit-box-flex:3;-webkit-flex:3;-ms-flex:3;flex:3}}.filtersBar-unitSizePriceTrigger{display:none}@media
+  (min-width:48em){.filtersBar-unitSizePriceTrigger.is-expanded,.is-expanded.filtersBar-more,.is-expanded.filtersBar-propertyType,.is-expanded.filtersBar-unitSizePriceTrigger{background-color:#FFF;border-color:#DFDFE1;color:#262637}}@media
+  (min-width:48em) and (max-width:74.99em){.filtersBar-unitSizePriceTrigger{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;margin-left:4px}}.filtersBar-unitSizePriceTrigger.is-expanded
+  .filters-text{color:rgba(0,0,0,.5)}.filtersBar-propertyTypeWrapper,.filtersBar-unitSizePriceTrayWrapper{display:none;position:absolute;top:100px;left:0;width:100%;background-color:#FFF;z-index:2000;overflow:hidden;-webkit-transform:translateY(-600px);-ms-transform:translateY(-600px);transform:translateY(-600px);-webkit-transition:-webkit-transform
+  ease-out .2s;transition:-webkit-transform ease-out .2s;transition:transform ease-out
+  .2s;transition:transform ease-out .2s,-webkit-transform ease-out .2s;will-change:transform}.sticky-filters
+  .filtersBar-propertyTypeWrapper--expanded,.sticky-filters .filtersBar-unitSizePriceTrayWrapper--expanded{position:fixed;top:50px}.filtersBar-propertyTypeWrapper--expanded{-webkit-transform:translateY(0);-ms-transform:translateY(0);transform:translateY(0)}.filtersBar-unitSizePriceTrayWrapper
+  .l-container{padding:20px 0}.filtersBar-unitSizePriceTrayWrapper .filters-actions
+  .l-container,.filtersTray-filter--unit-size-price .nopadding{padding:0}@media (min-width:48em){.filtersBar-unitSizePriceTrayWrapper{display:block}}@media
+  (min-width:75em){.filtersBar-propertyTypeWrapper{display:block}.filtersBar-unitSizePriceTrayWrapper{display:none}}.filtersBar-unitSizePriceTrayWrapper--expanded{-webkit-transform:translateY(0);-ms-transform:translateY(0);transform:translateY(0)}.filtersBar-more{-webkit-align-content:center;-ms-flex-line-pack:center;align-content:center;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center}@media
+  (min-width:87.5em){.filtersBar-more{-webkit-box-flex:2;-webkit-flex:2;-ms-flex:2;flex:2}}.filtersBar-moreText{width:95px;text-align:center;cursor:pointer}.filtersTray-filter--unit-size-price{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center}.filtersTray-filter--unit-size-price
+  .nopaddingTopBottom{padding-top:0;padding-bottom:0}.filtersTray-filter--unit-size-price
+  .flex1{-webkit-box-flex:1;-webkit-flex:1;-ms-flex:1;flex:1}.filtersTray-filter--unit-size-price
+  .flex2{-webkit-box-flex:2;-webkit-flex:2;-ms-flex:2;flex:2}.filtersTray-filter--unit-size-price
+  .filtersTray-filter{border-bottom:none}.filtersTray-filter--unit-size-price .divider{border-left:1px
+  solid #BBB;margin:15px 0}.filtersTray-filter--unit-size-price>:first-child,.filtersTray-filter--unit-size-price>:first-child
+  .select-wrapper.filters-selectWrapper{-webkit-box-flex:1;-webkit-flex:1;-ms-flex:1;flex:1}.filtersTray-filter--unit-size-price>:first-child
+  .filters-label{-webkit-box-flex:0;-webkit-flex:0;-ms-flex:0;flex:0;margin:0 20px
+  0 0;min-width:35px;-webkit-align-self:center;-ms-flex-item-align:center;-ms-grid-row-align:center;align-self:center}.filtersTray-filter--unit-size-price>:last-child{-webkit-box-flex:2;-webkit-flex:2;-ms-flex:2;flex:2}.filtersTray-filter--unit-size-price>:last-child
+  .filters-label{display:none}@media (min-width:48em){.commercial-property-for-sale
+  .l-container.l-filtersBar-container *,.commercial-property-to-let .l-container.l-filtersBar-container
+  *{-webkit-box-sizing:content-box;box-sizing:content-box}.commercial-property-for-sale
+  .filtersBar-propertyType,.commercial-property-to-let .filtersBar-propertyType{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex}.commercial-property-for-sale
+  .filtersBar-propertyTypeWrapper,.commercial-property-to-let .filtersBar-propertyTypeWrapper{display:block}}@media
+  (min-width:75em){.commercial-property-for-sale .filtersBar-price .filters-dropdown--double
+  .select-wrapper,.commercial-property-for-sale .filtersBar-size .filters-dropdown--double
+  .select-wrapper,.commercial-property-to-let .filtersBar-price .filters-dropdown--double
+  .select-wrapper,.commercial-property-to-let .filtersBar-size .filters-dropdown--double
+  .select-wrapper{min-width:1px!important}.commercial-property-for-sale .filtersBar
+  .filters-dropdown--double .filters-text,.commercial-property-to-let .filtersBar
+  .filters-dropdown--double .filters-text{padding:10px}.commercial-property-for-sale
+  .filtersBar-location,.commercial-property-to-let .filtersBar-location{padding-right:5px}.commercial-property-for-sale
+  .filtersBar-unit,.commercial-property-to-let .filtersBar-unit{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex:0;-webkit-flex:0
+  0 58px;-ms-flex:0 0 58px;flex:0 0 58px;padding-left:15px;padding-right:10px;border-left:none}.commercial-property-for-sale
+  .filtersBar-size,.commercial-property-to-let .filtersBar-size{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex:0;-webkit-flex:0
+  0 197px;-ms-flex:0 0 197px;flex:0 0 197px;padding-right:15px}.commercial-property-for-sale
+  .filtersBar-size .filters-dropdown--double .select-wrapper:last-child,.commercial-property-to-let
+  .filtersBar-size .filters-dropdown--double .select-wrapper:last-child{padding-right:0}.commercial-property-for-sale
+  .filtersBar-priceType,.commercial-property-to-let .filtersBar-priceType{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex:0;-webkit-flex:0
+  0 50px;-ms-flex:0 0 50px;flex:0 0 50px;padding-left:15px;padding-right:10px}.commercial-property-for-sale
+  .filtersBar-price,.commercial-property-to-let .filtersBar-price{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding-right:15px;-webkit-box-flex:0;-webkit-flex:0
+  0 211px;-ms-flex:0 0 211px;flex:0 0 211px}.commercial-property-for-sale .filtersBar-price
+  .filters-dropdown--double .select-wrapper:last-child,.commercial-property-to-let
+  .filtersBar-price .filters-dropdown--double .select-wrapper:last-child{padding-right:0}.commercial-property-for-sale
+  .filtersBar-propertyType,.commercial-property-to-let .filtersBar-propertyType{-webkit-box-flex:0;-webkit-flex:0
+  0 144px;-ms-flex:0 0 144px;flex:0 0 144px;padding-right:15px;padding-left:15px}.commercial-property-for-sale
+  .filtersBar-more,.commercial-property-to-let .filtersBar-more{-webkit-box-flex:0;-webkit-flex:0
+  0 80px;-ms-flex:0 0 80px;flex:0 0 80px;padding-right:15px;padding-left:15px}.commercial-property-for-sale
+  .filtersBar-more .filtersBar-moreText,.commercial-property-to-let .filtersBar-more
+  .filtersBar-moreText{width:auto}.commercial-property-for-sale .filtersBar-price{-webkit-box-flex:0;-webkit-flex:0
+  0 248px;-ms-flex:0 0 248px;flex:0 0 248px}}@media (max-width:74.99em){.commercial-property-for-sale
+  .filtersBar-price,.commercial-property-for-sale .filtersBar-priceType,.commercial-property-for-sale
+  .filtersBar-size,.commercial-property-for-sale .filtersBar-unit,.commercial-property-to-let
+  .filtersBar-price,.commercial-property-to-let .filtersBar-priceType,.commercial-property-to-let
+  .filtersBar-size,.commercial-property-to-let .filtersBar-unit{display:none}}@media
+  (max-width:47.99em){.commercial-property-for-sale .filtersBar-propertyType,.commercial-property-to-let
+  .filtersBar-propertyType{display:none}}.branch-search-results .autocomplete-clear-button,.overseas-property-for-sale
+  .autocomplete-clear-button{right:7.5px}.overseas-property-for-sale .filtersBar-location{-webkit-flex:5;-ms-flex:5;-webkit-box-flex:5;flex:5}.overseas-property-for-sale
+  .filtersBar-currencyCode{-webkit-box-flex:0;-webkit-flex:0 0 87px;-ms-flex:0 0 87px;flex:0
+  0 87px}.filters-location{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex:1;-webkit-flex:1;-ms-flex:1;flex:1}.filters-location
+  .autocomplete-suggestionsContext{position:absolute;left:-1px;bottom:-5px;width:100%}.filters-selectWrapper{position:relative;color:#53535F}.filters-selectWrapper
+  option{background-color:#FFF;color:#262637}.filters-selectWrapper option::-ms-value{background-color:#FFF;color:#262637}.propertySearch-results,.searchLayoutControls
+  .is-selected{background-color:#E9E9EB}.filtersBar .filters-selectWrapper{color:#FFF}.filters-selectWrapper
+  .select{position:absolute;width:100%;height:100%;top:0;left:0;opacity:0}.filtersBar
+  .select-chevron{fill:#00DEB6}.filters-label{display:block;margin:5px 0;color:#262637}@media
+  (min-width:48em){.filters-label{-webkit-box-flex:0;-webkit-flex:0 0 120px;-ms-flex:0
+  0 120px;flex:0 0 120px;margin:10px 0 0;font-size:15px}}@media (min-width:75em){.filters-label{margin:0}}.filters-text{padding:0
+  5px}.filters-dropdown .select-wrapper .select{width:100%}.filters-dropdown--double{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center}.filters-dropdown--double
+  .select-wrapper{width:50%}.filtersBar .filters-dropdown--double{height:50px;line-height:50px}.filtersBar
+  .filters-dropdown--double .select-wrapper{width:auto}@media (min-width:87.5em){.filters-dropdown--double{-webkit-box-flex:1;-webkit-flex:1;-ms-flex:1;flex:1}.filtersBar
+  .filters-dropdown--double .select-wrapper{min-width:0}}.filtersBar .filters-dropdown--double
+  .select-wrapper:first-child{padding-left:10px;text-align:right}.filtersBar .filters-dropdown--double
+  .select-wrapper:last-child{padding-right:10px;text-align:left}.filtersBar .filters-dropdown--double
+  .select-wrapper .select-value{text-align:inherit}.filtersBar .filters-dropdown--double
+  .select-wrapper.middle-child{padding-right:5px;text-align:left}.filtersBar .filters-dropdown--double
+  .filters-text{padding:15px}.info-letAgreedFilter,.info-soldStcFilter{vertical-align:top;margin-left:5px;margin-right:0;margin-top:4px}@media
+  (min-width:48em){.info-letAgreedFilter,.info-soldStcFilter{margin-top:3px}}.linkBox{margin-bottom:15px}.linkBox-header{padding:0
+  15px;font-size:17px;color:#53535F}.linkBox-body,.searchControls{font-size:15px}.linkBox-subHeading{margin-bottom:7.5px}.overseas-map-tile,.searchSidebar-map,.searchSidebar-mpu{margin-bottom:15px}.linkBox-body{padding:7.5px
+  15px 15px;border-bottom:1px dashed #DFDFE1}.overseas-map-tile,.searchSidebar-agentInformation,.searchSidebar-map,.sidebarMPU{border:1px
+  solid #DFDFE1}.linkBox-bodyLink{display:block;text-decoration:none;color:#797885}.linkBox-bodyLink+.linkBox-bodyLink{margin-top:7.5px}.propertySearch-results{position:relative}.searchControls-item{display:block;vertical-align:middle;margin-right:15px}@media
+  (min-width:37.5em){.searchControls-item{display:inline-block;margin-right:20px}.searchControls-item:last-child{margin-right:0}}.searchLayoutControls{display:none;font-size:0;letter-spacing:0}.searchLayoutControls::after{display:table;clear:both}@media
+  (min-width:37.5em){.searchLayoutControls{display:inline-block}}.searchLayoutControls-link{display:none;height:40px;line-height:44px;padding:0
+  15px;border-left:1px solid #DFDFE1;cursor:pointer;color:#262637;font-size:15px;text-decoration:none}@media
+  (min-width:48em){.searchLayoutControls-link--list{display:inline-block}}@media (min-width:37.5em){.searchLayoutControls-link--grid,.searchLayoutControls-link--map{display:inline-block}}.searchLayoutControls-label{display:none;height:40px;line-height:40px;margin-left:5px;vertical-align:top}@media
+  (min-width:64em){.filtersBar .is-expanded .select-chevron{fill:#262637}.searchLayoutControls{margin-right:0}.searchLayoutControls-label{display:inline-block}}.is-selected
+  .searchLayoutControls-label{color:#262637}.searchLayoutControls-icon{display:inline-block;width:26.25px;height:15px;fill:#797885}.is-selected
+  .searchLayoutControls-icon{fill:#262637}.searchLayoutControls-icon--grid{width:15.75px}.searchLayoutControls-icon--map{width:12.25px}.searchSidebar{padding:0
+  15px;min-width:341.33px}.searchSidebar::after{display:table;clear:both}@media (min-width:75em){.searchSidebar{min-width:300px}}@media
+  (min-width:87.5em){.searchSidebar{padding:0 30px 30px}}.searchSidebar-widget{display:block;width:100%;float:left;overflow:hidden}.overseas-map-tile{width:298px;height:312px;display:block;float:left}.searchSidebar-mapLink{position:relative;display:block}.searchSidebar-mapLink:after{display:block;top:0;left:0;width:100%;padding-bottom:105%}.searchSidebar-agentInformation-email,.searchSidebar-drawASearch{display:table;width:100%;background-color:#F4F4F5;font-size:15px;color:#027B88;text-decoration:none}.searchSidebar-mapLink
+  img{position:absolute;top:0;left:0;width:100%;height:100%;vertical-align:bottom}.searchSidebar-drawASearch{padding:15px}.searchSidebar-agentInformation-email{border:1px
+  solid #DFDFE1;margin-bottom:15px;padding:15px}.searchSidebar-agentInformation-emailLink,.searchSidebar-drawASearchLink{margin-left:7.5px;vertical-align:middle}.searchSidebar-agentInformation{padding:15px;background-color:#E9E9EB;font-size:15px}.sidebarLink,.sidebarMPU{margin-bottom:15px;background-color:#F4F4F5}.searchSidebar-agentInformation-logo{margin-bottom:15px;text-align:center}.searchSidebar-agentInformation-logo
+  img{max-height:100%;max-width:100%}.searchSidebar-agentInformation-address{margin-bottom:15px}.searchSidebar-agentInformation-address-text{white-space:pre-wrap}.searchSidebar-agentInformation-telephoneChargesAdvice{color:#027B88;cursor:pointer}.searchSidebar-envelopeIcon{display:block;width:20px;height:20px;fill:#027B88;float:left}.searchSidebar-mapIcon{display:block;width:14px;height:20px;fill:#027B88;float:left}.searchSidebar-copyright{font-size:13px;clear:both}.searchSidebar-copyrightLink{color:#027B88;text-decoration:none}.sidebarMPU
+  .sidebarMPU-image{display:block}.sidebarMPU .sidebarMPU-image img{width:100%}.sidebarMPU
+  .sidebarMPU-text-container .sidebarMPU-header{color:#53535F;padding:15px;border-bottom:1px
+  dashed #DFDFE1;display:block}.sidebarMPU .sidebarMPU-text-container .sidebarMPU-link{text-decoration:none;color:#027B88;-webkit-font-smoothing:antialiased;padding:15px;display:block}.sort-selectWrapper{display:inline-block;position:relative;height:40px;line-height:40px}.sort-selectWrapper
+  .select-chevron{position:absolute;top:15.5px;right:0}.sort-select{padding:0 20px
+  0 10px;color:#262637;font-size:17px;height:40px;line-height:40px}@media (min-width:37.5em){.sort-select{padding-top:0;padding-bottom:0;font-size:15px}}.sort-label{display:none;margin-right:5px}@media
+  (min-width:48em){.sort-label{display:inline}}.sidebarLink{border:1px solid #DFDFE1;font-size:15px}.sidebarLink-header{border-bottom:1px
+  dashed #DFDFE1;padding:15px}.sidebarLink-link{display:inline-block;padding:15px;text-decoration:none;color:#027B88}.sidebarLink-linkIcon{width:21px;height:14px;display:inline-block;vertical-align:middle;fill:#027B88}#removalCompanies{margin-bottom:30px}.saveSearch{z-index:1000;position:absolute;width:240px;top:30px;left:10px;cursor:default}.saveSearch::after{position:absolute;left:15px;top:-3px;width:14px;height:14px;background-color:#262637;border-width:0
+  1px 1px 0;border-style:solid;border-color:#262637;margin-left:-7px;-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);transform:rotate(45deg);z-index:1}.saveSearch-underlay{position:fixed;top:0;bottom:0;left:0;right:0}.saveSearch-widget{z-index:1000;position:relative;font-size:15px;color:#FFF}.saveSearch-widgetHeader{padding:15px;background:#262637}.saveSearch-widgetErrorContent
+  .saveSearch-widgetHeader{color:#F2B04E;padding-bottom:10px}.saveSearch-widgetHeader
+  h3{font-family:Effra-Medium,Arial,Geneva,sans-serif;-webkit-font-smoothing:antialiased;font-weight:400}.saveSearch-closeButton{position:absolute;top:17px;right:15px;width:15px;height:15px;fill:#FFF;cursor:pointer}.saveSearch-widgetContext{padding:15px;background:#353547}.saveSearch-widgetErrorContent
+  .saveSearch-widgetContext{background:#262637;padding:0 15px}.saveSearch-intro{padding-bottom:15px}.saveSearch-widgetErrorContent
+  .saveSearch-intro{color:#FFF;font-size:13px}.saveSearch-link{color:#FFF}.saveSearch-frequency{position:relative;margin-bottom:15px;border:1px
+  solid #797885}.saveSearch-frequencyOption{height:40px;padding:0 15px;line-height:40px;cursor:pointer}.saveSearch-frequencyOptions{display:none;padding:0;margin:0}.saveSearch-frequencyOptions--open
+  .saveSearch-frequencyOptions{display:block}.saveSearch-frequencyOptionsItem{height:40px;border-top:1px
+  solid #797885;padding:0 15px;list-style:none;line-height:40px;cursor:pointer}.saveSearch-frequencyOptionsItem:hover{background:#262637}.saveSearch-frequencyChevron{fill:#C5C5C5;position:absolute;top:15px;width:9px;height:9px;right:15px;pointer-events:none;-webkit-transition-property:-webkit-transform;transition-property:-webkit-transform;transition-property:transform;transition-property:transform,-webkit-transform;-webkit-transition-duration:.2s;transition-duration:.2s;-webkit-transition-timing-function:ease-in-out;transition-timing-function:ease-in-out}.saveSearch-frequencyOptions--open
+  .saveSearch-frequencyChevron{-webkit-transform:rotate(180deg);-ms-transform:rotate(180deg);transform:rotate(180deg)}.saveSearch-removeTickbox{padding-bottom:15px}.saveSearch-btn-mvt
+  .saveSearch-removeTickbox{display:none}.saveSearch-bodyCopy{font-size:13px;padding-bottom:15px}.saveSearch-button{display:block;height:40px;width:100%;line-height:40px;text-align:center;background:#00DEB6;cursor:pointer;color:#262637}.saveSearch-button--disabled{opacity:.35;cursor:default}.filtersTray{display:none}'

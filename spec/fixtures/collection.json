@@ -1,0 +1,2504 @@
+{
+  "properties": [
+    {
+      "id": 66840953,
+      "bedrooms": 3,
+      "numberOfImages": 10,
+      "numberOfFloorplans": 0,
+      "numberOfVirtualTours": 0,
+      "summary": "A Lovely first floor traditional tenement flat with 3 double bedrooms. There is a large lounge /dining room, modern fully fitted kitchen and bathroom. The flat is fully furnished and has gas central heating and double glazing. There is on street parking and the flat is very close to local trans...",
+      "displayAddress": "1683 Dumbarton Road, Glasgow",
+      "countryCode": "GB",
+      "location": {
+        "latitude": 55.881802,
+        "longitude": -4.35941
+      },
+      "images": [
+        {
+          "order": 1,
+          "url": "48k/47937/66840953/47937_69_IMG_01_0000.JPG",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/48k/47937/66840953/47937_69_IMG_01_0000_max_476x317.JPG",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/48k/47937/66840953/47937_69_IMG_01_0000_max_476x317.JPG 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/48k/47937/66840953/47937_69_IMG_01_0000_max_656x437.JPG 2x"
+        },
+        {
+          "order": 2,
+          "url": "48k/47937/66840953/47937_69_IMG_02_0000.JPG",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/48k/47937/66840953/47937_69_IMG_02_0000_max_476x317.JPG",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/48k/47937/66840953/47937_69_IMG_02_0000_max_476x317.JPG 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/48k/47937/66840953/47937_69_IMG_02_0000_max_656x437.JPG 2x"
+        },
+        {
+          "order": 3,
+          "url": "48k/47937/66840953/47937_69_IMG_03_0000.JPG",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/48k/47937/66840953/47937_69_IMG_03_0000_max_476x317.JPG",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/48k/47937/66840953/47937_69_IMG_03_0000_max_476x317.JPG 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/48k/47937/66840953/47937_69_IMG_03_0000_max_656x437.JPG 2x"
+        },
+        {
+          "order": 4,
+          "url": "48k/47937/66840953/47937_69_IMG_11_0000.JPG",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/48k/47937/66840953/47937_69_IMG_11_0000_max_476x317.JPG",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/48k/47937/66840953/47937_69_IMG_11_0000_max_476x317.JPG 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/48k/47937/66840953/47937_69_IMG_11_0000_max_656x437.JPG 2x"
+        }
+      ],
+      "propertySubType": "Flat",
+      "listingUpdate": {
+        "listingUpdateReason": "new",
+        "listingUpdateDate": 1496655588000
+      },
+      "premiumListing": true,
+      "featuredProperty": true,
+      "price": {
+        "amount": 550,
+        "frequency": "monthly",
+        "currencyCode": "GBP",
+        "displayPrices": [
+          {
+            "displayPrice": "£550 pcm",
+            "displayPriceQualifier": ""
+          },
+          {
+            "displayPrice": "£127 pw",
+            "displayPriceQualifier": ""
+          }
+        ]
+      },
+      "customer": {
+        "branchId": 47937,
+        "brandPlusLogoURI": "/company/clogo_rmchoice_16454_0006.jpeg",
+        "contactTelephone": "0141 942 2200",
+        "branchDisplayName": "Northwood, Bearsden",
+        "branchName": "Bearsden",
+        "brandTradingName": "Northwood",
+        "branchLandingPageUrl": "/estate-agents/agent/Northwood/Bearsden-47937.html",
+        "development": false,
+        "showReducedProperties": true,
+        "commercial": false,
+        "brandPlusLogoUrl": "http://media.rightmove.co.uk/dir/company/clogo_rmchoice_16454_0006_max_100x50.jpeg"
+      },
+      "distance": null,
+      "transactionType": "rent",
+      "productLabel": {
+        "productLabelText": "Premium Listing"
+      },
+      "commercial": false,
+      "development": false,
+      "residential": true,
+      "students": false,
+      "auction": false,
+      "feesApply": false,
+      "feesApplyText": null,
+      "displaySize": "",
+      "propertyTypeFullDescription": "3 bedroom flat",
+      "propertyUrl": "/property-to-rent/property-66840953.html",
+      "contactUrl": "/property-to-rent/contactBranch.html?propertyId=66840953",
+      "displayStatus": "",
+      "formattedBranchName": " by Northwood, Bearsden",
+      "addedOrReduced": "Added on 05/06/2017",
+      "isRecent": false,
+      "formattedDistance": "",
+      "heading": "Featured Property",
+      "mainImageSrc": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/48k/47937/66840953/47937_69_IMG_01_0000_max_476x317.JPG",
+      "mainImageSrcset": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/48k/47937/66840953/47937_69_IMG_01_0000_max_476x317.JPG 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/48k/47937/66840953/47937_69_IMG_01_0000_max_656x437.JPG 2x",
+      "hasBrandPlus": true
+    },
+    {
+      "id": 60096055,
+      "bedrooms": 3,
+      "numberOfImages": 15,
+      "numberOfFloorplans": 1,
+      "numberOfVirtualTours": 0,
+      "summary": "Traditional stone built terraced house providing spacious family accommodation in highly sought after West End locale. The accommodation comprises entrance vestibule leading into the welcoming reception hallway which has a staircase leading to upper apartments and gives access to the lounge, din...",
+      "displayAddress": "Crow Road, Glasgow, G13",
+      "countryCode": "GB",
+      "location": {
+        "latitude": 55.884287,
+        "longitude": -4.326196
+      },
+      "images": [
+        {
+          "order": 0,
+          "url": "152k/151100/60096055/151100_276824-2_IMG_01_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/152k/151100/60096055/151100_276824-2_IMG_01_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/152k/151100/60096055/151100_276824-2_IMG_01_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/152k/151100/60096055/151100_276824-2_IMG_01_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 1,
+          "url": "152k/151100/60096055/151100_276824-2_IMG_02_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/152k/151100/60096055/151100_276824-2_IMG_02_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/152k/151100/60096055/151100_276824-2_IMG_02_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/152k/151100/60096055/151100_276824-2_IMG_02_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 2,
+          "url": "152k/151100/60096055/151100_276824-2_IMG_03_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/152k/151100/60096055/151100_276824-2_IMG_03_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/152k/151100/60096055/151100_276824-2_IMG_03_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/152k/151100/60096055/151100_276824-2_IMG_03_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 3,
+          "url": "152k/151100/60096055/151100_276824-2_IMG_04_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/152k/151100/60096055/151100_276824-2_IMG_04_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/152k/151100/60096055/151100_276824-2_IMG_04_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/152k/151100/60096055/151100_276824-2_IMG_04_0000_max_656x437.jpg 2x"
+        }
+      ],
+      "propertySubType": "Terraced",
+      "listingUpdate": {
+        "listingUpdateReason": "price_reduced",
+        "listingUpdateDate": 1497514455000
+      },
+      "premiumListing": false,
+      "featuredProperty": false,
+      "price": {
+        "amount": 1750,
+        "frequency": "monthly",
+        "currencyCode": "GBP",
+        "displayPrices": [
+          {
+            "displayPrice": "£1,750 pcm",
+            "displayPriceQualifier": ""
+          },
+          {
+            "displayPrice": "£404 pw",
+            "displayPriceQualifier": ""
+          }
+        ]
+      },
+      "customer": {
+        "branchId": 151100,
+        "brandPlusLogoURI": "/company/clogo_rmchoice_34399_0003.jpeg",
+        "contactTelephone": "0121 396 0878",
+        "branchDisplayName": "Purplebricks.com, covering Scotland",
+        "branchName": "covering Scotland",
+        "brandTradingName": "Purplebricks.com",
+        "branchLandingPageUrl": "/estate-agents/agent/Purplebrickscom/covering-Scotland-151100.html",
+        "development": false,
+        "showReducedProperties": true,
+        "commercial": false,
+        "brandPlusLogoUrl": "http://media.rightmove.co.uk/dir/company/clogo_rmchoice_34399_0003_max_100x50.jpeg"
+      },
+      "distance": null,
+      "transactionType": "rent",
+      "productLabel": {
+        "productLabelText": "Premium Listing"
+      },
+      "commercial": false,
+      "development": false,
+      "residential": true,
+      "students": false,
+      "auction": false,
+      "feesApply": false,
+      "feesApplyText": null,
+      "displaySize": "",
+      "propertyTypeFullDescription": "3 bedroom terraced house",
+      "propertyUrl": "/property-to-rent/property-60096055.html",
+      "contactUrl": "/property-to-rent/contactBranch.html?propertyId=60096055",
+      "displayStatus": "",
+      "formattedBranchName": " by Purplebricks.com, covering Scotland",
+      "addedOrReduced": "Reduced today",
+      "isRecent": true,
+      "formattedDistance": "",
+      "heading": "",
+      "mainImageSrc": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/152k/151100/60096055/151100_276824-2_IMG_01_0000_max_476x317.jpg",
+      "mainImageSrcset": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/152k/151100/60096055/151100_276824-2_IMG_01_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/152k/151100/60096055/151100_276824-2_IMG_01_0000_max_656x437.jpg 2x",
+      "hasBrandPlus": true
+    },
+    {
+      "id": 62164220,
+      "bedrooms": 2,
+      "numberOfImages": 8,
+      "numberOfFloorplans": 0,
+      "numberOfVirtualTours": 0,
+      "summary": "RESERVED This spacious and modern 1st floor flat in the preferred G12 district comes furnished.",
+      "displayAddress": "Whittingehame Drive, Glasgow, Lanarkshire, G12",
+      "countryCode": "GB",
+      "location": {
+        "latitude": 55.88484,
+        "longitude": -4.31512
+      },
+      "images": [
+        {
+          "order": 0,
+          "url": "45k/44321/62164220/44321_GLG160229_L_IMG_09_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/45k/44321/62164220/44321_GLG160229_L_IMG_09_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/45k/44321/62164220/44321_GLG160229_L_IMG_09_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/45k/44321/62164220/44321_GLG160229_L_IMG_09_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 2,
+          "url": "45k/44321/62164220/44321_GLG160229_L_IMG_10_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/45k/44321/62164220/44321_GLG160229_L_IMG_10_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/45k/44321/62164220/44321_GLG160229_L_IMG_10_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/45k/44321/62164220/44321_GLG160229_L_IMG_10_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 3,
+          "url": "45k/44321/62164220/44321_GLG160229_L_IMG_12_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/45k/44321/62164220/44321_GLG160229_L_IMG_12_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/45k/44321/62164220/44321_GLG160229_L_IMG_12_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/45k/44321/62164220/44321_GLG160229_L_IMG_12_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 4,
+          "url": "45k/44321/62164220/44321_GLG160229_L_IMG_11_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/45k/44321/62164220/44321_GLG160229_L_IMG_11_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/45k/44321/62164220/44321_GLG160229_L_IMG_11_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/45k/44321/62164220/44321_GLG160229_L_IMG_11_0000_max_656x437.jpg 2x"
+        }
+      ],
+      "propertySubType": "Apartment",
+      "listingUpdate": {
+        "listingUpdateReason": "new",
+        "listingUpdateDate": 1488578428000
+      },
+      "premiumListing": false,
+      "featuredProperty": false,
+      "price": {
+        "amount": 1185,
+        "frequency": "monthly",
+        "currencyCode": "GBP",
+        "displayPrices": [
+          {
+            "displayPrice": "£1,185 pcm",
+            "displayPriceQualifier": ""
+          },
+          {
+            "displayPrice": "£273 pw",
+            "displayPriceQualifier": ""
+          }
+        ]
+      },
+      "customer": {
+        "branchId": 44321,
+        "brandPlusLogoURI": "/company/clogo_17625_0002.png",
+        "contactTelephone": "0141 392 0304",
+        "branchDisplayName": "Robb Residential, Glasgow",
+        "branchName": "Glasgow",
+        "brandTradingName": "Robb Residential",
+        "branchLandingPageUrl": "/estate-agents/agent/Robb-Residential/Glasgow-44321.html",
+        "development": false,
+        "showReducedProperties": true,
+        "commercial": false,
+        "brandPlusLogoUrl": "http://media.rightmove.co.uk/dir/company/clogo_17625_0002_max_100x50.png"
+      },
+      "distance": null,
+      "transactionType": "rent",
+      "productLabel": {
+        "productLabelText": "Premium Listing"
+      },
+      "commercial": false,
+      "development": false,
+      "residential": true,
+      "students": false,
+      "auction": false,
+      "feesApply": false,
+      "feesApplyText": null,
+      "displaySize": "",
+      "propertyTypeFullDescription": "2 bedroom apartment",
+      "propertyUrl": "/property-to-rent/property-62164220.html",
+      "contactUrl": "/property-to-rent/contactBranch.html?propertyId=62164220",
+      "displayStatus": "",
+      "formattedBranchName": " by Robb Residential, Glasgow",
+      "addedOrReduced": "Added on 03/03/2017",
+      "isRecent": false,
+      "formattedDistance": "",
+      "heading": "",
+      "mainImageSrc": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/45k/44321/62164220/44321_GLG160229_L_IMG_09_0000_max_476x317.jpg",
+      "mainImageSrcset": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/45k/44321/62164220/44321_GLG160229_L_IMG_09_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/45k/44321/62164220/44321_GLG160229_L_IMG_09_0000_max_656x437.jpg 2x",
+      "hasBrandPlus": true
+    },
+    {
+      "id": 60384643,
+      "bedrooms": 3,
+      "numberOfImages": 14,
+      "numberOfFloorplans": 0,
+      "numberOfVirtualTours": 0,
+      "summary": "Stunning, modern build townhouse, set on the highly sought after development off Anniesland Road. Boasting beautifully fully furnished accommodation of three double bedrooms and two reception rooms set over three floors.",
+      "displayAddress": "Craigend Close, Anniesland",
+      "countryCode": "GB",
+      "location": {
+        "latitude": 55.89215,
+        "longitude": -4.33428
+      },
+      "images": [
+        {
+          "order": 1,
+          "url": "52k/51237/60384643/51237_000339258_IMG_03_0000.JPG",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/52k/51237/60384643/51237_000339258_IMG_03_0000_max_476x317.JPG",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/52k/51237/60384643/51237_000339258_IMG_03_0000_max_476x317.JPG 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/52k/51237/60384643/51237_000339258_IMG_03_0000_max_656x437.JPG 2x"
+        },
+        {
+          "order": 2,
+          "url": "52k/51237/60384643/51237_000339258_IMG_04_0000.JPG",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/52k/51237/60384643/51237_000339258_IMG_04_0000_max_476x317.JPG",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/52k/51237/60384643/51237_000339258_IMG_04_0000_max_476x317.JPG 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/52k/51237/60384643/51237_000339258_IMG_04_0000_max_656x437.JPG 2x"
+        },
+        {
+          "order": 3,
+          "url": "52k/51237/60384643/51237_000339258_IMG_08_0000.JPG",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/52k/51237/60384643/51237_000339258_IMG_08_0000_max_476x317.JPG",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/52k/51237/60384643/51237_000339258_IMG_08_0000_max_476x317.JPG 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/52k/51237/60384643/51237_000339258_IMG_08_0000_max_656x437.JPG 2x"
+        },
+        {
+          "order": 4,
+          "url": "52k/51237/60384643/51237_000339258_IMG_07_0000.JPG",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/52k/51237/60384643/51237_000339258_IMG_07_0000_max_476x317.JPG",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/52k/51237/60384643/51237_000339258_IMG_07_0000_max_476x317.JPG 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/52k/51237/60384643/51237_000339258_IMG_07_0000_max_656x437.JPG 2x"
+        }
+      ],
+      "propertySubType": "Town House",
+      "listingUpdate": {
+        "listingUpdateReason": "new",
+        "listingUpdateDate": 1497019069000
+      },
+      "premiumListing": false,
+      "featuredProperty": false,
+      "price": {
+        "amount": 1160,
+        "frequency": "monthly",
+        "currencyCode": "GBP",
+        "displayPrices": [
+          {
+            "displayPrice": "£1,160 pcm",
+            "displayPriceQualifier": ""
+          },
+          {
+            "displayPrice": "£268 pw",
+            "displayPriceQualifier": ""
+          }
+        ]
+      },
+      "customer": {
+        "branchId": 51237,
+        "brandPlusLogoURI": "/52k/51237/branch_rmchoice_logo_51237_0000.jpeg",
+        "contactTelephone": "0141 392 0218",
+        "branchDisplayName": "Slater Hogg & Howison Lettings, West End",
+        "branchName": "West End",
+        "brandTradingName": "Slater Hogg & Howison Lettings",
+        "branchLandingPageUrl": "/estate-agents/agent/Slater-Hogg-and-Howison-Lettings/West-End-51237.html",
+        "development": false,
+        "showReducedProperties": true,
+        "commercial": false,
+        "brandPlusLogoUrl": "http://media.rightmove.co.uk/dir/52k/51237/branch_rmchoice_logo_51237_0000_max_100x50.jpeg"
+      },
+      "distance": null,
+      "transactionType": "rent",
+      "productLabel": {
+        "productLabelText": "Premium Listing"
+      },
+      "commercial": false,
+      "development": false,
+      "residential": true,
+      "students": false,
+      "auction": false,
+      "feesApply": false,
+      "feesApplyText": null,
+      "displaySize": "",
+      "propertyTypeFullDescription": "3 bedroom town house",
+      "propertyUrl": "/property-to-rent/property-60384643.html",
+      "contactUrl": "/property-to-rent/contactBranch.html?propertyId=60384643",
+      "displayStatus": "",
+      "formattedBranchName": " by Slater Hogg & Howison Lettings, West End",
+      "addedOrReduced": "Added on 09/06/2017",
+      "isRecent": false,
+      "formattedDistance": "",
+      "heading": "",
+      "mainImageSrc": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/52k/51237/60384643/51237_000339258_IMG_03_0000_max_476x317.JPG",
+      "mainImageSrcset": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/52k/51237/60384643/51237_000339258_IMG_03_0000_max_476x317.JPG 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/52k/51237/60384643/51237_000339258_IMG_03_0000_max_656x437.JPG 2x",
+      "hasBrandPlus": true
+    },
+    {
+      "id": 60342406,
+      "bedrooms": 3,
+      "numberOfImages": 10,
+      "numberOfFloorplans": 0,
+      "numberOfVirtualTours": 0,
+      "summary": "Comprises of a reception hallway, a bay windowed front lounge with attractive feature fireplace, a rear dining room/second sitting room, a kitchen, upstairs comprises of three bedrooms, a refitted luxury bathroom and a large attic. CTB F.",
+      "displayAddress": "Mitre Road, Jordanhill, Glasgow, G14",
+      "countryCode": "GB",
+      "location": {
+        "latitude": 55.88,
+        "longitude": -4.33547
+      },
+      "images": [
+        {
+          "order": 1,
+          "url": "149k/148157/60342406/148157_P543_IMG_01_0000.JPG",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/149k/148157/60342406/148157_P543_IMG_01_0000_max_476x317.JPG",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/149k/148157/60342406/148157_P543_IMG_01_0000_max_476x317.JPG 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/149k/148157/60342406/148157_P543_IMG_01_0000_max_656x437.JPG 2x"
+        },
+        {
+          "order": 2,
+          "url": "149k/148157/60342406/148157_P543_IMG_02_0000.JPG",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/149k/148157/60342406/148157_P543_IMG_02_0000_max_476x317.JPG",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/149k/148157/60342406/148157_P543_IMG_02_0000_max_476x317.JPG 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/149k/148157/60342406/148157_P543_IMG_02_0000_max_656x437.JPG 2x"
+        },
+        {
+          "order": 3,
+          "url": "149k/148157/60342406/148157_P543_IMG_03_0000.JPG",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/149k/148157/60342406/148157_P543_IMG_03_0000_max_476x317.JPG",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/149k/148157/60342406/148157_P543_IMG_03_0000_max_476x317.JPG 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/149k/148157/60342406/148157_P543_IMG_03_0000_max_656x437.JPG 2x"
+        },
+        {
+          "order": 4,
+          "url": "149k/148157/60342406/148157_P543_IMG_04_0000.JPG",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/149k/148157/60342406/148157_P543_IMG_04_0000_max_476x317.JPG",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/149k/148157/60342406/148157_P543_IMG_04_0000_max_476x317.JPG 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/149k/148157/60342406/148157_P543_IMG_04_0000_max_656x437.JPG 2x"
+        }
+      ],
+      "propertySubType": "Terraced",
+      "listingUpdate": {
+        "listingUpdateReason": "new",
+        "listingUpdateDate": 1496835914000
+      },
+      "premiumListing": false,
+      "featuredProperty": false,
+      "price": {
+        "amount": 1100,
+        "frequency": "monthly",
+        "currencyCode": "GBP",
+        "displayPrices": [
+          {
+            "displayPrice": "£1,100 pcm",
+            "displayPriceQualifier": ""
+          },
+          {
+            "displayPrice": "£254 pw",
+            "displayPriceQualifier": ""
+          }
+        ]
+      },
+      "customer": {
+        "branchId": 148157,
+        "brandPlusLogoURI": "/149k/148157/branch_rmchoice_logo_148157_0000.jpeg",
+        "contactTelephone": "0141 392 0454",
+        "branchDisplayName": "Ritehome, Glasgow",
+        "branchName": "Glasgow",
+        "brandTradingName": "Ritehome",
+        "branchLandingPageUrl": "/estate-agents/agent/Ritehome/Glasgow-148157.html",
+        "development": false,
+        "showReducedProperties": true,
+        "commercial": false,
+        "brandPlusLogoUrl": "http://media.rightmove.co.uk/dir/149k/148157/branch_rmchoice_logo_148157_0000_max_100x50.jpeg"
+      },
+      "distance": null,
+      "transactionType": "rent",
+      "productLabel": {
+        "productLabelText": "Premium Listing"
+      },
+      "commercial": false,
+      "development": false,
+      "residential": true,
+      "students": false,
+      "auction": false,
+      "feesApply": false,
+      "feesApplyText": null,
+      "displaySize": "",
+      "propertyTypeFullDescription": "3 bedroom terraced house",
+      "propertyUrl": "/property-to-rent/property-60342406.html",
+      "contactUrl": "/property-to-rent/contactBranch.html?propertyId=60342406",
+      "displayStatus": "",
+      "formattedBranchName": " by Ritehome, Glasgow",
+      "addedOrReduced": "Added on 07/06/2017",
+      "isRecent": false,
+      "formattedDistance": "",
+      "heading": "",
+      "mainImageSrc": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/149k/148157/60342406/148157_P543_IMG_01_0000_max_476x317.JPG",
+      "mainImageSrcset": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/149k/148157/60342406/148157_P543_IMG_01_0000_max_476x317.JPG 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/149k/148157/60342406/148157_P543_IMG_01_0000_max_656x437.JPG 2x",
+      "hasBrandPlus": true
+    },
+    {
+      "id": 59838976,
+      "bedrooms": 2,
+      "numberOfImages": 8,
+      "numberOfFloorplans": 0,
+      "numberOfVirtualTours": 0,
+      "summary": "This property is brought to the market in excellent decorative condition being recently refurbished. The property comprises of a reception hallway, two spacious double bedrooms, large lounge, kitchen and bathroom. 49 Randolph Road is primely situated in Glasgow&rsquo;s West End over looking Broomhil...",
+      "displayAddress": "Randolph Road, Glasgow",
+      "countryCode": "GB",
+      "location": {
+        "latitude": 55.878715,
+        "longitude": -4.321986
+      },
+      "images": [
+        {
+          "order": 0,
+          "url": "56k/55619/59838976/55619_26969586_IMG_01_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/56k/55619/59838976/55619_26969586_IMG_01_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/56k/55619/59838976/55619_26969586_IMG_01_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/56k/55619/59838976/55619_26969586_IMG_01_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 1,
+          "url": "56k/55619/59838976/55619_26969586_IMG_02_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/56k/55619/59838976/55619_26969586_IMG_02_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/56k/55619/59838976/55619_26969586_IMG_02_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/56k/55619/59838976/55619_26969586_IMG_02_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 2,
+          "url": "56k/55619/59838976/55619_26969586_IMG_03_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/56k/55619/59838976/55619_26969586_IMG_03_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/56k/55619/59838976/55619_26969586_IMG_03_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/56k/55619/59838976/55619_26969586_IMG_03_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 3,
+          "url": "56k/55619/59838976/55619_26969586_IMG_04_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/56k/55619/59838976/55619_26969586_IMG_04_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/56k/55619/59838976/55619_26969586_IMG_04_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/56k/55619/59838976/55619_26969586_IMG_04_0000_max_656x437.jpg 2x"
+        }
+      ],
+      "propertySubType": "Flat",
+      "listingUpdate": {
+        "listingUpdateReason": "new",
+        "listingUpdateDate": 1495035812000
+      },
+      "premiumListing": false,
+      "featuredProperty": false,
+      "price": {
+        "amount": 875,
+        "frequency": "monthly",
+        "currencyCode": "GBP",
+        "displayPrices": [
+          {
+            "displayPrice": "£875 pcm",
+            "displayPriceQualifier": ""
+          },
+          {
+            "displayPrice": "£202 pw",
+            "displayPriceQualifier": ""
+          }
+        ]
+      },
+      "customer": {
+        "branchId": 55619,
+        "brandPlusLogoURI": "/56k/55619/branch_logo_55619_0002.jpeg",
+        "contactTelephone": "0141 392 0130",
+        "branchDisplayName": "Edzell Property Management, Pollockshields",
+        "branchName": "Pollockshields",
+        "brandTradingName": "Edzell Property Management",
+        "branchLandingPageUrl": "/estate-agents/agent/Edzell-Property-Management/Pollockshields-55619.html",
+        "development": false,
+        "showReducedProperties": true,
+        "commercial": false,
+        "brandPlusLogoUrl": "http://media.rightmove.co.uk/dir/56k/55619/branch_logo_55619_0002_max_100x50.jpeg"
+      },
+      "distance": null,
+      "transactionType": "rent",
+      "productLabel": {
+        "productLabelText": "Premium Listing"
+      },
+      "commercial": false,
+      "development": false,
+      "residential": true,
+      "students": false,
+      "auction": false,
+      "feesApply": false,
+      "feesApplyText": null,
+      "displaySize": "",
+      "propertyTypeFullDescription": "2 bedroom flat",
+      "propertyUrl": "/property-to-rent/property-59838976.html",
+      "contactUrl": "/property-to-rent/contactBranch.html?propertyId=59838976",
+      "displayStatus": "",
+      "formattedBranchName": " by Edzell Property Management, Pollockshields",
+      "addedOrReduced": "Added on 17/05/2017",
+      "isRecent": false,
+      "formattedDistance": "",
+      "heading": "",
+      "mainImageSrc": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/56k/55619/59838976/55619_26969586_IMG_01_0000_max_476x317.jpg",
+      "mainImageSrcset": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/56k/55619/59838976/55619_26969586_IMG_01_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/56k/55619/59838976/55619_26969586_IMG_01_0000_max_656x437.jpg 2x",
+      "hasBrandPlus": true
+    },
+    {
+      "id": 60151681,
+      "bedrooms": 2,
+      "numberOfImages": 11,
+      "numberOfFloorplans": 0,
+      "numberOfVirtualTours": 0,
+      "summary": "2 Bed Flat, Cardon Square, PA4. This 2 bedroom, 2 bathroom Flat is available to move in from 18 August, 2017. The rent is &pound;855.00 per month (&pound;197.31 per week). Property comes unfurnished Depo... ** Property Reference: 241220 **",
+      "displayAddress": "Cardon Square, Renfrew, PA4",
+      "countryCode": "GB",
+      "location": {
+        "latitude": 55.88429,
+        "longitude": -4.381092
+      },
+      "images": [
+        {
+          "order": 0,
+          "url": "97k/96668/60151681/96668_24122026052017_IMG_01_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/97k/96668/60151681/96668_24122026052017_IMG_01_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/97k/96668/60151681/96668_24122026052017_IMG_01_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/97k/96668/60151681/96668_24122026052017_IMG_01_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 1,
+          "url": "97k/96668/60151681/96668_24122026052017_IMG_02_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/97k/96668/60151681/96668_24122026052017_IMG_02_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/97k/96668/60151681/96668_24122026052017_IMG_02_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/97k/96668/60151681/96668_24122026052017_IMG_02_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 2,
+          "url": "97k/96668/60151681/96668_24122026052017_IMG_03_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/97k/96668/60151681/96668_24122026052017_IMG_03_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/97k/96668/60151681/96668_24122026052017_IMG_03_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/97k/96668/60151681/96668_24122026052017_IMG_03_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 3,
+          "url": "97k/96668/60151681/96668_24122026052017_IMG_04_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/97k/96668/60151681/96668_24122026052017_IMG_04_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/97k/96668/60151681/96668_24122026052017_IMG_04_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/97k/96668/60151681/96668_24122026052017_IMG_04_0000_max_656x437.jpg 2x"
+        }
+      ],
+      "propertySubType": "Flat",
+      "listingUpdate": {
+        "listingUpdateReason": "new",
+        "listingUpdateDate": 1496173109000
+      },
+      "premiumListing": false,
+      "featuredProperty": false,
+      "price": {
+        "amount": 855,
+        "frequency": "monthly",
+        "currencyCode": "GBP",
+        "displayPrices": [
+          {
+            "displayPrice": "£855 pcm",
+            "displayPriceQualifier": ""
+          },
+          {
+            "displayPrice": "£197 pw",
+            "displayPriceQualifier": ""
+          }
+        ]
+      },
+      "customer": {
+        "branchId": 96668,
+        "brandPlusLogoURI": "/company/clogo_rmchoice_37106_0000.png",
+        "contactTelephone": "020 3322 3265",
+        "branchDisplayName": "OpenRent, London",
+        "branchName": "London",
+        "brandTradingName": "OpenRent",
+        "branchLandingPageUrl": "/estate-agents/agent/OpenRent/London-96668.html",
+        "development": false,
+        "showReducedProperties": true,
+        "commercial": false,
+        "brandPlusLogoUrl": "http://media.rightmove.co.uk/dir/company/clogo_rmchoice_37106_0000_max_100x50.png"
+      },
+      "distance": null,
+      "transactionType": "rent",
+      "productLabel": {
+        "productLabelText": "Premium Listing"
+      },
+      "commercial": false,
+      "development": false,
+      "residential": true,
+      "students": false,
+      "auction": false,
+      "feesApply": false,
+      "feesApplyText": null,
+      "displaySize": "",
+      "propertyTypeFullDescription": "2 bedroom flat",
+      "propertyUrl": "/property-to-rent/property-60151681.html",
+      "contactUrl": "/property-to-rent/contactBranch.html?propertyId=60151681",
+      "displayStatus": "",
+      "formattedBranchName": " by OpenRent, London",
+      "addedOrReduced": "Added on 30/05/2017",
+      "isRecent": false,
+      "formattedDistance": "",
+      "heading": "",
+      "mainImageSrc": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/97k/96668/60151681/96668_24122026052017_IMG_01_0000_max_476x317.jpg",
+      "mainImageSrcset": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/97k/96668/60151681/96668_24122026052017_IMG_01_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/97k/96668/60151681/96668_24122026052017_IMG_01_0000_max_656x437.jpg 2x",
+      "hasBrandPlus": false
+    },
+    {
+      "id": 48811293,
+      "bedrooms": 2,
+      "numberOfImages": 11,
+      "numberOfFloorplans": 1,
+      "numberOfVirtualTours": 0,
+      "summary": "FURNISHED / AVAILABLE FROM 01/07/17 - The accommodation extends to: reception hallway, stunning bay windowed open-plan lounge/kitchen with plenty of dining space, two proportionate double bedrooms with in-built fitted wardrobes, master en-suite shower room with contemporary splash back til...",
+      "displayAddress": "Randolph Gate , 4/1, Broomhill, Glasgow , G11 7DH",
+      "countryCode": "GB",
+      "location": {
+        "latitude": 55.88215,
+        "longitude": -4.32584
+      },
+      "images": [
+        {
+          "order": 1,
+          "url": "29k/28232/48811293/28232_RLWR2433_IMG_03_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/29k/28232/48811293/28232_RLWR2433_IMG_03_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/29k/28232/48811293/28232_RLWR2433_IMG_03_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/29k/28232/48811293/28232_RLWR2433_IMG_03_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 2,
+          "url": "29k/28232/48811293/28232_RLWR2433_IMG_02_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/29k/28232/48811293/28232_RLWR2433_IMG_02_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/29k/28232/48811293/28232_RLWR2433_IMG_02_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/29k/28232/48811293/28232_RLWR2433_IMG_02_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 3,
+          "url": "29k/28232/48811293/28232_RLWR2433_IMG_01_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/29k/28232/48811293/28232_RLWR2433_IMG_01_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/29k/28232/48811293/28232_RLWR2433_IMG_01_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/29k/28232/48811293/28232_RLWR2433_IMG_01_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 4,
+          "url": "29k/28232/48811293/28232_RLWR2433_IMG_11_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/29k/28232/48811293/28232_RLWR2433_IMG_11_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/29k/28232/48811293/28232_RLWR2433_IMG_11_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/29k/28232/48811293/28232_RLWR2433_IMG_11_0000_max_656x437.jpg 2x"
+        }
+      ],
+      "propertySubType": "Flat",
+      "listingUpdate": {
+        "listingUpdateReason": "new",
+        "listingUpdateDate": 1497270256000
+      },
+      "premiumListing": false,
+      "featuredProperty": false,
+      "price": {
+        "amount": 850,
+        "frequency": "monthly",
+        "currencyCode": "GBP",
+        "displayPrices": [
+          {
+            "displayPrice": "£850 pcm",
+            "displayPriceQualifier": ""
+          },
+          {
+            "displayPrice": "£196 pw",
+            "displayPriceQualifier": ""
+          }
+        ]
+      },
+      "customer": {
+        "branchId": 28232,
+        "brandPlusLogoURI": "/company/clogo_5156_0001.jpeg",
+        "contactTelephone": "0141 392 0186",
+        "branchDisplayName": "Clyde Property, Westend",
+        "branchName": "Westend",
+        "brandTradingName": "Clyde Property",
+        "branchLandingPageUrl": "/estate-agents/agent/Clyde-Property/Westend-28232.html",
+        "development": false,
+        "showReducedProperties": true,
+        "commercial": false,
+        "brandPlusLogoUrl": "http://media.rightmove.co.uk/dir/company/clogo_5156_0001_max_100x50.jpeg"
+      },
+      "distance": null,
+      "transactionType": "rent",
+      "productLabel": {
+        "productLabelText": "Premium Listing"
+      },
+      "commercial": false,
+      "development": false,
+      "residential": true,
+      "students": false,
+      "auction": false,
+      "feesApply": false,
+      "feesApplyText": null,
+      "displaySize": "",
+      "propertyTypeFullDescription": "2 bedroom flat",
+      "propertyUrl": "/property-to-rent/property-48811293.html",
+      "contactUrl": "/property-to-rent/contactBranch.html?propertyId=48811293",
+      "displayStatus": "",
+      "formattedBranchName": " by Clyde Property, Westend",
+      "addedOrReduced": "Added on 12/06/2017",
+      "isRecent": false,
+      "formattedDistance": "",
+      "heading": "",
+      "mainImageSrc": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/29k/28232/48811293/28232_RLWR2433_IMG_03_0000_max_476x317.jpg",
+      "mainImageSrcset": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/29k/28232/48811293/28232_RLWR2433_IMG_03_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/29k/28232/48811293/28232_RLWR2433_IMG_03_0000_max_656x437.jpg 2x",
+      "hasBrandPlus": true
+    },
+    {
+      "id": 66804101,
+      "bedrooms": 2,
+      "numberOfImages": 11,
+      "numberOfFloorplans": 0,
+      "numberOfVirtualTours": 0,
+      "summary": "Key Features AVAILABLE 04/06/2017 Rarely Available Spacious And Bright 2 bedroom end-terraced house Big green garden with two sheds Fridge Freezer New shower Washing Machine PVC windows with Double Glazing Gas Central Heating LED Lighting Secure Entry Par (con...",
+      "displayAddress": "Glendinning Road, Glasgow",
+      "countryCode": "GB",
+      "location": {
+        "latitude": 55.90129,
+        "longitude": -4.33099
+      },
+      "images": [
+        {
+          "order": 1,
+          "url": "108k/107699/66804101/107699_AIA1TL1000556_IMG_01_0001.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/108k/107699/66804101/107699_AIA1TL1000556_IMG_01_0001_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/108k/107699/66804101/107699_AIA1TL1000556_IMG_01_0001_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/108k/107699/66804101/107699_AIA1TL1000556_IMG_01_0001_max_656x437.jpg 2x"
+        },
+        {
+          "order": 2,
+          "url": "108k/107699/66804101/107699_AIA1TL1000556_IMG_02_0002.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/108k/107699/66804101/107699_AIA1TL1000556_IMG_02_0002_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/108k/107699/66804101/107699_AIA1TL1000556_IMG_02_0002_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/108k/107699/66804101/107699_AIA1TL1000556_IMG_02_0002_max_656x437.jpg 2x"
+        },
+        {
+          "order": 3,
+          "url": "108k/107699/66804101/107699_AIA1TL1000556_IMG_03_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/108k/107699/66804101/107699_AIA1TL1000556_IMG_03_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/108k/107699/66804101/107699_AIA1TL1000556_IMG_03_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/108k/107699/66804101/107699_AIA1TL1000556_IMG_03_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 4,
+          "url": "108k/107699/66804101/107699_AIA1TL1000556_IMG_04_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/108k/107699/66804101/107699_AIA1TL1000556_IMG_04_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/108k/107699/66804101/107699_AIA1TL1000556_IMG_04_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/108k/107699/66804101/107699_AIA1TL1000556_IMG_04_0000_max_656x437.jpg 2x"
+        }
+      ],
+      "propertySubType": "End of Terrace",
+      "listingUpdate": {
+        "listingUpdateReason": "new",
+        "listingUpdateDate": 1496407504000
+      },
+      "premiumListing": false,
+      "featuredProperty": false,
+      "price": {
+        "amount": 795,
+        "frequency": "monthly",
+        "currencyCode": "GBP",
+        "displayPrices": [
+          {
+            "displayPrice": "£795 pcm",
+            "displayPriceQualifier": "Fixed Price"
+          },
+          {
+            "displayPrice": "£183 pw",
+            "displayPriceQualifier": "Fixed Price"
+          }
+        ]
+      },
+      "customer": {
+        "branchId": 107699,
+        "brandPlusLogoURI": "/company/clogo_rmchoice_40736_0003.jpeg",
+        "contactTelephone": "0141 392 0909",
+        "branchDisplayName": "AIA Real Estate Ltd, Glasgow",
+        "branchName": "Glasgow",
+        "brandTradingName": "AIA Real Estate Ltd",
+        "branchLandingPageUrl": "/estate-agents/agent/AIA-Real-Estate-Ltd/Glasgow-107699.html",
+        "development": false,
+        "showReducedProperties": true,
+        "commercial": true,
+        "brandPlusLogoUrl": "http://media.rightmove.co.uk/dir/company/clogo_rmchoice_40736_0003_max_100x50.jpeg"
+      },
+      "distance": null,
+      "transactionType": "rent",
+      "productLabel": {
+        "productLabelText": "Premium Listing"
+      },
+      "commercial": false,
+      "development": false,
+      "residential": true,
+      "students": false,
+      "auction": false,
+      "feesApply": false,
+      "feesApplyText": null,
+      "displaySize": "",
+      "propertyTypeFullDescription": "2 bedroom end of terrace house",
+      "propertyUrl": "/property-to-rent/property-66804101.html",
+      "contactUrl": "/property-to-rent/contactBranch.html?propertyId=66804101",
+      "displayStatus": "",
+      "formattedBranchName": " by AIA Real Estate Ltd, Glasgow",
+      "addedOrReduced": "Added on 02/06/2017",
+      "isRecent": false,
+      "formattedDistance": "",
+      "heading": "",
+      "mainImageSrc": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/108k/107699/66804101/107699_AIA1TL1000556_IMG_01_0001_max_476x317.jpg",
+      "mainImageSrcset": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/108k/107699/66804101/107699_AIA1TL1000556_IMG_01_0001_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/108k/107699/66804101/107699_AIA1TL1000556_IMG_01_0001_max_656x437.jpg 2x",
+      "hasBrandPlus": true
+    },
+    {
+      "id": 66911717,
+      "bedrooms": 3,
+      "numberOfImages": 11,
+      "numberOfFloorplans": 0,
+      "numberOfVirtualTours": 0,
+      "summary": "Spacious, 3 bedroom end terraced house set in a smart cul de sac development in the west end district of Dawsholm nestled between Bearsden, Westerton and Anniesland. Locally there is a superb selection of shopping at Anniesland Cross &amp; Bearsden; M&amp;S, Aldi, Morrisons, Asda and others, regular (con...",
+      "displayAddress": "9 Ilay Court, Glasgow G61 1RT",
+      "countryCode": "GB",
+      "location": {
+        "latitude": 55.898176,
+        "longitude": -4.318743
+      },
+      "images": [
+        {
+          "order": 1,
+          "url": "81k/80389/66911717/80389_IVW1000726_IMG_01_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/81k/80389/66911717/80389_IVW1000726_IMG_01_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/81k/80389/66911717/80389_IVW1000726_IMG_01_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/81k/80389/66911717/80389_IVW1000726_IMG_01_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 2,
+          "url": "81k/80389/66911717/80389_IVW1000726_IMG_02_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/81k/80389/66911717/80389_IVW1000726_IMG_02_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/81k/80389/66911717/80389_IVW1000726_IMG_02_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/81k/80389/66911717/80389_IVW1000726_IMG_02_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 3,
+          "url": "81k/80389/66911717/80389_IVW1000726_IMG_03_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/81k/80389/66911717/80389_IVW1000726_IMG_03_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/81k/80389/66911717/80389_IVW1000726_IMG_03_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/81k/80389/66911717/80389_IVW1000726_IMG_03_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 4,
+          "url": "81k/80389/66911717/80389_IVW1000726_IMG_04_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/81k/80389/66911717/80389_IVW1000726_IMG_04_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/81k/80389/66911717/80389_IVW1000726_IMG_04_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/81k/80389/66911717/80389_IVW1000726_IMG_04_0000_max_656x437.jpg 2x"
+        }
+      ],
+      "propertySubType": "Flat",
+      "listingUpdate": {
+        "listingUpdateReason": "new",
+        "listingUpdateDate": 1496831407000
+      },
+      "premiumListing": false,
+      "featuredProperty": false,
+      "price": {
+        "amount": 795,
+        "frequency": "monthly",
+        "currencyCode": "GBP",
+        "displayPrices": [
+          {
+            "displayPrice": "£795 pcm",
+            "displayPriceQualifier": ""
+          },
+          {
+            "displayPrice": "£183 pw",
+            "displayPriceQualifier": ""
+          }
+        ]
+      },
+      "customer": {
+        "branchId": 80389,
+        "brandPlusLogoURI": "/brand/brand_logo_34393_0000.jpeg",
+        "contactTelephone": "0141 392 0229",
+        "branchDisplayName": "Ivy Property, Glasgow",
+        "branchName": "Glasgow",
+        "brandTradingName": "Ivy Property",
+        "branchLandingPageUrl": "/estate-agents/agent/Ivy-Property/Glasgow-80389.html",
+        "development": false,
+        "showReducedProperties": true,
+        "commercial": false,
+        "brandPlusLogoUrl": "http://media.rightmove.co.uk/dir/brand/brand_logo_34393_0000_max_100x50.jpeg"
+      },
+      "distance": null,
+      "transactionType": "rent",
+      "productLabel": {
+        "productLabelText": "Premium Listing"
+      },
+      "commercial": false,
+      "development": false,
+      "residential": true,
+      "students": false,
+      "auction": false,
+      "feesApply": false,
+      "feesApplyText": null,
+      "displaySize": "",
+      "propertyTypeFullDescription": "3 bedroom flat",
+      "propertyUrl": "/property-to-rent/property-66911717.html",
+      "contactUrl": "/property-to-rent/contactBranch.html?propertyId=66911717",
+      "displayStatus": "",
+      "formattedBranchName": " by Ivy Property, Glasgow",
+      "addedOrReduced": "Added on 07/06/2017",
+      "isRecent": false,
+      "formattedDistance": "",
+      "heading": "",
+      "mainImageSrc": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/81k/80389/66911717/80389_IVW1000726_IMG_01_0000_max_476x317.jpg",
+      "mainImageSrcset": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/81k/80389/66911717/80389_IVW1000726_IMG_01_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/81k/80389/66911717/80389_IVW1000726_IMG_01_0000_max_656x437.jpg 2x",
+      "hasBrandPlus": true
+    },
+    {
+      "id": 60231304,
+      "bedrooms": 2,
+      "numberOfImages": 10,
+      "numberOfFloorplans": 0,
+      "numberOfVirtualTours": 0,
+      "summary": "Available 7th July Lovely main door raised terraced villa offering 2 bedrooms, bright lounge with kitchen off. Bathroom with shower over bath. gch, lovely garden, dg, parking on street",
+      "displayAddress": "48 spey road bearsden, G61",
+      "countryCode": "GB",
+      "location": {
+        "latitude": 55.9087,
+        "longitude": -4.3429
+      },
+      "images": [
+        {
+          "order": 0,
+          "url": "63k/62846/60231304/62846_602672_IMG_01_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62846/60231304/62846_602672_IMG_01_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62846/60231304/62846_602672_IMG_01_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62846/60231304/62846_602672_IMG_01_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 1,
+          "url": "63k/62846/60231304/62846_602672_IMG_02_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62846/60231304/62846_602672_IMG_02_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62846/60231304/62846_602672_IMG_02_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62846/60231304/62846_602672_IMG_02_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 1,
+          "url": "63k/62846/60231304/62846_602672_IMG_07_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62846/60231304/62846_602672_IMG_07_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62846/60231304/62846_602672_IMG_07_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62846/60231304/62846_602672_IMG_07_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 1,
+          "url": "63k/62846/60231304/62846_602672_IMG_09_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62846/60231304/62846_602672_IMG_09_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62846/60231304/62846_602672_IMG_09_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62846/60231304/62846_602672_IMG_09_0000_max_656x437.jpg 2x"
+        }
+      ],
+      "propertySubType": "Terraced",
+      "listingUpdate": {
+        "listingUpdateReason": "new",
+        "listingUpdateDate": 1496455326000
+      },
+      "premiumListing": false,
+      "featuredProperty": false,
+      "price": {
+        "amount": 785,
+        "frequency": "monthly",
+        "currencyCode": "GBP",
+        "displayPrices": [
+          {
+            "displayPrice": "£785 pcm",
+            "displayPriceQualifier": ""
+          },
+          {
+            "displayPrice": "£181 pw",
+            "displayPriceQualifier": ""
+          }
+        ]
+      },
+      "customer": {
+        "branchId": 62846,
+        "brandPlusLogoURI": "/brand/brand_rmchoice_logo_29612_0000.png",
+        "contactTelephone": "0141 392 0287",
+        "branchDisplayName": "Parker Property, Glasgow",
+        "branchName": "Glasgow",
+        "brandTradingName": "Parker Property",
+        "branchLandingPageUrl": "/estate-agents/agent/Parker-Property/Glasgow-62846.html",
+        "development": false,
+        "showReducedProperties": true,
+        "commercial": false,
+        "brandPlusLogoUrl": "http://media.rightmove.co.uk/dir/brand/brand_rmchoice_logo_29612_0000_max_100x50.png"
+      },
+      "distance": null,
+      "transactionType": "rent",
+      "productLabel": {
+        "productLabelText": "Premium Listing"
+      },
+      "commercial": false,
+      "development": false,
+      "residential": true,
+      "students": false,
+      "auction": false,
+      "feesApply": false,
+      "feesApplyText": null,
+      "displaySize": "",
+      "propertyTypeFullDescription": "2 bedroom terraced house",
+      "propertyUrl": "/property-to-rent/property-60231304.html",
+      "contactUrl": "/property-to-rent/contactBranch.html?propertyId=60231304",
+      "displayStatus": "",
+      "formattedBranchName": " by Parker Property, Glasgow",
+      "addedOrReduced": "Added on 03/06/2017",
+      "isRecent": false,
+      "formattedDistance": "",
+      "heading": "",
+      "mainImageSrc": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62846/60231304/62846_602672_IMG_01_0000_max_476x317.jpg",
+      "mainImageSrcset": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62846/60231304/62846_602672_IMG_01_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62846/60231304/62846_602672_IMG_01_0000_max_656x437.jpg 2x",
+      "hasBrandPlus": true
+    },
+    {
+      "id": 48830679,
+      "bedrooms": 2,
+      "numberOfImages": 7,
+      "numberOfFloorplans": 0,
+      "numberOfVirtualTours": 0,
+      "summary": "This beautifully presented Two bedroomed unfurnished apartment has recently been upgraded to include new flooring and fresh decor throughout, a new stylish family bathroom with shower over bath and an attractive fully fitted modern kitchen.This fabulous ground floor flat is in immacul",
+      "displayAddress": "Helensburgh Drive Jordanhill G13 1XN",
+      "countryCode": "GB",
+      "location": {
+        "latitude": 55.888,
+        "longitude": -4.33831
+      },
+      "images": [
+        {
+          "order": 1,
+          "url": "94k/93859/48830679/93859_1973_IMG_01_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/94k/93859/48830679/93859_1973_IMG_01_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/94k/93859/48830679/93859_1973_IMG_01_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/94k/93859/48830679/93859_1973_IMG_01_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 2,
+          "url": "94k/93859/48830679/93859_1973_IMG_02_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/94k/93859/48830679/93859_1973_IMG_02_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/94k/93859/48830679/93859_1973_IMG_02_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/94k/93859/48830679/93859_1973_IMG_02_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 3,
+          "url": "94k/93859/48830679/93859_1973_IMG_03_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/94k/93859/48830679/93859_1973_IMG_03_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/94k/93859/48830679/93859_1973_IMG_03_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/94k/93859/48830679/93859_1973_IMG_03_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 4,
+          "url": "94k/93859/48830679/93859_1973_IMG_04_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/94k/93859/48830679/93859_1973_IMG_04_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/94k/93859/48830679/93859_1973_IMG_04_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/94k/93859/48830679/93859_1973_IMG_04_0000_max_656x437.jpg 2x"
+        }
+      ],
+      "propertySubType": "Flat",
+      "listingUpdate": {
+        "listingUpdateReason": "new",
+        "listingUpdateDate": 1497350493000
+      },
+      "premiumListing": false,
+      "featuredProperty": false,
+      "price": {
+        "amount": 775,
+        "frequency": "monthly",
+        "currencyCode": "GBP",
+        "displayPrices": [
+          {
+            "displayPrice": "£775 pcm",
+            "displayPriceQualifier": ""
+          },
+          {
+            "displayPrice": "£179 pw",
+            "displayPriceQualifier": ""
+          }
+        ]
+      },
+      "customer": {
+        "branchId": 93859,
+        "brandPlusLogoURI": "/94k/93859/branch_rmchoice_logo_93859_0001.jpeg",
+        "contactTelephone": "03339 395219",
+        "branchDisplayName": "Homes & Whatson LTD, Glasgow",
+        "branchName": "Glasgow",
+        "brandTradingName": "Homes & Whatson LTD",
+        "branchLandingPageUrl": "/estate-agents/agent/Homes-and-Whatson-LTD/Glasgow-93859.html",
+        "development": false,
+        "showReducedProperties": true,
+        "commercial": false,
+        "brandPlusLogoUrl": "http://media.rightmove.co.uk/dir/94k/93859/branch_rmchoice_logo_93859_0001_max_100x50.jpeg"
+      },
+      "distance": null,
+      "transactionType": "rent",
+      "productLabel": {
+        "productLabelText": "Premium Listing"
+      },
+      "commercial": false,
+      "development": false,
+      "residential": true,
+      "students": false,
+      "auction": false,
+      "feesApply": false,
+      "feesApplyText": null,
+      "displaySize": "",
+      "propertyTypeFullDescription": "2 bedroom flat",
+      "propertyUrl": "/property-to-rent/property-48830679.html",
+      "contactUrl": "/property-to-rent/contactBranch.html?propertyId=48830679",
+      "displayStatus": "",
+      "formattedBranchName": " by Homes & Whatson LTD, Glasgow",
+      "addedOrReduced": "Added on 13/06/2017",
+      "isRecent": false,
+      "formattedDistance": "",
+      "heading": "",
+      "mainImageSrc": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/94k/93859/48830679/93859_1973_IMG_01_0000_max_476x317.jpg",
+      "mainImageSrcset": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/94k/93859/48830679/93859_1973_IMG_01_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/94k/93859/48830679/93859_1973_IMG_01_0000_max_656x437.jpg 2x",
+      "hasBrandPlus": true
+    },
+    {
+      "id": 66934631,
+      "bedrooms": 2,
+      "numberOfImages": 26,
+      "numberOfFloorplans": 0,
+      "numberOfVirtualTours": 0,
+      "summary": "Tay Letting is delighted to bring to the letting market this modern two bedroom apartment located in the very popular Anniesland area.\nThe ground floor property consists of a large bright living room with sliding doors through to a modern kitchen with built in appliances. Two double bedrooms...",
+      "displayAddress": "Strathcona Drive, G13",
+      "countryCode": "GB",
+      "location": {
+        "latitude": 55.8931,
+        "longitude": -4.3215
+      },
+      "images": [
+        {
+          "order": 0,
+          "url": "110k/109514/66934631/109514_603557_IMG_01_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66934631/109514_603557_IMG_01_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66934631/109514_603557_IMG_01_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66934631/109514_603557_IMG_01_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 2,
+          "url": "110k/109514/66934631/109514_603557_IMG_25_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66934631/109514_603557_IMG_25_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66934631/109514_603557_IMG_25_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66934631/109514_603557_IMG_25_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 3,
+          "url": "110k/109514/66934631/109514_603557_IMG_13_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66934631/109514_603557_IMG_13_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66934631/109514_603557_IMG_13_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66934631/109514_603557_IMG_13_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 4,
+          "url": "110k/109514/66934631/109514_603557_IMG_23_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66934631/109514_603557_IMG_23_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66934631/109514_603557_IMG_23_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66934631/109514_603557_IMG_23_0000_max_656x437.jpg 2x"
+        }
+      ],
+      "propertySubType": "Flat",
+      "listingUpdate": {
+        "listingUpdateReason": "new",
+        "listingUpdateDate": 1496887432000
+      },
+      "premiumListing": false,
+      "featuredProperty": false,
+      "price": {
+        "amount": 750,
+        "frequency": "monthly",
+        "currencyCode": "GBP",
+        "displayPrices": [
+          {
+            "displayPrice": "£750 pcm",
+            "displayPriceQualifier": ""
+          },
+          {
+            "displayPrice": "£173 pw",
+            "displayPriceQualifier": ""
+          }
+        ]
+      },
+      "customer": {
+        "branchId": 109514,
+        "brandPlusLogoURI": "/company/clogo_rmchoice_41399_0000.png",
+        "contactTelephone": "0141 392 0303",
+        "branchDisplayName": "TAY LETTING, Glasgow",
+        "branchName": "Glasgow",
+        "brandTradingName": "TAY LETTING",
+        "branchLandingPageUrl": "/estate-agents/agent/TAY-LETTING/Glasgow-109514.html",
+        "development": false,
+        "showReducedProperties": true,
+        "commercial": false,
+        "brandPlusLogoUrl": "http://media.rightmove.co.uk/dir/company/clogo_rmchoice_41399_0000_max_100x50.png"
+      },
+      "distance": null,
+      "transactionType": "rent",
+      "productLabel": {
+        "productLabelText": "Premium Listing"
+      },
+      "commercial": false,
+      "development": false,
+      "residential": true,
+      "students": false,
+      "auction": false,
+      "feesApply": false,
+      "feesApplyText": null,
+      "displaySize": "",
+      "propertyTypeFullDescription": "2 bedroom flat",
+      "propertyUrl": "/property-to-rent/property-66934631.html",
+      "contactUrl": "/property-to-rent/contactBranch.html?propertyId=66934631",
+      "displayStatus": "",
+      "formattedBranchName": " by TAY LETTING, Glasgow",
+      "addedOrReduced": "Added on 08/06/2017",
+      "isRecent": false,
+      "formattedDistance": "",
+      "heading": "",
+      "mainImageSrc": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66934631/109514_603557_IMG_01_0000_max_476x317.jpg",
+      "mainImageSrcset": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66934631/109514_603557_IMG_01_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66934631/109514_603557_IMG_01_0000_max_656x437.jpg 2x",
+      "hasBrandPlus": true
+    },
+    {
+      "id": 48223842,
+      "bedrooms": 2,
+      "numberOfImages": 14,
+      "numberOfFloorplans": 0,
+      "numberOfVirtualTours": 0,
+      "summary": "An immaculate two bedroomed third floor apartment in the heart of Anniesland superbly placed for all amenities and transport links. This modern furnished apartment offers great accommodation and super location.",
+      "displayAddress": "179 61 Munro Place , Glasgow G13 2BD",
+      "countryCode": "GB",
+      "location": {
+        "latitude": 55.89237,
+        "longitude": -4.33357
+      },
+      "images": [
+        {
+          "order": 0,
+          "url": "72k/71789/48223842/71789_ACT_179_IMG_00_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/72k/71789/48223842/71789_ACT_179_IMG_00_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/72k/71789/48223842/71789_ACT_179_IMG_00_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/72k/71789/48223842/71789_ACT_179_IMG_00_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 1,
+          "url": "72k/71789/48223842/71789_ACT_179_IMG_01_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/72k/71789/48223842/71789_ACT_179_IMG_01_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/72k/71789/48223842/71789_ACT_179_IMG_01_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/72k/71789/48223842/71789_ACT_179_IMG_01_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 2,
+          "url": "72k/71789/48223842/71789_ACT_179_IMG_02_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/72k/71789/48223842/71789_ACT_179_IMG_02_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/72k/71789/48223842/71789_ACT_179_IMG_02_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/72k/71789/48223842/71789_ACT_179_IMG_02_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 3,
+          "url": "72k/71789/48223842/71789_ACT_179_IMG_03_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/72k/71789/48223842/71789_ACT_179_IMG_03_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/72k/71789/48223842/71789_ACT_179_IMG_03_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/72k/71789/48223842/71789_ACT_179_IMG_03_0000_max_656x437.jpg 2x"
+        }
+      ],
+      "propertySubType": "Flat",
+      "listingUpdate": {
+        "listingUpdateReason": "new",
+        "listingUpdateDate": 1493640014000
+      },
+      "premiumListing": false,
+      "featuredProperty": false,
+      "price": {
+        "amount": 750,
+        "frequency": "monthly",
+        "currencyCode": "GBP",
+        "displayPrices": [
+          {
+            "displayPrice": "£750 pcm",
+            "displayPriceQualifier": ""
+          },
+          {
+            "displayPrice": "£173 pw",
+            "displayPriceQualifier": ""
+          }
+        ]
+      },
+      "customer": {
+        "branchId": 71789,
+        "brandPlusLogoURI": "/company/clogo_28151_0001.jpg",
+        "contactTelephone": "0141 333 0990",
+        "branchDisplayName": "Zone Letting, Glasgow",
+        "branchName": "Glasgow",
+        "brandTradingName": "Zone Letting",
+        "branchLandingPageUrl": "/estate-agents/agent/Zone-Letting/Glasgow-71789.html",
+        "development": false,
+        "showReducedProperties": true,
+        "commercial": false,
+        "brandPlusLogoUrl": "http://media.rightmove.co.uk/dir/company/clogo_28151_0001_max_100x50.jpg"
+      },
+      "distance": null,
+      "transactionType": "rent",
+      "productLabel": {
+        "productLabelText": "Premium Listing"
+      },
+      "commercial": false,
+      "development": false,
+      "residential": true,
+      "students": false,
+      "auction": false,
+      "feesApply": false,
+      "feesApplyText": null,
+      "displaySize": "",
+      "propertyTypeFullDescription": "2 bedroom flat",
+      "propertyUrl": "/property-to-rent/property-48223842.html",
+      "contactUrl": "/property-to-rent/contactBranch.html?propertyId=48223842",
+      "displayStatus": "",
+      "formattedBranchName": " by Zone Letting, Glasgow",
+      "addedOrReduced": "Added on 01/05/2017",
+      "isRecent": false,
+      "formattedDistance": "",
+      "heading": "",
+      "mainImageSrc": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/72k/71789/48223842/71789_ACT_179_IMG_00_0000_max_476x317.jpg",
+      "mainImageSrcset": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/72k/71789/48223842/71789_ACT_179_IMG_00_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/72k/71789/48223842/71789_ACT_179_IMG_00_0000_max_656x437.jpg 2x",
+      "hasBrandPlus": true
+    },
+    {
+      "id": 59820154,
+      "bedrooms": 2,
+      "numberOfImages": 6,
+      "numberOfFloorplans": 0,
+      "numberOfVirtualTours": 0,
+      "summary": "Lovely bright first floor flat offering lounge with well fitted kitchen off. Double bedroom, single bedroom, full bathroom and en site shower room. balcony, storage, gch, dg, secure entry, private parking. offered fully furnished and lying minutes from station, road links, shops etc",
+      "displayAddress": "Blanefield Gardens flat 1/1 at 1, G13",
+      "countryCode": "GB",
+      "location": {
+        "latitude": 55.8986,
+        "longitude": -4.3272
+      },
+      "images": [
+        {
+          "order": 0,
+          "url": "63k/62846/59820154/62846_599945_IMG_01_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62846/59820154/62846_599945_IMG_01_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62846/59820154/62846_599945_IMG_01_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62846/59820154/62846_599945_IMG_01_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 1,
+          "url": "63k/62846/59820154/62846_599945_IMG_06_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62846/59820154/62846_599945_IMG_06_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62846/59820154/62846_599945_IMG_06_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62846/59820154/62846_599945_IMG_06_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 1,
+          "url": "63k/62846/59820154/62846_599945_IMG_03_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62846/59820154/62846_599945_IMG_03_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62846/59820154/62846_599945_IMG_03_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62846/59820154/62846_599945_IMG_03_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 1,
+          "url": "63k/62846/59820154/62846_599945_IMG_04_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62846/59820154/62846_599945_IMG_04_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62846/59820154/62846_599945_IMG_04_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62846/59820154/62846_599945_IMG_04_0000_max_656x437.jpg 2x"
+        }
+      ],
+      "propertySubType": "Flat",
+      "listingUpdate": {
+        "listingUpdateReason": "new",
+        "listingUpdateDate": 1494982868000
+      },
+      "premiumListing": false,
+      "featuredProperty": false,
+      "price": {
+        "amount": 750,
+        "frequency": "monthly",
+        "currencyCode": "GBP",
+        "displayPrices": [
+          {
+            "displayPrice": "£750 pcm",
+            "displayPriceQualifier": ""
+          },
+          {
+            "displayPrice": "£173 pw",
+            "displayPriceQualifier": ""
+          }
+        ]
+      },
+      "customer": {
+        "branchId": 62846,
+        "brandPlusLogoURI": "/brand/brand_rmchoice_logo_29612_0000.png",
+        "contactTelephone": "0141 392 0287",
+        "branchDisplayName": "Parker Property, Glasgow",
+        "branchName": "Glasgow",
+        "brandTradingName": "Parker Property",
+        "branchLandingPageUrl": "/estate-agents/agent/Parker-Property/Glasgow-62846.html",
+        "development": false,
+        "showReducedProperties": true,
+        "commercial": false,
+        "brandPlusLogoUrl": "http://media.rightmove.co.uk/dir/brand/brand_rmchoice_logo_29612_0000_max_100x50.png"
+      },
+      "distance": null,
+      "transactionType": "rent",
+      "productLabel": {
+        "productLabelText": "Premium Listing"
+      },
+      "commercial": false,
+      "development": false,
+      "residential": true,
+      "students": false,
+      "auction": false,
+      "feesApply": false,
+      "feesApplyText": null,
+      "displaySize": "",
+      "propertyTypeFullDescription": "2 bedroom flat",
+      "propertyUrl": "/property-to-rent/property-59820154.html",
+      "contactUrl": "/property-to-rent/contactBranch.html?propertyId=59820154",
+      "displayStatus": "",
+      "formattedBranchName": " by Parker Property, Glasgow",
+      "addedOrReduced": "Added on 17/05/2017",
+      "isRecent": false,
+      "formattedDistance": "",
+      "heading": "",
+      "mainImageSrc": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62846/59820154/62846_599945_IMG_01_0000_max_476x317.jpg",
+      "mainImageSrcset": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62846/59820154/62846_599945_IMG_01_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62846/59820154/62846_599945_IMG_01_0000_max_656x437.jpg 2x",
+      "hasBrandPlus": true
+    },
+    {
+      "id": 66934637,
+      "bedrooms": 2,
+      "numberOfImages": 40,
+      "numberOfFloorplans": 0,
+      "numberOfVirtualTours": 0,
+      "summary": "Tay Letting is delighted to bring to the market this modern ground floor apartment located on a quiet street in the popular Scotstounhill area of Glasgow. The property compromises of a bright open hallway, two double bedrooms both featuring built in wardrobes and the master bedroom benefiting...",
+      "displayAddress": "Raploch Avenue, G14",
+      "countryCode": "GB",
+      "location": {
+        "latitude": 55.8812,
+        "longitude": -4.3529
+      },
+      "images": [
+        {
+          "order": 0,
+          "url": "110k/109514/66934637/109514_603568_IMG_01_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66934637/109514_603568_IMG_01_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66934637/109514_603568_IMG_01_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66934637/109514_603568_IMG_01_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 2,
+          "url": "110k/109514/66934637/109514_603568_IMG_18_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66934637/109514_603568_IMG_18_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66934637/109514_603568_IMG_18_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66934637/109514_603568_IMG_18_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 2,
+          "url": "110k/109514/66934637/109514_603568_IMG_31_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66934637/109514_603568_IMG_31_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66934637/109514_603568_IMG_31_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66934637/109514_603568_IMG_31_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 3,
+          "url": "110k/109514/66934637/109514_603568_IMG_09_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66934637/109514_603568_IMG_09_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66934637/109514_603568_IMG_09_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66934637/109514_603568_IMG_09_0000_max_656x437.jpg 2x"
+        }
+      ],
+      "propertySubType": "Flat",
+      "listingUpdate": {
+        "listingUpdateReason": "new",
+        "listingUpdateDate": 1496887442000
+      },
+      "premiumListing": false,
+      "featuredProperty": false,
+      "price": {
+        "amount": 750,
+        "frequency": "monthly",
+        "currencyCode": "GBP",
+        "displayPrices": [
+          {
+            "displayPrice": "£750 pcm",
+            "displayPriceQualifier": ""
+          },
+          {
+            "displayPrice": "£173 pw",
+            "displayPriceQualifier": ""
+          }
+        ]
+      },
+      "customer": {
+        "branchId": 109514,
+        "brandPlusLogoURI": "/company/clogo_rmchoice_41399_0000.png",
+        "contactTelephone": "0141 392 0303",
+        "branchDisplayName": "TAY LETTING, Glasgow",
+        "branchName": "Glasgow",
+        "brandTradingName": "TAY LETTING",
+        "branchLandingPageUrl": "/estate-agents/agent/TAY-LETTING/Glasgow-109514.html",
+        "development": false,
+        "showReducedProperties": true,
+        "commercial": false,
+        "brandPlusLogoUrl": "http://media.rightmove.co.uk/dir/company/clogo_rmchoice_41399_0000_max_100x50.png"
+      },
+      "distance": null,
+      "transactionType": "rent",
+      "productLabel": {
+        "productLabelText": "Premium Listing"
+      },
+      "commercial": false,
+      "development": false,
+      "residential": true,
+      "students": false,
+      "auction": false,
+      "feesApply": false,
+      "feesApplyText": null,
+      "displaySize": "",
+      "propertyTypeFullDescription": "2 bedroom flat",
+      "propertyUrl": "/property-to-rent/property-66934637.html",
+      "contactUrl": "/property-to-rent/contactBranch.html?propertyId=66934637",
+      "displayStatus": "",
+      "formattedBranchName": " by TAY LETTING, Glasgow",
+      "addedOrReduced": "Added on 08/06/2017",
+      "isRecent": false,
+      "formattedDistance": "",
+      "heading": "",
+      "mainImageSrc": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66934637/109514_603568_IMG_01_0000_max_476x317.jpg",
+      "mainImageSrcset": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66934637/109514_603568_IMG_01_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66934637/109514_603568_IMG_01_0000_max_656x437.jpg 2x",
+      "hasBrandPlus": true
+    },
+    {
+      "id": 65620457,
+      "bedrooms": 3,
+      "numberOfImages": 5,
+      "numberOfFloorplans": 0,
+      "numberOfVirtualTours": 0,
+      "summary": "Well-presented traditional second floor flat with NO HMO lincence, situated close to local amenities and with good transport links to the City Centre. The property comprises of 3 double bedrooms, spacious lounge modern fitted kitchen and bathroom with electric shower. The property further benefit...",
+      "displayAddress": "ANNIESLAND, Greatwestern Road",
+      "countryCode": "GB",
+      "location": {
+        "latitude": 55.8911,
+        "longitude": -4.32824
+      },
+      "images": [
+        {
+          "order": 1,
+          "url": "13k/12054/65620457/12054_100720001230_IMG_01_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/13k/12054/65620457/12054_100720001230_IMG_01_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/13k/12054/65620457/12054_100720001230_IMG_01_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/13k/12054/65620457/12054_100720001230_IMG_01_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 2,
+          "url": "13k/12054/65620457/12054_100720001230_IMG_02_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/13k/12054/65620457/12054_100720001230_IMG_02_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/13k/12054/65620457/12054_100720001230_IMG_02_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/13k/12054/65620457/12054_100720001230_IMG_02_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 3,
+          "url": "13k/12054/65620457/12054_100720001230_IMG_03_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/13k/12054/65620457/12054_100720001230_IMG_03_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/13k/12054/65620457/12054_100720001230_IMG_03_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/13k/12054/65620457/12054_100720001230_IMG_03_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 4,
+          "url": "13k/12054/65620457/12054_100720001230_IMG_04_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/13k/12054/65620457/12054_100720001230_IMG_04_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/13k/12054/65620457/12054_100720001230_IMG_04_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/13k/12054/65620457/12054_100720001230_IMG_04_0000_max_656x437.jpg 2x"
+        }
+      ],
+      "propertySubType": "Flat",
+      "listingUpdate": {
+        "listingUpdateReason": "new",
+        "listingUpdateDate": 1491220798000
+      },
+      "premiumListing": false,
+      "featuredProperty": false,
+      "price": {
+        "amount": 750,
+        "frequency": "monthly",
+        "currencyCode": "GBP",
+        "displayPrices": [
+          {
+            "displayPrice": "£750 pcm",
+            "displayPriceQualifier": ""
+          },
+          {
+            "displayPrice": "£173 pw",
+            "displayPriceQualifier": ""
+          }
+        ]
+      },
+      "customer": {
+        "branchId": 12054,
+        "brandPlusLogoURI": "/brand/brand_rmchoice_logo_46306_0002.jpeg",
+        "contactTelephone": "0141 392 0163",
+        "branchDisplayName": "Martin & Co, Glasgow West End - Lettings & Sales",
+        "branchName": "Glasgow West End - Lettings & Sales",
+        "brandTradingName": "Martin & Co",
+        "branchLandingPageUrl": "/estate-agents/agent/Martin-and-Co/Glasgow-West-End---Lettings-and-Sales-12054.html",
+        "development": false,
+        "showReducedProperties": true,
+        "commercial": false,
+        "brandPlusLogoUrl": "http://media.rightmove.co.uk/dir/brand/brand_rmchoice_logo_46306_0002_max_100x50.jpeg"
+      },
+      "distance": null,
+      "transactionType": "rent",
+      "productLabel": {
+        "productLabelText": "Premium Listing"
+      },
+      "commercial": false,
+      "development": false,
+      "residential": true,
+      "students": true,
+      "auction": false,
+      "feesApply": false,
+      "feesApplyText": null,
+      "displaySize": "",
+      "propertyTypeFullDescription": "3 bedroom flat",
+      "propertyUrl": "/property-to-rent/property-65620457.html",
+      "contactUrl": "/property-to-rent/contactBranch.html?propertyId=65620457",
+      "displayStatus": "",
+      "formattedBranchName": " by Martin & Co, Glasgow West End - Lettings & Sales",
+      "addedOrReduced": "Added on 03/04/2017",
+      "isRecent": false,
+      "formattedDistance": "",
+      "heading": "",
+      "mainImageSrc": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/13k/12054/65620457/12054_100720001230_IMG_01_0000_max_476x317.jpg",
+      "mainImageSrcset": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/13k/12054/65620457/12054_100720001230_IMG_01_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/13k/12054/65620457/12054_100720001230_IMG_01_0000_max_656x437.jpg 2x",
+      "hasBrandPlus": true
+    },
+    {
+      "id": 66849500,
+      "bedrooms": 2,
+      "numberOfImages": 9,
+      "numberOfFloorplans": 0,
+      "numberOfVirtualTours": 0,
+      "summary": "Beautifully presented modern two bedroom first floor apartment in desirable residential area of Glasgow West End.i",
+      "displayAddress": "Craigend Circus, Glasgow, G13",
+      "countryCode": "GB",
+      "location": {
+        "latitude": 55.89115,
+        "longitude": -4.3347
+      },
+      "images": [
+        {
+          "order": 0,
+          "url": "165k/164348/66849500/164348_KC2-12CC_IMG_00_0000.JPG",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/165k/164348/66849500/164348_KC2-12CC_IMG_00_0000_max_476x317.JPG",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/165k/164348/66849500/164348_KC2-12CC_IMG_00_0000_max_476x317.JPG 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/165k/164348/66849500/164348_KC2-12CC_IMG_00_0000_max_656x437.JPG 2x"
+        },
+        {
+          "order": 1,
+          "url": "165k/164348/66849500/164348_KC2-12CC_IMG_01_0000.JPG",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/165k/164348/66849500/164348_KC2-12CC_IMG_01_0000_max_476x317.JPG",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/165k/164348/66849500/164348_KC2-12CC_IMG_01_0000_max_476x317.JPG 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/165k/164348/66849500/164348_KC2-12CC_IMG_01_0000_max_656x437.JPG 2x"
+        },
+        {
+          "order": 2,
+          "url": "165k/164348/66849500/164348_KC2-12CC_IMG_02_0000.JPG",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/165k/164348/66849500/164348_KC2-12CC_IMG_02_0000_max_476x317.JPG",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/165k/164348/66849500/164348_KC2-12CC_IMG_02_0000_max_476x317.JPG 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/165k/164348/66849500/164348_KC2-12CC_IMG_02_0000_max_656x437.JPG 2x"
+        },
+        {
+          "order": 3,
+          "url": "165k/164348/66849500/164348_KC2-12CC_IMG_03_0000.JPG",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/165k/164348/66849500/164348_KC2-12CC_IMG_03_0000_max_476x317.JPG",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/165k/164348/66849500/164348_KC2-12CC_IMG_03_0000_max_476x317.JPG 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/165k/164348/66849500/164348_KC2-12CC_IMG_03_0000_max_656x437.JPG 2x"
+        }
+      ],
+      "propertySubType": "Flat",
+      "listingUpdate": {
+        "listingUpdateReason": "new",
+        "listingUpdateDate": 1496671395000
+      },
+      "premiumListing": false,
+      "featuredProperty": false,
+      "price": {
+        "amount": 725,
+        "frequency": "monthly",
+        "currencyCode": "GBP",
+        "displayPrices": [
+          {
+            "displayPrice": "£725 pcm",
+            "displayPriceQualifier": ""
+          },
+          {
+            "displayPrice": "£167 pw",
+            "displayPriceQualifier": ""
+          }
+        ]
+      },
+      "customer": {
+        "branchId": 164348,
+        "brandPlusLogoURI": "/165k/164348/branch_rmchoice_logo_164348_0000.png",
+        "contactTelephone": "0141 392 0017",
+        "branchDisplayName": "JLC Property Lettings, Neilston",
+        "branchName": "Neilston",
+        "brandTradingName": "JLC Property Lettings",
+        "branchLandingPageUrl": "/estate-agents/agent/JLC-Property-Lettings/Neilston-164348.html",
+        "development": false,
+        "showReducedProperties": true,
+        "commercial": false,
+        "brandPlusLogoUrl": "http://media.rightmove.co.uk/dir/165k/164348/branch_rmchoice_logo_164348_0000_max_100x50.png"
+      },
+      "distance": null,
+      "transactionType": "rent",
+      "productLabel": {
+        "productLabelText": "Premium Listing"
+      },
+      "commercial": false,
+      "development": false,
+      "residential": true,
+      "students": false,
+      "auction": false,
+      "feesApply": false,
+      "feesApplyText": null,
+      "displaySize": "",
+      "propertyTypeFullDescription": "2 bedroom flat",
+      "propertyUrl": "/property-to-rent/property-66849500.html",
+      "contactUrl": "/property-to-rent/contactBranch.html?propertyId=66849500",
+      "displayStatus": "",
+      "formattedBranchName": " by JLC Property Lettings, Neilston",
+      "addedOrReduced": "Added on 05/06/2017",
+      "isRecent": false,
+      "formattedDistance": "",
+      "heading": "",
+      "mainImageSrc": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/165k/164348/66849500/164348_KC2-12CC_IMG_00_0000_max_476x317.JPG",
+      "mainImageSrcset": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/165k/164348/66849500/164348_KC2-12CC_IMG_00_0000_max_476x317.JPG 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/165k/164348/66849500/164348_KC2-12CC_IMG_00_0000_max_656x437.JPG 2x",
+      "hasBrandPlus": true
+    },
+    {
+      "id": 59418886,
+      "bedrooms": 2,
+      "numberOfImages": 12,
+      "numberOfFloorplans": 0,
+      "numberOfVirtualTours": 0,
+      "summary": "A gorgeous 5th floor unfurnished property in this modern development close to Jordanhill Train Station. ",
+      "displayAddress": "Randolph Gate, Jordanhill, Glasgow, G11",
+      "countryCode": "GB",
+      "location": {
+        "latitude": 55.88215,
+        "longitude": -4.32584
+      },
+      "images": [
+        {
+          "order": 1,
+          "url": "120k/119962/59418886/119962_P345_IMG_01_0000.JPG",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/120k/119962/59418886/119962_P345_IMG_01_0000_max_476x317.JPG",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/120k/119962/59418886/119962_P345_IMG_01_0000_max_476x317.JPG 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/120k/119962/59418886/119962_P345_IMG_01_0000_max_656x437.JPG 2x"
+        },
+        {
+          "order": 2,
+          "url": "120k/119962/59418886/119962_P345_IMG_02_0000.JPG",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/120k/119962/59418886/119962_P345_IMG_02_0000_max_476x317.JPG",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/120k/119962/59418886/119962_P345_IMG_02_0000_max_476x317.JPG 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/120k/119962/59418886/119962_P345_IMG_02_0000_max_656x437.JPG 2x"
+        },
+        {
+          "order": 3,
+          "url": "120k/119962/59418886/119962_P345_IMG_03_0000.JPG",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/120k/119962/59418886/119962_P345_IMG_03_0000_max_476x317.JPG",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/120k/119962/59418886/119962_P345_IMG_03_0000_max_476x317.JPG 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/120k/119962/59418886/119962_P345_IMG_03_0000_max_656x437.JPG 2x"
+        },
+        {
+          "order": 4,
+          "url": "120k/119962/59418886/119962_P345_IMG_04_0000.JPG",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/120k/119962/59418886/119962_P345_IMG_04_0000_max_476x317.JPG",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/120k/119962/59418886/119962_P345_IMG_04_0000_max_476x317.JPG 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/120k/119962/59418886/119962_P345_IMG_04_0000_max_656x437.JPG 2x"
+        }
+      ],
+      "propertySubType": "Flat",
+      "listingUpdate": {
+        "listingUpdateReason": "new",
+        "listingUpdateDate": 1493393512000
+      },
+      "premiumListing": true,
+      "featuredProperty": false,
+      "price": {
+        "amount": 725,
+        "frequency": "monthly",
+        "currencyCode": "GBP",
+        "displayPrices": [
+          {
+            "displayPrice": "£725 pcm",
+            "displayPriceQualifier": ""
+          },
+          {
+            "displayPrice": "£167 pw",
+            "displayPriceQualifier": ""
+          }
+        ]
+      },
+      "customer": {
+        "branchId": 119962,
+        "brandPlusLogoURI": "/company/clogo_rmchoice_43249_0000.jpeg",
+        "contactTelephone": "0141 392 0336",
+        "branchDisplayName": "MACLEOD LETTINGS, Glasgow",
+        "branchName": "Glasgow",
+        "brandTradingName": "MACLEOD LETTINGS",
+        "branchLandingPageUrl": "/estate-agents/agent/MACLEOD-LETTINGS/Glasgow-119962.html",
+        "development": false,
+        "showReducedProperties": true,
+        "commercial": false,
+        "brandPlusLogoUrl": "http://media.rightmove.co.uk/dir/company/clogo_rmchoice_43249_0000_max_100x50.jpeg"
+      },
+      "distance": null,
+      "transactionType": "rent",
+      "productLabel": {
+        "productLabelText": "Premium Listing"
+      },
+      "commercial": false,
+      "development": false,
+      "residential": true,
+      "students": false,
+      "auction": false,
+      "feesApply": false,
+      "feesApplyText": null,
+      "displaySize": "",
+      "propertyTypeFullDescription": "2 bedroom flat",
+      "propertyUrl": "/property-to-rent/property-59418886.html",
+      "contactUrl": "/property-to-rent/contactBranch.html?propertyId=59418886",
+      "displayStatus": "",
+      "formattedBranchName": " by MACLEOD LETTINGS, Glasgow",
+      "addedOrReduced": "Added on 28/04/2017",
+      "isRecent": false,
+      "formattedDistance": "",
+      "heading": "",
+      "mainImageSrc": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/120k/119962/59418886/119962_P345_IMG_01_0000_max_476x317.JPG",
+      "mainImageSrcset": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/120k/119962/59418886/119962_P345_IMG_01_0000_max_476x317.JPG 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/120k/119962/59418886/119962_P345_IMG_01_0000_max_656x437.JPG 2x",
+      "hasBrandPlus": true
+    },
+    {
+      "id": 66942404,
+      "bedrooms": 2,
+      "numberOfImages": 11,
+      "numberOfFloorplans": 1,
+      "numberOfVirtualTours": 0,
+      "summary": "The Property\nFabulous totally refurbished two bedroom flat in quiet location in the West End.\nThe accommodation comprises hallway with good storage, large bright lounge giving access to brand new modern fitted kitchen with white goods, two double bedrooms and brand new bathroom suite with shower ...",
+      "displayAddress": "36 Banner Road, Glasgow, G13",
+      "countryCode": "GB",
+      "location": {
+        "latitude": 55.904479,
+        "longitude": -4.344987
+      },
+      "images": [
+        {
+          "order": 0,
+          "url": "152k/151100/66942404/151100_277534-2_IMG_01_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/152k/151100/66942404/151100_277534-2_IMG_01_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/152k/151100/66942404/151100_277534-2_IMG_01_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/152k/151100/66942404/151100_277534-2_IMG_01_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 1,
+          "url": "152k/151100/66942404/151100_277534-2_IMG_02_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/152k/151100/66942404/151100_277534-2_IMG_02_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/152k/151100/66942404/151100_277534-2_IMG_02_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/152k/151100/66942404/151100_277534-2_IMG_02_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 2,
+          "url": "152k/151100/66942404/151100_277534-2_IMG_03_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/152k/151100/66942404/151100_277534-2_IMG_03_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/152k/151100/66942404/151100_277534-2_IMG_03_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/152k/151100/66942404/151100_277534-2_IMG_03_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 3,
+          "url": "152k/151100/66942404/151100_277534-2_IMG_04_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/152k/151100/66942404/151100_277534-2_IMG_04_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/152k/151100/66942404/151100_277534-2_IMG_04_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/152k/151100/66942404/151100_277534-2_IMG_04_0000_max_656x437.jpg 2x"
+        }
+      ],
+      "propertySubType": "Flat",
+      "listingUpdate": {
+        "listingUpdateReason": "new",
+        "listingUpdateDate": 1496924709000
+      },
+      "premiumListing": false,
+      "featuredProperty": false,
+      "price": {
+        "amount": 700,
+        "frequency": "monthly",
+        "currencyCode": "GBP",
+        "displayPrices": [
+          {
+            "displayPrice": "£700 pcm",
+            "displayPriceQualifier": ""
+          },
+          {
+            "displayPrice": "£162 pw",
+            "displayPriceQualifier": ""
+          }
+        ]
+      },
+      "customer": {
+        "branchId": 151100,
+        "brandPlusLogoURI": "/company/clogo_rmchoice_34399_0003.jpeg",
+        "contactTelephone": "0121 396 0878",
+        "branchDisplayName": "Purplebricks.com, covering Scotland",
+        "branchName": "covering Scotland",
+        "brandTradingName": "Purplebricks.com",
+        "branchLandingPageUrl": "/estate-agents/agent/Purplebrickscom/covering-Scotland-151100.html",
+        "development": false,
+        "showReducedProperties": true,
+        "commercial": false,
+        "brandPlusLogoUrl": "http://media.rightmove.co.uk/dir/company/clogo_rmchoice_34399_0003_max_100x50.jpeg"
+      },
+      "distance": null,
+      "transactionType": "rent",
+      "productLabel": {
+        "productLabelText": "Premium Listing"
+      },
+      "commercial": false,
+      "development": false,
+      "residential": true,
+      "students": true,
+      "auction": false,
+      "feesApply": false,
+      "feesApplyText": null,
+      "displaySize": "",
+      "propertyTypeFullDescription": "2 bedroom flat",
+      "propertyUrl": "/property-to-rent/property-66942404.html",
+      "contactUrl": "/property-to-rent/contactBranch.html?propertyId=66942404",
+      "displayStatus": "",
+      "formattedBranchName": " by Purplebricks.com, covering Scotland",
+      "addedOrReduced": "Added on 08/06/2017",
+      "isRecent": false,
+      "formattedDistance": "",
+      "heading": "",
+      "mainImageSrc": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/152k/151100/66942404/151100_277534-2_IMG_01_0000_max_476x317.jpg",
+      "mainImageSrcset": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/152k/151100/66942404/151100_277534-2_IMG_01_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/152k/151100/66942404/151100_277534-2_IMG_01_0000_max_656x437.jpg 2x",
+      "hasBrandPlus": true
+    },
+    {
+      "id": 51664463,
+      "bedrooms": 2,
+      "numberOfImages": 8,
+      "numberOfFloorplans": 0,
+      "numberOfVirtualTours": 0,
+      "summary": "Presented in immaculate order throughout, this ground floor 3 apartment, 2 bed Westpoint homes apartment offers great accommodation close to local amenities and transport infrastructure. Accommodation comprises of Secure Communal Entrance Hall, Entrance Hall, Lounge, Fully Fitted Breakfasting Ki...",
+      "displayAddress": "Strathcona Drive, Glasgow",
+      "countryCode": "GB",
+      "location": {
+        "latitude": 55.893773,
+        "longitude": -4.317276
+      },
+      "images": [
+        {
+          "order": 0,
+          "url": "66k/65710/51664463/65710_25516380_IMG_09_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/66k/65710/51664463/65710_25516380_IMG_09_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/66k/65710/51664463/65710_25516380_IMG_09_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/66k/65710/51664463/65710_25516380_IMG_09_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 1,
+          "url": "66k/65710/51664463/65710_25516380_IMG_10_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/66k/65710/51664463/65710_25516380_IMG_10_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/66k/65710/51664463/65710_25516380_IMG_10_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/66k/65710/51664463/65710_25516380_IMG_10_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 2,
+          "url": "66k/65710/51664463/65710_25516380_IMG_11_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/66k/65710/51664463/65710_25516380_IMG_11_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/66k/65710/51664463/65710_25516380_IMG_11_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/66k/65710/51664463/65710_25516380_IMG_11_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 3,
+          "url": "66k/65710/51664463/65710_25516380_IMG_12_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/66k/65710/51664463/65710_25516380_IMG_12_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/66k/65710/51664463/65710_25516380_IMG_12_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/66k/65710/51664463/65710_25516380_IMG_12_0000_max_656x437.jpg 2x"
+        }
+      ],
+      "propertySubType": "Flat",
+      "listingUpdate": {
+        "listingUpdateReason": "new",
+        "listingUpdateDate": 1494253412000
+      },
+      "premiumListing": false,
+      "featuredProperty": false,
+      "price": {
+        "amount": 695,
+        "frequency": "monthly",
+        "currencyCode": "GBP",
+        "displayPrices": [
+          {
+            "displayPrice": "£695 pcm",
+            "displayPriceQualifier": ""
+          },
+          {
+            "displayPrice": "£160 pw",
+            "displayPriceQualifier": ""
+          }
+        ]
+      },
+      "customer": {
+        "branchId": 65710,
+        "brandPlusLogoURI": "/66k/65710/branch_logo_65710_0000.jpeg",
+        "contactTelephone": "0141 392 0222",
+        "branchDisplayName": "G & S Properties, Bearsden",
+        "branchName": "Bearsden",
+        "brandTradingName": "G & S Properties",
+        "branchLandingPageUrl": "/estate-agents/agent/G-and-S-Properties/Bearsden-65710.html",
+        "development": false,
+        "showReducedProperties": false,
+        "commercial": false,
+        "brandPlusLogoUrl": "http://media.rightmove.co.uk/dir/66k/65710/branch_logo_65710_0000_max_100x50.jpeg"
+      },
+      "distance": null,
+      "transactionType": "rent",
+      "productLabel": {
+        "productLabelText": "Premium Listing"
+      },
+      "commercial": false,
+      "development": false,
+      "residential": true,
+      "students": false,
+      "auction": false,
+      "feesApply": false,
+      "feesApplyText": null,
+      "displaySize": "",
+      "propertyTypeFullDescription": "2 bedroom flat",
+      "propertyUrl": "/property-to-rent/property-51664463.html",
+      "contactUrl": "/property-to-rent/contactBranch.html?propertyId=51664463",
+      "displayStatus": "",
+      "formattedBranchName": " by G & S Properties, Bearsden",
+      "addedOrReduced": "Added on 08/05/2017",
+      "isRecent": false,
+      "formattedDistance": "",
+      "heading": "",
+      "mainImageSrc": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/66k/65710/51664463/65710_25516380_IMG_09_0000_max_476x317.jpg",
+      "mainImageSrcset": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/66k/65710/51664463/65710_25516380_IMG_09_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/66k/65710/51664463/65710_25516380_IMG_09_0000_max_656x437.jpg 2x",
+      "hasBrandPlus": true
+    },
+    {
+      "id": 48371868,
+      "bedrooms": 2,
+      "numberOfImages": 7,
+      "numberOfFloorplans": 0,
+      "numberOfVirtualTours": 0,
+      "summary": "A lovely main door ground floor flat in traditional terrace within the ever popular West End district of Broomhill. HarveyLets is delighted to present this super unfurnished flat - the perfect bolthole to head back to after a day at work or exploring the bars and cafes of the nearby West End....",
+      "displayAddress": "Crow Road, Broomhill, Glasgow, G13",
+      "countryCode": "GB",
+      "location": {
+        "latitude": 55.884745,
+        "longitude": -4.325376
+      },
+      "images": [
+        {
+          "order": 1,
+          "url": "63k/62813/48371868/62813_$217_IMG_01_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62813/48371868/62813_$217_IMG_01_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62813/48371868/62813_$217_IMG_01_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62813/48371868/62813_$217_IMG_01_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 2,
+          "url": "63k/62813/48371868/62813_$217_IMG_02_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62813/48371868/62813_$217_IMG_02_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62813/48371868/62813_$217_IMG_02_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62813/48371868/62813_$217_IMG_02_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 3,
+          "url": "63k/62813/48371868/62813_$217_IMG_03_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62813/48371868/62813_$217_IMG_03_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62813/48371868/62813_$217_IMG_03_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62813/48371868/62813_$217_IMG_03_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 4,
+          "url": "63k/62813/48371868/62813_$217_IMG_04_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62813/48371868/62813_$217_IMG_04_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62813/48371868/62813_$217_IMG_04_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62813/48371868/62813_$217_IMG_04_0000_max_656x437.jpg 2x"
+        }
+      ],
+      "propertySubType": "Flat",
+      "listingUpdate": {
+        "listingUpdateReason": "new",
+        "listingUpdateDate": 1494558158000
+      },
+      "premiumListing": false,
+      "featuredProperty": false,
+      "price": {
+        "amount": 695,
+        "frequency": "monthly",
+        "currencyCode": "GBP",
+        "displayPrices": [
+          {
+            "displayPrice": "£695 pcm",
+            "displayPriceQualifier": ""
+          },
+          {
+            "displayPrice": "£160 pw",
+            "displayPriceQualifier": ""
+          }
+        ]
+      },
+      "customer": {
+        "branchId": 62813,
+        "brandPlusLogoURI": "/63k/62813/branch_logo_62813_0000.jpeg",
+        "contactTelephone": "",
+        "branchDisplayName": "HARVEY LETS, Glasgow",
+        "branchName": "Glasgow",
+        "brandTradingName": "HARVEY LETS",
+        "branchLandingPageUrl": "/estate-agents/agent/HARVEY-LETS/Glasgow-62813.html",
+        "development": false,
+        "showReducedProperties": true,
+        "commercial": false,
+        "brandPlusLogoUrl": "http://media.rightmove.co.uk/dir/63k/62813/branch_logo_62813_0000_max_100x50.jpeg"
+      },
+      "distance": null,
+      "transactionType": "rent",
+      "productLabel": {
+        "productLabelText": "Premium Listing"
+      },
+      "commercial": false,
+      "development": false,
+      "residential": true,
+      "students": false,
+      "auction": false,
+      "feesApply": false,
+      "feesApplyText": null,
+      "displaySize": "",
+      "propertyTypeFullDescription": "2 bedroom flat",
+      "propertyUrl": "/property-to-rent/property-48371868.html",
+      "contactUrl": "/property-to-rent/contactBranch.html?propertyId=48371868",
+      "displayStatus": "",
+      "formattedBranchName": " by HARVEY LETS, Glasgow",
+      "addedOrReduced": "Added on 12/05/2017",
+      "isRecent": false,
+      "formattedDistance": "",
+      "heading": "",
+      "mainImageSrc": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62813/48371868/62813_$217_IMG_01_0000_max_476x317.jpg",
+      "mainImageSrcset": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62813/48371868/62813_$217_IMG_01_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/63k/62813/48371868/62813_$217_IMG_01_0000_max_656x437.jpg 2x",
+      "hasBrandPlus": true
+    },
+    {
+      "id": 42611098,
+      "bedrooms": 2,
+      "numberOfImages": 5,
+      "numberOfFloorplans": 0,
+      "numberOfVirtualTours": 0,
+      "summary": "KPM Residential presenting to the market this modern, larger styled First Floor corner flat with beautifully presented accommodation ",
+      "displayAddress": "Netherton Avenue,Glasgow,G13",
+      "countryCode": "GB",
+      "location": {
+        "latitude": 55.8969,
+        "longitude": -4.33009
+      },
+      "images": [
+        {
+          "order": 0,
+          "url": "91k/90962/42611098/90962_P1602_IMG_00_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/91k/90962/42611098/90962_P1602_IMG_00_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/91k/90962/42611098/90962_P1602_IMG_00_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/91k/90962/42611098/90962_P1602_IMG_00_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 1,
+          "url": "91k/90962/42611098/90962_P1602_IMG_02_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/91k/90962/42611098/90962_P1602_IMG_02_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/91k/90962/42611098/90962_P1602_IMG_02_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/91k/90962/42611098/90962_P1602_IMG_02_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 2,
+          "url": "91k/90962/42611098/90962_P1602_IMG_01_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/91k/90962/42611098/90962_P1602_IMG_01_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/91k/90962/42611098/90962_P1602_IMG_01_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/91k/90962/42611098/90962_P1602_IMG_01_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 3,
+          "url": "91k/90962/42611098/90962_P1602_IMG_04_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/91k/90962/42611098/90962_P1602_IMG_04_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/91k/90962/42611098/90962_P1602_IMG_04_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/91k/90962/42611098/90962_P1602_IMG_04_0000_max_656x437.jpg 2x"
+        }
+      ],
+      "propertySubType": "Flat",
+      "listingUpdate": {
+        "listingUpdateReason": "new",
+        "listingUpdateDate": 1493761873000
+      },
+      "premiumListing": false,
+      "featuredProperty": false,
+      "price": {
+        "amount": 695,
+        "frequency": "monthly",
+        "currencyCode": "GBP",
+        "displayPrices": [
+          {
+            "displayPrice": "£695 pcm",
+            "displayPriceQualifier": ""
+          },
+          {
+            "displayPrice": "£160 pw",
+            "displayPriceQualifier": ""
+          }
+        ]
+      },
+      "customer": {
+        "branchId": 90962,
+        "brandPlusLogoURI": "/company/clogo_34925_0000.jpg",
+        "contactTelephone": "0141 392 0042",
+        "branchDisplayName": "KPM Residential, Glasgow",
+        "branchName": "Glasgow",
+        "brandTradingName": "KPM Residential",
+        "branchLandingPageUrl": "/estate-agents/agent/KPM-Residential/Glasgow-90962.html",
+        "development": false,
+        "showReducedProperties": true,
+        "commercial": false,
+        "brandPlusLogoUrl": "http://media.rightmove.co.uk/dir/company/clogo_34925_0000_max_100x50.jpg"
+      },
+      "distance": null,
+      "transactionType": "rent",
+      "productLabel": {
+        "productLabelText": "Premium Listing"
+      },
+      "commercial": false,
+      "development": false,
+      "residential": true,
+      "students": false,
+      "auction": false,
+      "feesApply": false,
+      "feesApplyText": null,
+      "displaySize": "",
+      "propertyTypeFullDescription": "2 bedroom flat",
+      "propertyUrl": "/property-to-rent/property-42611098.html",
+      "contactUrl": "/property-to-rent/contactBranch.html?propertyId=42611098",
+      "displayStatus": "",
+      "formattedBranchName": " by KPM Residential, Glasgow",
+      "addedOrReduced": "Added on 02/05/2017",
+      "isRecent": false,
+      "formattedDistance": "",
+      "heading": "",
+      "mainImageSrc": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/91k/90962/42611098/90962_P1602_IMG_00_0000_max_476x317.jpg",
+      "mainImageSrcset": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/91k/90962/42611098/90962_P1602_IMG_00_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/91k/90962/42611098/90962_P1602_IMG_00_0000_max_656x437.jpg 2x",
+      "hasBrandPlus": true
+    },
+    {
+      "id": 66769652,
+      "bedrooms": 2,
+      "numberOfImages": 13,
+      "numberOfFloorplans": 0,
+      "numberOfVirtualTours": 0,
+      "summary": "Tay Letting is delighted to present this unfurnished End of Terrace cottage style property to the market. Presently with a fresh cream painted render facade off-set on a quiet boulevard in the Knightswood area of Glasgow, the property benefits from a large private front &amp; rear lawned garden with....",
+      "displayAddress": "Craggan Drive, G14",
+      "countryCode": "GB",
+      "location": {
+        "latitude": 55.8863,
+        "longitude": -4.3667
+      },
+      "images": [
+        {
+          "order": 0,
+          "url": "110k/109514/66769652/109514_602284_IMG_01_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66769652/109514_602284_IMG_01_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66769652/109514_602284_IMG_01_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66769652/109514_602284_IMG_01_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 1,
+          "url": "110k/109514/66769652/109514_602284_IMG_02_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66769652/109514_602284_IMG_02_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66769652/109514_602284_IMG_02_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66769652/109514_602284_IMG_02_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 1,
+          "url": "110k/109514/66769652/109514_602284_IMG_13_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66769652/109514_602284_IMG_13_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66769652/109514_602284_IMG_13_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66769652/109514_602284_IMG_13_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 1,
+          "url": "110k/109514/66769652/109514_602284_IMG_05_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66769652/109514_602284_IMG_05_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66769652/109514_602284_IMG_05_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66769652/109514_602284_IMG_05_0000_max_656x437.jpg 2x"
+        }
+      ],
+      "propertySubType": "Semi-Detached",
+      "listingUpdate": {
+        "listingUpdateReason": "new",
+        "listingUpdateDate": 1496282624000
+      },
+      "premiumListing": false,
+      "featuredProperty": false,
+      "price": {
+        "amount": 695,
+        "frequency": "monthly",
+        "currencyCode": "GBP",
+        "displayPrices": [
+          {
+            "displayPrice": "£695 pcm",
+            "displayPriceQualifier": ""
+          },
+          {
+            "displayPrice": "£160 pw",
+            "displayPriceQualifier": ""
+          }
+        ]
+      },
+      "customer": {
+        "branchId": 109514,
+        "brandPlusLogoURI": "/company/clogo_rmchoice_41399_0000.png",
+        "contactTelephone": "0141 392 0303",
+        "branchDisplayName": "TAY LETTING, Glasgow",
+        "branchName": "Glasgow",
+        "brandTradingName": "TAY LETTING",
+        "branchLandingPageUrl": "/estate-agents/agent/TAY-LETTING/Glasgow-109514.html",
+        "development": false,
+        "showReducedProperties": true,
+        "commercial": false,
+        "brandPlusLogoUrl": "http://media.rightmove.co.uk/dir/company/clogo_rmchoice_41399_0000_max_100x50.png"
+      },
+      "distance": null,
+      "transactionType": "rent",
+      "productLabel": {
+        "productLabelText": "Premium Listing"
+      },
+      "commercial": false,
+      "development": false,
+      "residential": true,
+      "students": false,
+      "auction": false,
+      "feesApply": false,
+      "feesApplyText": null,
+      "displaySize": "",
+      "propertyTypeFullDescription": "2 bedroom semi-detached house",
+      "propertyUrl": "/property-to-rent/property-66769652.html",
+      "contactUrl": "/property-to-rent/contactBranch.html?propertyId=66769652",
+      "displayStatus": "",
+      "formattedBranchName": " by TAY LETTING, Glasgow",
+      "addedOrReduced": "Added on 01/06/2017",
+      "isRecent": false,
+      "formattedDistance": "",
+      "heading": "",
+      "mainImageSrc": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66769652/109514_602284_IMG_01_0000_max_476x317.jpg",
+      "mainImageSrcset": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66769652/109514_602284_IMG_01_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/110k/109514/66769652/109514_602284_IMG_01_0000_max_656x437.jpg 2x",
+      "hasBrandPlus": true
+    },
+    {
+      "id": 48768090,
+      "bedrooms": 2,
+      "numberOfImages": 9,
+      "numberOfFloorplans": 0,
+      "numberOfVirtualTours": 0,
+      "summary": "UNFURNISHED / AVAILABLE FROM 11/07/17 - A modern, luxury first floor bright and spacious apartment comprises reception hallway, open plan lounge with modern fittted kitchen, two double bedrooms(master en-suite shower room) and family bathroom. Gas central heating, double glazing security entr...",
+      "displayAddress": "Blanefield Gardens, Flat 1/2, Anniesland, Glasgow, G13 1BP",
+      "countryCode": "GB",
+      "location": {
+        "latitude": 55.89849,
+        "longitude": -4.32714
+      },
+      "images": [
+        {
+          "order": 1,
+          "url": "29k/28232/48768090/28232_RLWM2204_IMG_08_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/29k/28232/48768090/28232_RLWM2204_IMG_08_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/29k/28232/48768090/28232_RLWM2204_IMG_08_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/29k/28232/48768090/28232_RLWM2204_IMG_08_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 2,
+          "url": "29k/28232/48768090/28232_RLWM2204_IMG_07_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/29k/28232/48768090/28232_RLWM2204_IMG_07_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/29k/28232/48768090/28232_RLWM2204_IMG_07_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/29k/28232/48768090/28232_RLWM2204_IMG_07_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 3,
+          "url": "29k/28232/48768090/28232_RLWM2204_IMG_06_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/29k/28232/48768090/28232_RLWM2204_IMG_06_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/29k/28232/48768090/28232_RLWM2204_IMG_06_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/29k/28232/48768090/28232_RLWM2204_IMG_06_0000_max_656x437.jpg 2x"
+        },
+        {
+          "order": 4,
+          "url": "29k/28232/48768090/28232_RLWM2204_IMG_05_0000.jpg",
+          "srcUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/29k/28232/48768090/28232_RLWM2204_IMG_05_0000_max_476x317.jpg",
+          "srcsetUrl": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/29k/28232/48768090/28232_RLWM2204_IMG_05_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/29k/28232/48768090/28232_RLWM2204_IMG_05_0000_max_656x437.jpg 2x"
+        }
+      ],
+      "propertySubType": "Flat",
+      "listingUpdate": {
+        "listingUpdateReason": "new",
+        "listingUpdateDate": 1496945141000
+      },
+      "premiumListing": false,
+      "featuredProperty": false,
+      "price": {
+        "amount": 695,
+        "frequency": "monthly",
+        "currencyCode": "GBP",
+        "displayPrices": [
+          {
+            "displayPrice": "£695 pcm",
+            "displayPriceQualifier": ""
+          },
+          {
+            "displayPrice": "£160 pw",
+            "displayPriceQualifier": ""
+          }
+        ]
+      },
+      "customer": {
+        "branchId": 28232,
+        "brandPlusLogoURI": "/company/clogo_5156_0001.jpeg",
+        "contactTelephone": "0141 392 0186",
+        "branchDisplayName": "Clyde Property, Westend",
+        "branchName": "Westend",
+        "brandTradingName": "Clyde Property",
+        "branchLandingPageUrl": "/estate-agents/agent/Clyde-Property/Westend-28232.html",
+        "development": false,
+        "showReducedProperties": true,
+        "commercial": false,
+        "brandPlusLogoUrl": "http://media.rightmove.co.uk/dir/company/clogo_5156_0001_max_100x50.jpeg"
+      },
+      "distance": null,
+      "transactionType": "rent",
+      "productLabel": {
+        "productLabelText": "Premium Listing"
+      },
+      "commercial": false,
+      "development": false,
+      "residential": true,
+      "students": false,
+      "auction": false,
+      "feesApply": false,
+      "feesApplyText": null,
+      "displaySize": "",
+      "propertyTypeFullDescription": "2 bedroom flat",
+      "propertyUrl": "/property-to-rent/property-48768090.html",
+      "contactUrl": "/property-to-rent/contactBranch.html?propertyId=48768090",
+      "displayStatus": "",
+      "formattedBranchName": " by Clyde Property, Westend",
+      "addedOrReduced": "Added on 08/06/2017",
+      "isRecent": false,
+      "formattedDistance": "",
+      "heading": "",
+      "mainImageSrc": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/29k/28232/48768090/28232_RLWM2204_IMG_08_0000_max_476x317.jpg",
+      "mainImageSrcset": "http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/29k/28232/48768090/28232_RLWM2204_IMG_08_0000_max_476x317.jpg 1x, http://media.rightmove.co.uk:80/dir/crop/10:9-16:9/29k/28232/48768090/28232_RLWM2204_IMG_08_0000_max_656x437.jpg 2x",
+      "hasBrandPlus": true
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+---
+:scope: 
+:url: http://pagead2.googlesyndication.com/activeview?avi=Bww--5_JDWYm8D8bSxgKn36XYBAAAAAAQATgByAEJwAIC4AIA4AQBoAYf0ggFCIBhEAE&cid=CAASBORoNEo&id=osdim&ti=1&adk=3016480398&mtos=0,0,1246,1246,1246&tos=0,0,1246,0,0&p=601,709,851,1009&mcvt=1246&rs=3&ht=0&tfs=117&tls=1363&mc=0.66&lte=0.66&bas=0&bac=0&gte=108809107&tmo=12&tme=116&rtl=false&til=605&tdl=124&tdld=10&tcl=116&tcld=3&tlr=116&tlrd=3&r=u&bs=1024,768&bos=-12245933,-12245933&ps=1024,7629&ss=1024,768&tt=1363&pt=-1&deb=1-0-1-7-6--1&tvt=1247&avms=geo&uc=3&tgt=DIV&cl=1&cec=9&clc=1&cd=298x248
+:body: ''
+:status: 200
+:method: get
+:headers:
+  P3P: policyref="http://www.googleadservices.com/pagead/p3p.xml", CP="NOI DEV PSA
+    PSD IVA IVD OTP OUR OTR IND OTC"
+  Timing-Allow-Origin: "*"
+  Access-Control-Allow-Origin: "*"
+  Content-Type: image/gif
+  Date: Fri, 16 Jun 2017 15:02:01 GMT
+  Pragma: no-cache
+  Expires: Fri, 01 Jan 1990 00:00:00 GMT
+  Cache-Control: no-cache, must-revalidate
+  X-Content-Type-Options: nosniff
+  Server: cafe
+  Content-Length: '42'
+  X-XSS-Protection: 1; mode=block
+  Connection: close
+:content: !binary |-
+  R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7

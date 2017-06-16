@@ -1,0 +1,17 @@
+---
+:scope: 
+:url: http://product.rightmove.co.uk/featuredcustomer/api?index=2&locationIdentifier=OUTCODE%5E926&transaction=lettings&page=1&productsPerPage=3&sessionId=170616SR96EZZ5KEC1783X26ZQUJJ8BU&width=300&height=150
+:body: ''
+:status: 200
+:method: get
+:headers:
+  X-Application-Context: location-product-web:80
+  Content-Type: text/html;charset=UTF-8
+  Content-Length: '509'
+  Date: Fri, 16 Jun 2017 14:30:13 GMT
+  Connection: close
+:content: <a href="http://www.rightmove.co.uk/commercial-property-to-let/find.html?locationIdentifier=OUTCODE%5E926"
+  target="_blank" onclick="javascript:window._gaq.push(['ALL_SITE._trackEvent','featured-agent-filler','click','Commercial_A_FA']);window._gaq.push(['MAIN_SITE._trackEvent','featured-agent-filler','click','Commercial_A_FA']);"><img
+  src="http://media.rightmove.co.uk/Commercial_A_FA_mob.png" alt="Search commercial
+  property to let"></a><!-- _trackEvent|featured-agent-filler|impression|Commercial_A_FA
+  -->

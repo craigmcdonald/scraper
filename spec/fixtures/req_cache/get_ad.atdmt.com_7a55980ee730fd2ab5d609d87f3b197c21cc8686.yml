@@ -1,0 +1,21 @@
+---
+:scope: 
+:url: https://ad.atdmt.com/i/img;adv=11112202442870;ec=11112202443387;adv.a=4611241;c.a=10092242;s.a=2837716;p.a=138011654;a.a=310387405;cache=4234726888;
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Set-Cookie: ATN=1.1497616332.1338098681205776809.AYIBENcyxsYf5NMfT1o; expires=Sunday,
+    16-Jun-2019 12:32:12 GMT; path=/; domain=.atdmt.com; HttpOnly
+  P3P: CP="NOI DSP COR CUR ADM DEV TAIo PSAo PSDo OUR BUS UNI PUR COM NAV INT DEM
+    STA PRE OTC"
+  X-Atlas-Debug: AYIp6KDSYY-RsSFRps7aSg5dp0sLpOdEHpDX-n7ODYMy_CGJbkcvh0qXtkLWE3nabNzZgfJbaFxIeuGfSdx9y7Lv
+  Cache-Control: private, no-cache, no-store, must-revalidate
+  Pragma: no-cache
+  Expires: '0'
+  Content-Type: image/gif
+  Date: Fri, 16 Jun 2017 12:32:12 GMT
+  Connection: close
+  Content-Length: '42'
+:content: !binary |-
+  R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAEBMgA7

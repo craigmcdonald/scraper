@@ -1,0 +1,19 @@
+---
+:scope: 
+:url: http://ums.rightmove.co.uk/users/170616SR96EZZ5KEC1783X26ZQUJJ8BU
+:body: ''
+:status: 200
+:method: options
+:headers:
+  Server: nginx/1.10.2
+  Date: Fri, 16 Jun 2017 13:50:23 GMT
+  Content-Length: '0'
+  Connection: close
+  Access-Control-Allow-Origin: http://www.rightmove.co.uk
+  Vary: Origin
+  Access-Control-Allow-Methods: GET
+  Access-Control-Allow-Headers: accept, origin, content-type
+  Access-Control-Allow-Credentials: 'true'
+  Access-Control-Max-Age: '1800'
+  Allow: GET, HEAD, POST, PUT, DELETE, TRACE, OPTIONS, PATCH
+:content: ''

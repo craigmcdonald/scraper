@@ -1,0 +1,14 @@
+---
+:scope: 
+:url: http://product.rightmove.co.uk/featuredcustomer/api?index=0&locationIdentifier=OUTCODE%5E926&transaction=lettings&page=1&productsPerPage=3&sessionId=170616SR96EZZ5KEC1783X26ZQUJJ8BU&width=300&height=150
+:body: ''
+:status: 200
+:method: get
+:headers:
+  X-Application-Context: location-product-web:80
+  Content-Type: text/html;charset=UTF-8
+  Content-Length: '176'
+  Date: Fri, 16 Jun 2017 14:30:12 GMT
+  Connection: close
+:content: <a href="/redirect/featuredcustomer?width=270&height=90&page=1&showcaseMeId=55130"
+  target="_blank"><img src="http://media.rightmove.co.uk/featuredagent/1385609/270x90.jpg"></a>

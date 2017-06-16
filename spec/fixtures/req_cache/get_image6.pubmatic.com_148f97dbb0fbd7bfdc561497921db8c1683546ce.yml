@@ -1,0 +1,39 @@
+---
+:scope: 
+:url: http://image6.pubmatic.com/AdServer/PugMaster?rnd=34568069&p=81195&s=81196&a=236888&ptask=ALL&np=0&fp=0&mpc=0&spug=0&coppa=0&kdntuid=1
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Content-Type: text/html; charset=UTF-8
+  P3p: CP="NOI DSP COR LAW CUR ADMo DEVo TAIo PSAo PSDo IVAo IVDo HISo OTPo OUR SAMo
+    BUS UNI COM NAV INT DEM CNT STA PRE LOC"
+  Set-Cookie:
+  - KADUSERCOOKIE=B0267C09-B012-4E3A-B319-780B1185AE5E; domain=pubmatic.com; path=/;
+    max-age=7776000;
+  - DPSync2=1500163200%3A102%7C1497657600%3A173_174; domain=pubmatic.com; path=/;
+    max-age=7776000;
+  - SyncRTB2=1498780800%3A21_56_71%7C1498176000%3A182_177%7C1497830400%3A175; domain=pubmatic.com;
+    path=/; max-age=7776000;
+  Date: Fri, 16 Jun 2017 10:52:26 GMT
+  Transfer-Encoding: chunked
+  Connection: close
+:content: document.write("<img width='0' height='0' src='http://dpm.demdex.net/ibs:dpid=19566&dpuuid=B0267C09-B012-4E3A-B319-780B1185AE5E'
+  />");document.write("<iframe src='http://tags.bluekai.com/site/3096?id=B0267C09-B012-4E3A-B319-780B1185AE5E'
+  width='0' height='0' frameborder='0' vspace='0' hspace='0' scrolling='no' marginwidth='0'
+  marginheight='0' allowtransparency='true'></iframe>");document.write("<iframe src='http://sync.mathtag.com/sync/img?mt_exid=3&redir=http%3A%2F%2Fimage4.pubmatic.com%2FAdServer%2FSPug%3FpartnerID%3D27%26partnerUID%3D%5BMM_UUID%5D'
+  width='0' height='0' frameborder='0' vspace='0' hspace='0' scrolling='no' marginwidth='0'
+  marginheight='0' allowtransparency='true'></iframe>");document.write("<iframe src='http://usync.nexage.com/mapuser?providerid=29472&userid=B0267C09-B012-4E3A-B319-780B1185AE5E'
+  width='0' height='0' frameborder='0' vspace='0' hspace='0' scrolling='no' marginwidth='0'
+  marginheight='0' allowtransparency='true'></iframe>");document.write("<iframe src='http://sync.adaptv.advertising.com/sync?type=gif&key=pubmatic-55&uid=B0267C09-B012-4E3A-B319-780B1185AE5E'
+  width='0' height='0' frameborder='0' vspace='0' hspace='0' scrolling='no' marginwidth='0'
+  marginheight='0' allowtransparency='true'></iframe>");document.write("<iframe src='http://geo-um.btrll.com/v1/map_pixel/partner/1895.png'
+  width='0' height='0' frameborder='0' vspace='0' hspace='0' scrolling='no' marginwidth='0'
+  marginheight='0' allowtransparency='true'></iframe>");document.write("<iframe src='http://pr-bh.ybp.yahoo.com/sync/pubmatic/B0267C09-B012-4E3A-B319-780B1185AE5E'
+  width='0' height='0' frameborder='0' vspace='0' hspace='0' scrolling='no' marginwidth='0'
+  marginheight='0' allowtransparency='true'></iframe>");document.write("<iframe src='http://cm.g.doubleclick.net/pixel?google_nid=pubmatic&google_cm&google_sc'
+  width='0' height='0' frameborder='0' vspace='0' hspace='0' scrolling='no' marginwidth='0'
+  marginheight='0' allowtransparency='true'></iframe>");document.write("<iframe src='http://c1.adform.net/serving/cookie/match?party=14&redirect=http://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI4NzUmdGw9NDMyMDA=&piggybackCookie=[PLACE
+  YOUR PIGGYBACK COOKIES HERE]' width='0' height='0' frameborder='0' vspace='0' hspace='0'
+  scrolling='no' marginwidth='0' marginheight='0' allowtransparency='true'></iframe>");PubMatic.PugMasterCallback(false,
+  true, false);

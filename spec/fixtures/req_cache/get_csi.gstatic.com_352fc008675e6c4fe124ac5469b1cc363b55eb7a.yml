@@ -1,0 +1,19 @@
+---
+:scope: 
+:url: https://csi.gstatic.com/csi?v=2&s=pagead&action=csi_pagead&puid=1~j3zzeql4&chm=1&c=7405831140147200&ctx=2&gqid=pfJDWZ7vMenQxgLp8bHABA&qqid=CNGPi-rQwtQCFS-IUQodUAQJaw&met.4=fb.x8~lb.103~ol.1fk~dt.8&met.3=123.zx_2~118.102_1~121.103~118.106~115.12v~122.12w~118.12w~114.12w~118.12w~115.15o~118.15o~122.15o~114.15o~118.15o~115.18g~118.18g~122.18g~114.18g~118.18g~115.1bb~122.1bb~114.1bb~118.1bb~118.1bb~197.1du~115.1e3~122.1e3~114.1e3~118.1e4~118.1e4~117.1fk~118.1he~115.1he~122.1he~114.1he~118.1hf~118.1hf~115.1kb~122.1kb~114.1kb~118.1kb~115.1n3~122.1n3~114.1n3~113.1p8_1~112.1p7_2&met.1=1.j3zzeovu~6.0~7.0~8.0~9.0~10.0~12.0~13.0~14.0~15.0~16.0~17.0~18.0~19.0~20.0~21.0
+:body: ''
+:status: 204
+:method: get
+:headers:
+  Access-Control-Allow-Origin: "*"
+  Date: Fri, 16 Jun 2017 15:00:55 GMT
+  Pragma: no-cache
+  Expires: Fri, 01 Jan 1990 00:00:00 GMT
+  Cache-Control: no-cache, no-store, must-revalidate
+  Last-Modified: Wed, 21 Jan 2004 19:51:30 GMT
+  Content-Type: image/gif
+  Server: Golfe2
+  Content-Length: '0'
+  Alt-Svc: quic=":443"; ma=2592000; v="38,37,36,35"
+  Connection: close
+:content: ''

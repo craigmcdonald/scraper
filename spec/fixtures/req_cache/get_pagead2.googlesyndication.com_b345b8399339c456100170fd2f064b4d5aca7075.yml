@@ -1,0 +1,21 @@
+---
+:scope: 
+:url: http://pagead2.googlesyndication.com/pagead/gen_204?id=sodar&v=14&t=2&bgai=B9SU_QvBDWYTpCenSxgKT-rKIDQAAAAA4AeAEAg&bg=!CAulCxNEAM3z3AiJ--ICAAAAXlIAAAAEmQFPVgG5OLycJb3TCUCXt1uyI5pggYpCV6RKpVjup7i0R7rTL5spCagsmDt2OiOnSH31o286EWNiE9maxXX_yEoIcQSMp6znpYhBh8mehY_FjMGd1yUsSKNmU-q9f03eKpzQpvTFciDVipIJaV4VoyBLWvdWYgTqyqNjRNDwkze0bXB-hPbk4LX0QSIJMqaHsPBWvG20ttgTuP5l7r5Z7islF7Am2bZdwYxOMYEDo2J5IBAzKL59huQOHkXwxAVx86U4m-emWDearrNiDv1rtwKDL4mW8ldC8Orcki7wYZDV6BhpLCbGRCQ-swIs258IpS7DqqQ3t8450OiJcw7QwXSRsrWB1C_tWv3suyzXj2OMDwcMQ7YxDApCjaZwzQjSqF-fj-xLHVQrN9jlr_zCLMyJuHwN0cwNNFpa-rXq5K6VqeILwj75hw1iKCiECzQezPY
+:body: ''
+:status: 204
+:method: get
+:headers:
+  P3P: policyref="http://www.googleadservices.com/pagead/p3p.xml", CP="NOI DEV PSA
+    PSD IVA IVD OTP OUR OTR IND OTC"
+  Timing-Allow-Origin: "*"
+  Date: Fri, 16 Jun 2017 14:50:42 GMT
+  Pragma: no-cache
+  Expires: Fri, 01 Jan 1990 00:00:00 GMT
+  Cache-Control: no-cache, must-revalidate
+  Content-Type: text/html; charset=UTF-8
+  X-Content-Type-Options: nosniff
+  Server: cafe
+  Content-Length: '0'
+  X-XSS-Protection: 1; mode=block
+  Connection: close
+:content: ''

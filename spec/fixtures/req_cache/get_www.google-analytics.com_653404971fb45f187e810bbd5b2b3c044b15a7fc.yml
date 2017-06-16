@@ -1,0 +1,20 @@
+---
+:scope: 
+:url: http://www.google-analytics.com/r/__utm.gif?utmwv=5.6.7&utms=1&utmn=145465109&utmhn=www.rightmove.co.uk&utmcs=UTF-8&utmsr=1024x768&utmvp=1024x768&utmsc=32-bit&utmul=en-gb&utmje=0&utmfl=-&utmdt=Properties%20To%20Rent%20in%20G13%20-%20Flats%20%26%20Houses%20To%20Rent%20in%20G13%20-%20Rightmove&utmhid=1083873147&utmr=-&utmp=renting%2Fsearchresults&utmht=1497623373911&utmac=UA-3350334-49&utmcc=__utma%3D6980913.1815066582.1497623374.1497623374.1497623374.1%3B%2B__utmz%3D6980913.1497623374.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=1256163943&utmredir=1&utmmt=1&utmu=qRCgAAAAAAAAAAAAAAAAAAAE~
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Access-Control-Allow-Origin: "*"
+  Date: Fri, 16 Jun 2017 14:29:33 GMT
+  Pragma: no-cache
+  Expires: Fri, 01 Jan 1990 00:00:00 GMT
+  Cache-Control: no-cache, no-store, must-revalidate
+  Last-Modified: Sun, 17 May 1998 03:00:00 GMT
+  X-Content-Type-Options: nosniff
+  Content-Type: image/gif
+  Server: Golfe2
+  Content-Length: '35'
+  Connection: close
+:content: !binary |-
+  R0lGODlhAQABAID/AP///wAAACwAAAAAAQABAAACAkQBADs=

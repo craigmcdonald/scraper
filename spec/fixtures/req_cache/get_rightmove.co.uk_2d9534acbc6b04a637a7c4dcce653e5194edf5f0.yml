@@ -1,0 +1,20 @@
+---
+:scope: 
+:url: https://rightmove.co.uk/ps/images/analytics/page_view.gif?type=event&p=%2Fproperty-to-rent%2Ffind.html&pcid=170616SR96EZZ5KEC1783X26ZQUJJ8BU&c=none&ref=http%3A%2F%2Fwww.rightmove.co.uk%2Fproperty-to-rent%2Ffind.html%3FlocationIdentifier%3DOUTCODE%255E926%26minBedrooms%3D2%26radius%3D0.25%26sortType%3D2&suid=none&mob=false&ckse=true&cksp=none&mvt=none&mvts=false&dat=LID%3D88984602%7CAID%3D13413282%7COID%3D418174602%7CCID%3D110251728282%7CUID%3D21353802%7CUCT%3Dnone%7CCT%3D%7CTT%3D%7CB%3D%7CBD%3D%7CUTo_UKZ%3D%7CUTo_TVR%3D%7CUTo_A%3D%7CUTo_D%3D%7CUTo_C%3D%7CPT%3D%7CPST%3D%7CSO%3D%7CR%3D%7CIM%3D%7CPV%3D%7CMH%3D%7CPTS%3D%7CPTR%3D%7CBIM%3D%7CIIM%3D%7CLNKID%3D0&evt=dfp-ad-view&ga=none&emb=false&jsid=7df6e9ae-fb30-48ee-bc71-0fc75a33fa44&rc=none&dt=none&w=300&h=250&tcid=88eb3a83-19c6-4ab0-8178-a326f5e2f455&uts=1497621318326&sts=none&svr=none&ut=none&seg=none&rp=property-results&rpb=property-results%3Eproperty-results%3Eproperty-results%3Eproperty-results%3Eproperty-results%3Eproperty-results%3Eproperty-results%3Eproperty-results%3Eproperty-results
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Date: Fri, 16 Jun 2017 13:55:18 GMT
+  Server: Apache
+  Last-Modified: Fri, 02 Jun 2017 10:27:56 GMT
+  ETag: '"2b-550f79b49c300"'
+  Accept-Ranges: bytes
+  Content-Length: '43'
+  Cache-Control: max-age=0, no-store, no-cache
+  Expires: Fri, 16 Jun 2017 13:55:18 GMT
+  Access-Control-Allow-Headers: origin, x-requested-with, content-type, accept
+  Connection: close
+  Content-Type: image/gif
+:content: !binary |-
+  R0lGODlhAQABAIAAAP///////yH5BAUUAAEALAAAAAABAAEAAAICTAEAOw==

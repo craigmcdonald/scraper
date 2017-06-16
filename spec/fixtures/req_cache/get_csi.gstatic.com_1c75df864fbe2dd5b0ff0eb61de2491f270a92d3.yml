@@ -1,0 +1,19 @@
+---
+:scope: 
+:url: https://csi.gstatic.com/csi?v=2&s=pagead&action=csi_pagead&puid=1~j3zzeqdw&c=7405831140147200&ctx=1&met.9=1.1hg~2.1pu&met.3=54.1px~74.1pw_2~26.1py_1~54.1pz~43.1pz~54.1pz~49.1pz~54.1pz~49.1pz~53.1pz~104.1q0~87.1pz~91.1pz_1~104.1q1~104.1q1~107.1q0_6~23.1q7~54.1q7~42.1q7~54.1qd~48.1qh~54.1qj~54.1qp~54.1qr~95.1q0_r~76.1pv_v~77.1pv_v~104.1qs~104.1qs~54.2nf~54.2nf~54.2ng~54.2nq~203.2ne_c~155.2oe_4~132.2qb_1~132.2qc~132.2qg~132.2t5~132.2t5~129.2vh~132.2vx~132.2vx~132.2yp~132.2yq~132.31k~132.31k~129.32f~132.34d~132.34d~192.35v~osd%3A%3AdebugRemoveZombies.35x~157.35z_1~130.35v_6~94.37j~92.37j~154.37l~132.37o~132.37o~132.37o~113.389_2~112.387_5&met.1=1.j3zzen5k~6.0~7.0~8.0~9.0~10.0~12.0~13.0~14.1q~15.u~16.71~17.71~18.7h~19.361~20.363~21.37l
+:body: ''
+:status: 204
+:method: get
+:headers:
+  Access-Control-Allow-Origin: "*"
+  Date: Fri, 16 Jun 2017 15:00:55 GMT
+  Pragma: no-cache
+  Expires: Fri, 01 Jan 1990 00:00:00 GMT
+  Cache-Control: no-cache, no-store, must-revalidate
+  Last-Modified: Wed, 21 Jan 2004 19:51:30 GMT
+  Content-Type: image/gif
+  Server: Golfe2
+  Content-Length: '0'
+  Alt-Svc: quic=":443"; ma=2592000; v="38,37,36,35"
+  Connection: close
+:content: ''

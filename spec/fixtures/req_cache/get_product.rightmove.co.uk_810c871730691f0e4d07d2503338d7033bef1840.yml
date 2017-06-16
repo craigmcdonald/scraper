@@ -1,0 +1,15 @@
+---
+:scope: 
+:url: http://product.rightmove.co.uk/featuredcustomer/api?index=1&locationIdentifier=OUTCODE%5E926&transaction=lettings&page=1&productsPerPage=3&sessionId=170616SR96EZZ5KEC1783X26ZQUJJ8BU&width=300&height=150
+:body: ''
+:status: 200
+:method: get
+:headers:
+  X-Application-Context: location-product-web:80
+  Content-Type: text/html;charset=UTF-8
+  Content-Length: '405'
+  Date: Fri, 16 Jun 2017 14:30:13 GMT
+  Connection: close
+:content: <a href="http://www.rightmove.co.uk/removals.html" target="_blank" onclick="javascript:window._gaq.push(['ALL_SITE._trackEvent','featured-agent-filler','click','Removals_B_FA']);window._gaq.push(['MAIN_SITE._trackEvent','featured-agent-filler','click','Removals_B_FA']);"><img
+  src="http://media.rightmove.co.uk/Removals_B_FA_mob.png"></a><!-- _trackEvent|featured-agent-filler|impression|Removals_B_FA
+  -->
