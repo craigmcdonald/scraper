@@ -81,4 +81,25 @@ describe JSN::DataObject do
       expect(prices).to include(795)
     end
   end
+
+  describe 'deep merging' do
+
+    let(:data1) { {a: {b: {c: :d}}} }
+    let(:data2) { {a: {b: {e: :f}}} }
+    let(:obj1) { described_class.new(data1) }
+    let(:obj2) { described_class.new(data2) }
+
+    describe 'deep copy' do
+      it 'should return a new object' do
+        expect(obj1.deep_copy.object_id).to_not eq(obj1.object_id)
+      end
+    end
+
+    it 'should ' do
+      expect(obj1.deep_merge_on(:b, obj2)).to be
+    end
+    # it 'should merge the objects' do
+    #   expect(obj1.deep_merge(obj2)[:b]).to be_kind_of(Array)
+    # end
+  end
 end
