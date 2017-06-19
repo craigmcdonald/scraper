@@ -47,18 +47,18 @@ module JSN
 
     def key_level(key)
       hash = {}
-      keys_at_depth(hash) do |k,i|
+      keys_at_depth do |k,i|
         hash[k] = i if k
       end
       hash[key]
     end
 
     def keys_at_depth(obj=@data,k=nil,i=0,&block)
-      yield
+      yield k,i
       return if k && !(obj[k].is_a?(Hash) || obj[k].is_a?(Array)) && k
-      return obj[k].map { |v|  keys_at_depth(v,nil,i+1, hash) } if obj[k].is_a?(Array) && k
-      return obj[k].keys.map { |q| keys_at_depth(obj[k],q,i+1, hash) } if obj[k].is_a?(Hash) && k
-      obj.keys.map { |k| keys_at_depth(obj,k,i,hash) } && nil
+      return obj[k].map { |v|  keys_at_depth(v,nil,i+1, &block) } if obj[k].is_a?(Array) && k
+      return obj[k].keys.map { |q| keys_at_depth(obj[k],q,i+1,&block) } if obj[k].is_a?(Hash) && k
+      obj.keys.map { |k| keys_at_depth(obj,k,i,&block) } && nil
     end
 
     def nested_keys(obj=@data)
