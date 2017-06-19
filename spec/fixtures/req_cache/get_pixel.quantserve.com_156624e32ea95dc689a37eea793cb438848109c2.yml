@@ -1,0 +1,20 @@
+---
+:scope: 
+:url: http://pixel.quantserve.com/pixel;r=1107013515;labels=_fp.event.RightMove%20Total%20Site%20Unique;rf=0;a=p-cMQdpDwFdWaPL;url=http%3A%2F%2F4638770.fls.doubleclick.net%2Factivityi%3Bdc_pre%3DCMTaz8zfytQCFdeHdwodT-AJ-A%3Bsrc%3D4638770%3Btype%3Dcount0%3Bcat%3Dright003%3Bord%3D1%3Bnum%3D1101269531063.7356;ref=http%3A%2F%2Fwww.rightmove.co.uk%2Fproperty-to-rent%2Fproperty-60384643.html;fpan=u;fpa=;ns=1;ce=1;cm=;je=0;sr=1024x768x32;enc=n;dst=1;et=1497904100520;tzo=-60;ogl=
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Connection: close
+  Content-Type: image/gif
+  Set-Cookie: mc=594833e0-c6104-d0615-13833; expires=Fri, 20-Jul-2018 20:28:16 GMT;
+    path=/; domain=.quantserve.com
+  P3P: CP="NOI DSP COR NID CURa ADMa DEVa PSAo PSDo OUR SAMa IND COM NAV"
+  Cache-Control: private, no-cache, no-store, proxy-revalidate
+  Pragma: no-cache
+  Expires: Fri, 04 Aug 1978 12:00:00 GMT
+  Content-Length: '35'
+  Date: Mon, 19 Jun 2017 20:28:16 GMT
+  Server: QS
+:content: !binary |-
+  R0lGODlhAQABAAAAACwAAAAAAQABAID///8AAAACAkQBADs=

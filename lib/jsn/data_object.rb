@@ -1,9 +1,6 @@
 module JSN
   class DataObject
 
-    DeepMergeError = Module.new
-    DeepMergeError::MismatchedKeys = Class.new(ArgumentError)
-
     def initialize(data)
       @data = store_data(data)
     end
@@ -25,7 +22,7 @@ module JSN
     end
 
     def [](key)
-      nested_value(key)[0] if has_key?(key)
+      value_from_key(key) if has_key?(key)
     end
 
     def deep_merge_on(key,obj)
@@ -38,27 +35,35 @@ module JSN
 
     private
 
+    def value_from_key(key)
+      value = nested_value(key)
+      value.length > 1 ? value : value[0]
+    end
+
     def merge_by_key(key,obj)
       unless self.send(:key_level,key) == obj.send(:key_level,key)
         raise DeepMergeError::MismatchedKeys.new
       end
-      true
+      if self[key].is_a?(DataCollection) && obj[key].is_a?(DataCollection)
+        self[key].deep_merge_on(k,obj[key])
+      else
+        upsert_with_collection(key,self[key],obj[key])
+      end
+      self
     end
 
     def key_level(key)
       hash = {}
-      keys_at_depth do |k,i|
-        hash[k] = i if k
-      end
-      hash[key]
+      traverse_keys { |k,i,_| hash[k] = i if k }
+      hash[key] || -> { raise DeepMergeError::KeyNotFound.new }.call
     end
 
-    def keys_at_depth(obj=@data,k=nil,i=0,&block)
-      yield k,i
+    def traverse_keys(obj=@data,k=nil,old_k=nil,i=0,&block)
+      yield k,i,old_k
       return if k && !(obj[k].is_a?(Hash) || obj[k].is_a?(Array)) && k
-      return obj[k].map { |v|  keys_at_depth(v,nil,i+1, &block) } if obj[k].is_a?(Array) && k
-      return obj[k].keys.map { |q| keys_at_depth(obj[k],q,i+1,&block) } if obj[k].is_a?(Hash) && k
-      obj.keys.map { |k| keys_at_depth(obj,k,i,&block) } && nil
+      return obj[k].map { |v|  traverse_keys(v,nil,k,i+1, &block) } if obj[k].is_a?(Array) && k
+      return obj[k].keys.map { |q| traverse_keys(obj[k],q,k,i+1,&block) } if obj[k].is_a?(Hash) && k
+      obj.keys.map { |q| traverse_keys(obj,q,k,i,&block) } && nil
     end
 
     def nested_keys(obj=@data)
@@ -76,11 +81,13 @@ module JSN
       .flatten
     end
 
-    def upsert_at_key(key,data)
-      # navigate to the key
-      # if not an array
-        # create an array, copy the data
-      # convert to array
+    def upsert_with_collection(key,*args)
+      traverse_keys do |k,_,old_k|
+        if key == k
+          @data[old_k][k] = DataCollection.new({k => args})
+          break
+        end
+      end
     end
   end
 end

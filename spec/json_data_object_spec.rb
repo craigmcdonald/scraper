@@ -88,6 +88,7 @@ describe JSN::DataObject do
     let(:data2) { {a: {b: {e: :f}}} }
     let(:obj1) { described_class.new(data1) }
     let(:obj2) { described_class.new(data2) }
+    let(:key_not_found) { DeepMergeError::KeyNotFound }
 
     describe 'deep copy' do
       it 'should return a new object' do
@@ -95,11 +96,24 @@ describe JSN::DataObject do
       end
     end
 
-    it 'should ' do
-      expect(obj1.deep_merge_on(:b, obj2)).to be
+    it 'should raise DeepMergeError::KeyNotFound for a missing key' do
+      expect { obj1.deep_merge_on(:z, obj2) }.to raise_error(key_not_found)
     end
-    # it 'should merge the objects' do
-    #   expect(obj1.deep_merge(obj2)[:b]).to be_kind_of(Array)
-    # end
+
+    it 'should merge the two values for :b into a DataCollection' do
+      #TODO This is actually returning an Array, but it should be a DataCollection.
+      result = obj1.deep_merge_on(:b, obj2)
+      expect(result[:b].count).to eq(2)
+    end
+
+    describe 'attempting to merge objects with keys at different levels' do
+      let(:data3) { {b: {a: {l: :p}}} }
+      let(:obj3) { described_class.new(data3) }
+      let(:mismatched_keys) { DeepMergeError::MismatchedKeys }
+
+      it 'should raise DeepMergeError::MismatchedKeys' do
+        expect { obj1.deep_merge_on(:a, obj3) }.to raise_error(mismatched_keys)
+      end
+    end
   end
 end

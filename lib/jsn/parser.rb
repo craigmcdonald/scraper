@@ -1,4 +1,5 @@
 require 'json'
+require_relative '../error_classes/deep_merge_errors'
 
 module JSN
   class Parser
