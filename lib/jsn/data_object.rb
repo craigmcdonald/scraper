@@ -45,19 +45,31 @@ module JSN
       upsert(key, DataCollection.new({key => args}))
     end
 
-
     def merge_at_key(key,obj)
-      unless self.send(:key_level,key) == obj.send(:key_level,key)
-        raise DeepMergeError::MismatchedKeys.new
-      end
-      if self[key].is_a?(DataCollection) && obj[key].is_a?(DataCollection)
+      raise mismatched_keys unless matching_keys(key,obj)
+      if both_collections(key,obj)
         upsert(key,self[key].deep_merge_at(key, obj[key]))
-      elsif !self[key].is_a?(DataCollection) && !obj[key].is_a?(DataCollection)
-        upsert_with_collection(key,self[key],obj[key])
       else
-        raise DeepMergeError::MismatchedValues.new
+        upsert_with_collection(key,self[key],obj[key])
       end
       self
+    end
+
+    def mismatched_keys
+      DeepMergeError::MismatchedKeys.new
+    end
+
+    def mismatched_values
+      DeepMergeError::MismatchedValues.new
+    end
+
+    def both_collections(key,obj)
+      raise mismatched_values unless self[key].class == obj[key].class
+      self[key].is_a?(DataCollection) && obj[key].is_a?(DataCollection)
+    end
+
+    def matching_keys(key,obj)
+      self.send(:key_level,key) == obj.send(:key_level,key)
     end
 
     def key_level(key)
