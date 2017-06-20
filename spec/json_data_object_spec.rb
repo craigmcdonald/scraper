@@ -97,22 +97,64 @@ describe JSN::DataObject do
     end
 
     it 'should raise DeepMergeError::KeyNotFound for a missing key' do
-      expect { obj1.deep_merge_on(:z, obj2) }.to raise_error(key_not_found)
+      expect { obj1.deep_merge_at(:z, obj2) }.to raise_error(key_not_found)
     end
 
     it 'should merge the two values for :b into a DataCollection' do
-      #TODO This is actually returning an Array, but it should be a DataCollection.
-      result = obj1.deep_merge_on(:b, obj2)
+      #TODO This is actually returning an Array, but it probably should be a DataCollection.
+      result = obj1.deep_merge_at(:b, obj2)
       expect(result[:b].count).to eq(2)
     end
 
-    describe 'attempting to merge objects with keys at different levels' do
+    describe 'merging DataObjects containing collections' do
+      let(:coldata1) { {b: [{c: :d},{e: :f}]} }
+      let(:coldata2) { {b: [{w: :q},{r: :t}]} }
+      let(:colobj1) { described_class.new(coldata1) }
+      let(:colobj2) { described_class.new(coldata2) }
+
+      it 'should merge two DataCollections into a single DataCollection' do
+        result = colobj1.deep_merge_at(:b, colobj2)
+        expect(result[:b].count).to eq(4)
+      end
+
+
+      describe 'upserting at the correct place' do
+        let(:data) { {a: {b: {c: {d: :e}}}, f: {g: {h: :i}}} }
+        let(:obj) { described_class.new(data)}
+        let(:obj2) { described_class.new(data)}
+
+        it '#key_with_parents should return [:f,:g:,:h] for :h' do
+          expect(obj.key_with_parents(:h)).to eq([:f,:g,:h])
+        end
+
+        it '#key_with_parents should return [:a,:b:,:c] for :c' do
+          expect(obj.key_with_parents(:c)).to eq([:a,:b,:c])
+        end
+
+        it '#method_array should return correct array for :c' do
+          expect(obj.method_array(:c))
+          .to eq([["[]","a"],["[]","b"],["[]=","c"]])
+        end
+
+        it '#method_array should return correct array for :h' do
+          expect(obj.method_array(:h))
+        .to eq([["[]","f"],["[]","g"],["[]=","h"]])
+        end
+
+        it '#method_array should return correct array for :f' do
+          expect(obj.method_array(:f))
+          .to eq([["[]=","f"]])
+        end
+      end
+    end
+
+    describe 'trying to merge objects with keys at different levels' do
       let(:data3) { {b: {a: {l: :p}}} }
       let(:obj3) { described_class.new(data3) }
       let(:mismatched_keys) { DeepMergeError::MismatchedKeys }
 
       it 'should raise DeepMergeError::MismatchedKeys' do
-        expect { obj1.deep_merge_on(:a, obj3) }.to raise_error(mismatched_keys)
+        expect { obj1.deep_merge_at(:a, obj3) }.to raise_error(mismatched_keys)
       end
     end
   end

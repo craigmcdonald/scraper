@@ -1,0 +1,18 @@
+---
+:scope: 
+:url: http://ums.rightmove.co.uk/users/170613DUH6H8FER7QMHJG5AZFCA68ONS?_=1497993881037
+:body: ''
+:status: 500
+:method: get
+:headers:
+  Server: nginx/1.10.2
+  Date: Tue, 20 Jun 2017 21:24:45 GMT
+  Content-Type: application/json;charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: close
+  Access-Control-Allow-Origin: http://www.rightmove.co.uk
+  Vary: Origin
+  Access-Control-Allow-Credentials: 'true'
+:content: '{"timestamp":1497993885689,"status":500,"error":"Internal Server Error","exception":"java.util.concurrent.ExecutionException","message":"org.springframework.dao.QueryTimeoutException:
+  java.util.concurrent.TimeoutException; nested exception is java.lang.RuntimeException:
+  java.util.concurrent.TimeoutException","path":"/users/170613DUH6H8FER7QMHJG5AZFCA68ONS"}'

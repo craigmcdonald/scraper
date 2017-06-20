@@ -2,7 +2,7 @@ ruby '2.3.3'
 source 'https://rubygems.org' do
   gem 'capybara'
   gem 'poltergeist'
-  gem 'pry'
+  gem 'pry-byebug'
   gem 'dotenv'
   gem 'celluloid'
   gem 'rspec'

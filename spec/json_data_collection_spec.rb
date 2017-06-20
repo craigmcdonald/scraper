@@ -41,6 +41,27 @@ describe JSN::DataCollection do
     it 'should return true for #any?' do
       expect(collection.any?).to be
     end
+
+    describe 'deep_merging' do
+      let(:data2) { {a:[{q:{w:{e: :e}}},{r:{t:{y: :i}}}]}}
+      let(:collection2) { described_class.new(data2) }
+
+      it 'should return a new merged deep_collection' do
+        expect(collection.deep_merge_at(:a,collection2))
+        .to be_kind_of(described_class)
+      end
+
+      it 'should have a count of 4' do
+        expect(collection.deep_merge_at(:a,collection2).count)
+        .to eq(4)
+      end
+
+      it 'should return :i for #last[:y]' do
+        result = collection.deep_merge_at(:a,collection2)
+        expect(result.last[:y])
+        .to eq(:i)
+      end
+    end
   end
 
   describe 'acccessing data from fixture' do
@@ -62,6 +83,5 @@ describe JSN::DataCollection do
     it 'should have a price of 1160 within the array of properties' do
       expect(collection.map { |p| p[:price][:amount] }).to include(1160)
     end
-
   end
 end
