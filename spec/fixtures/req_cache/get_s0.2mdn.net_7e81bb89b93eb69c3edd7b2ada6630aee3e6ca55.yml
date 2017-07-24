@@ -1,0 +1,31 @@
+---
+:scope: 
+:url: https://s0.2mdn.net/6257714/1498038978102/732443_BoS_750CB-300x250/icon1.png
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Accept-Ranges: bytes
+  Content-Type: image/png
+  Access-Control-Allow-Origin: "*"
+  Content-Length: '378'
+  Date: Sun, 23 Jul 2017 06:56:54 GMT
+  Expires: Mon, 24 Jul 2017 06:56:54 GMT
+  Last-Modified: Wed, 21 Jun 2017 09:56:18 GMT
+  X-Content-Type-Options: nosniff
+  Server: sffe
+  X-XSS-Protection: 1; mode=block
+  Cache-Control: public, max-age=86400
+  Age: '49993'
+  Alt-Svc: quic=":443"; ma=2592000; v="39,38,37,36,35"
+  Connection: close
+:content: !binary |-
+  iVBORw0KGgoAAAANSUhEUgAAACEAAAA1BAMAAAA9jZ/RAAAAMFBMVEUAAAD/
+  //////////////////////////////////////////////////////////87
+  TQQwAAAAD3RSTlMAu3dE7iLMiBHdqlWZZjOD5l5HAAAA6klEQVQoz7XQP7JB
+  MRTH8eP9mdG9m7eA97ijd3sFCrV0CoVKfQ0zVmDUxgrsgB2wA5biT4w/Tcjv
+  ImcchYJvkZl8iuQkdOkz+2+takd0rVa1Sb86gQ97awlIx14GkL71BZCYSYuf
+  gjJOelwmTvJcMFGVC8blYNjBpkNU6K6cpBJpkqvuli+A0XTrB7IjXwOyZVKE
+  lIQELxelYkhZnftzYnkbIXshSyEDIYGQmZDMYwnDOTbD8Jx+x2+MmEwvF/vy
+  kAWTMUR7+AYcyZeCVDyk8QgTeclZ10Fdi8jeJUULoXsxQlZCjkLWT8iGTuwK
+  B5/eOpOMAAAAAElFTkSuQmCC

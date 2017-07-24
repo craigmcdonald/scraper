@@ -1,0 +1,17 @@
+---
+:scope: 
+:url: http://ums.rightmove.co.uk/users/170613DUH6H8FER7QMHJG5AZFCA68ONS?_=1500843008457
+:body: ''
+:status: 404
+:method: get
+:headers:
+  Server: nginx/1.10.2
+  Date: Sun, 23 Jul 2017 20:50:09 GMT
+  Content-Type: application/json;charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: close
+  Access-Control-Allow-Origin: http://www.rightmove.co.uk
+  Vary: Origin
+  Access-Control-Allow-Credentials: 'true'
+:content: '{"timestamp":1500843009028,"status":404,"error":"Not Found","exception":"com.rightmove.consumerdata.ums.web.UserNotFoundException","message":"No
+  resource found for perm cookie id: 170613DUH6H8FER7QMHJG5AZFCA68ONS","path":"/users/170613DUH6H8FER7QMHJG5AZFCA68ONS"}'

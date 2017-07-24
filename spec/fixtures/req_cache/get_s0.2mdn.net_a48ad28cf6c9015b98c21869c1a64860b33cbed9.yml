@@ -1,0 +1,80 @@
+---
+:scope: 
+:url: https://s0.2mdn.net/6257714/1498038978102/732443_BoS_750CB-300x250/styles.css
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Accept-Ranges: bytes
+  Vary: Accept-Encoding
+  Content-Encoding: gzip
+  Content-Type: text/css
+  Access-Control-Allow-Origin: "*"
+  Content-Length: '435'
+  Date: Sun, 23 Jul 2017 06:56:54 GMT
+  Expires: Mon, 24 Jul 2017 06:56:54 GMT
+  Last-Modified: Wed, 21 Jun 2017 09:56:18 GMT
+  X-Content-Type-Options: nosniff
+  Server: sffe
+  X-XSS-Protection: 1; mode=block
+  Cache-Control: public, max-age=86400
+  Age: '49992'
+  Alt-Svc: quic=":443"; ma=2592000; v="39,38,37,36,35"
+  Connection: close
+:content: |+
+  @charset "UTF-8";
+
+  body,
+  body * {
+      vertical-align:baseline;
+      border:0 none;
+      outline:0;
+      padding:0;
+      margin:0;
+  }
+
+  :focus {
+      outline:none;
+  }
+  ::-moz-focus-inner {
+      border:0;
+  }
+
+  #main_container {
+      position:relative;
+      width:300px;
+      height:250px;
+      background-color:#005BA2;
+      overflow:hidden;
+      box-sizing:border-box;
+      border:1px solid #333333;
+      visibility:hidden;
+      cursor:pointer;
+  }
+
+  .retina {
+      top:0; left:0;
+      -webkit-transform:scale(0.5);
+      -ms-transform:scale(0.5);
+      transform:scale(0.5);
+      -webkit-transform-origin:left top;
+      -ms-transform-origin:left top;
+      transform-origin:left top;
+  }
+  img{
+  position:absolute;
+  }
+
+  #icon_bg1, #icon_bg2, #icon_bg3 , #icon1 , #icon2 , #icon3 , #f1_text1 , #f2_text1 , #f3_text1, #f4_text1, #cta , #cover{
+    position:absolute;
+    top:0px;
+    left:0px;
+    opacity:0;
+  }
+
+  #cover {
+  width:100%;
+  height:100%;
+  background-color:#005BA2;
+  }
+

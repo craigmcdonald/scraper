@@ -40,6 +40,4 @@ class Scraper
       define_singleton_method(key) { method_missing(key) }
     end
   end
-
-
 end

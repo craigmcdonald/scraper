@@ -1,0 +1,106 @@
+---
+:scope: 
+:url: https://tps40.doubleverify.com/visit.js?ctx=2225677&cmp=20048096&ipos=&sid=1206932&plc=200801269&adid=&crt=400844855_90556326&btreg=400844855&btadsrv=doubleclick&adsrv=1&advid=6257714&num=&pid=&crtname=&unit=&chnl=&uid=1500843006997324&scusrid=&tagtype=&sr=&dt=&dup=&app=&sup=&dvvidver=&dvp_noperf=1&dvtagver=6.1.src&srcurlD=1&curl=&qpgid=&ssl=1&refD=2&htmlmsging=1&aadid=d6ef76acaf4db5282a021ac0691ab76a90aacb06&chro=0&hist=1&winh=254&winw=300&wouh=0&wouw=0&scah=768&scaw=1024&referrer=https%3A%2F%2Fad.doubleclick.net%2Fddm%2Fadi%2FN6010.123755.RIGHTMOVE.CO.UK%2FB20048096.200801269%3Bdc_ver%3D39.103%3Bsz%3D300x250%3Bu_sd%3D1%3Bdc_adk%3D1021463902%3Bord%3D3r7npu%3Bclick%3Dhttps%253A%252F%252Fadclick.g.doubleclick.net%252Fpcs%252Fclick%253Fxai%253DAKAOjst0-pXrj7xsgbgMvyTQO14QYKccZCEEkOW1fgtE4rDcw8QFAY_k1seUerKaKNAe0QIgQLMfgtuhBORMc7jAYSQ_Q5cv533E8MV1pHg_OCh0qBoxBiXuR4QP1QDl-tDTUtpdE5sredOO9w5CjjvDnsopEh3YGoxnH-iCnskozP8IzfGpsiaX5Xrggjx3gpMEMfiEaKOb7qZL99rackp-SOrT8eIDx_qjrNRSo2LrAWEIAjfFr9aWQoqDnNw43oKfiCJ5kSMeNjklAvPP9g3_o2GznrdhUQ%2526sig%253DCg0ArKJSzMlEDpCirFp_EAE%2526urlfix%253D1%2526adurl%253D%3Bdc_rfl%3D1%2Chttp%253A%252F%252Fwww.rightmove.co.uk%252Fproperty-to-rent%252Fproperty-60384643.html%240%3Bxdt%3D1%3Bcrlt%3Dkrk4Y6.R0!%3Bosda%3D2%3Bsttr%3D39%3Bprcl%3Ds%3F&navUa=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_11_5)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F58.0.3029.110%20Safari%2F537.36&aUrlD=&vavbkt=4,8,1,23&lvvn=23&jsver=133&eparams=DC4FC%3Dl9EEATbpTauTauEA4%5D8%40%408%3D6DJ%3F5%3A42E%3A%40%3F%5D4%40%3ETauD2767C2%3E6Tau%60%5C_%5ChTau9E%3E%3DTau4%40%3FE2%3A%3F6C%5D9E%3E%3DU2%3F4r92%3A%3Fl9EEATbpTauTauHHH%5DC%3A89E%3E%40G6%5D4%40%5DF%3CTar9EEATbpTauTauEA4%5D8%40%408%3D6DJ%3F5%3A42E%3A%40%3F%5D4%40%3ETar9EEADTbpTauTau25%5D5%40F3%3D64%3D%3A4%3C%5D%3F6EU2%26C%3Dl&brid=5&brver=&bridua=3&bds=1&tstype=128&m1=9&jsCallback=dvCallback_1500843007010760
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Cache-Control: max-age=0
+  Content-Type: text/javascript; charset=utf-8
+  Date: Sun, 23 Jul 2017 20:50:07 GMT
+  Expires: 7/22/2017 8:50:08 PM
+  Pragma: no-cache
+  Server: Microsoft-IIS/8.5
+  X-Powered-By: ASP.NET
+  transfer-encoding: chunked
+  Connection: close
+:content: "try{window.parent._dv_win['dvCallback_1500843007010760']($dv,window,'bacf7f5cc42144cc97d1eee757a218eb','tps20203.doubleverify.com');}catch(e){try{var
+  image=window.document.createElement('img');image.src=window.location.protocol+'//tps30.doubleverify.com/visit.jpg?ctx=818052&cmp=1619415&dvtagver=6.1.src&dvp_cbError='+encodeURIComponent(e.message)}catch(e){}}var
+  newAvoValues = {cto: 5000};if ($dv.tags[$uid].AVO == undefined) $dv.tags[$uid].AVO
+  = {};for (var id in newAvoValues){if (newAvoValues[id] != undefined){$dv.tags[$uid].AVO[id]=
+  newAvoValues[id];}};$dv.tags[$uid].AVO.rpv = 1;$dv.pubSub.subscribe('ImpressionServed',
+  $uid, 'RTN_LatencyTemp', function () {try {var beforeVisitCall = '';var templateStartTime
+  = parent.getCurrentTime();var dv_win = parent.window._dv_win;if (dv_win && dv_win.t2tTimestampData)
+  {if (dv_win.t2tTimestampData.length >= 2) {beforeVisitCall = dv_win.t2tTimestampData[1].beforeVisitCall;}}var
+  latency = 0;if (beforeVisitCall != '' && templateStartTime != '') {latency = templateStartTime
+  - beforeVisitCall;}if(latency > 1000 && latency < 90000) {$dv.registerEventCall($uid,
+  { dvp_ltncy: latency });}} catch (e) {};});$dv.ViewabilityScriptVersion = 686;$dv.tags[$uid].set({\"cvmSettings\":{\"adArea\":\"100\",\"duration\":\"4000\",\"measureType\":\"Consecutive\",\"focus\":\"1\"}});$dv.tags[$uid].dc
+  = $dv.tags[$uid].dc || [];$dv.tags[$uid].dc.push({\"rq\":{\"av\":100,\"ic\":1,\"fc\":1,\"adc\":4000},\"rp\":{\"pt\":\"iscvmvms\",\"pr\":\"CustomViewabilityViewable\",\"eid\":6}});
+  \   \t$dv.pubSub.subscribe ('ImpressionServed', $uid, 'SendAdEntitiesForBSBAConsolidation',
+  function() {\r\n            'use strict';\r\n            var stringifyFunc = null;\r\n\t\t\tif(window.JSON){\r\n\t\t\t\tstringifyFunc
+  = window.JSON.stringify;\r\n\t\t\t} else {\r\n\t\t\t\tif(window.parent && window.parent.JSON){\r\n\t\t\t\t\tstringifyFunc
+  = window.parent.JSON.stringify;\r\n\t\t\t\t}\r\n\t\t\t}\r\n\t\t\tif(!stringifyFunc){\r\n\t\t\t\treturn;\r\n\t\t\t}\r\n
+  \           var targetWin;\r\n            var tag = $dv.tags[$uid];\r\n            var
+  bsmsg = {\r\n                action : 'notifyBrandShieldAdEntityInformation',\r\n
+  \               bsAdEntityInformation : {\r\n                    comparisonItems
+  : [{name : 'cmp', value : 11159068},{name : 'plmt', value : 11159078}], verboseReporting
+  : false  }\r\n            };\r\n            var bsstring = stringifyFunc(bsmsg);\r\n\r\n
+  \           var findAndSend = function(){\r\n                if(!targetWin) {\r\n
+  \                   if (tag) {\r\n                        targetWin = tag.t2tIframeWindow;\r\n
+  \                       if (!targetWin) {\r\n                            var t2tIframeId
+  = tag.t2tIframeId;\r\n                            //get t2t window and post the
+  AdEntities to it.\r\n                            if (t2tIframeId) {\r\n                                var
+  iFrame = window.parent.getElementById(t2tIframeId);\r\n                                if
+  (iFrame) {\r\n                                    targetWin = iFrame.contentWindow;\r\n
+  \                               }\r\n                            }\r\n                        }\r\n
+  \                   }\r\n                }\r\n\r\n                if(targetWin){\r\n
+  \                   targetWin.postMessage(bsstring, '*');\r\n                }\r\n
+  \           };\r\n\r\n            findAndSend();\r\n            setTimeout(findAndSend,
+  100);\r\n            setTimeout(findAndSend, 500);\r\n        });var impId = 'bacf7f5cc42144cc97d1eee757a218eb';var
+  dvObj = $dv;var rtnName = dvObj==window.$dv ? 'ImpressionServed' : 'BeforeDecisionRender';dvObj.pubSub.subscribe(rtnName,
+  impId, 'HE_RTN', function () { try {var ifu = '';var alu = 'http://ad.doubleclick.net/ddm/clk/291583327;106680815;k';var
+  lbl='';var d=null,e=dvObj==window.$dv?parent:window,h=0,i=0,k=[],l=[],m=10;\r\nfunction
+  o(a,c){function b(b){return f=function(g){g.preventDefault();if(!t[c*Math.pow(2,m*b)]&&(rhe(c*Math.pow(2,m*b)),t[Math.pow(2,m*b)]=!0,a)){events=u[b];for(g=0;g<events.length;g++)a.removeEventListener?a.removeEventListener(events[g],f):a.detachEvent?a.detachEvent(\"on\"+events[g],f):a[\"on\"+events[g]]=f}}}var
+  u=[[\"click\"],[\"focus\"],\"input change keyup textInput keypress paste\".split(\"
+  \"),[\"touchstart\"]],t=[];t[c]=!1;if(a)for(var j=0;j<u.length;j++){events=u[j];for(var
+  n=0;n<events.length;n++)a.addEventListener?\r\na.addEventListener(events[n],b(j),!0):a.attachEvent?a.attachEvent(\"on\"+events[n],b(j)):a[\"on\"+events[n]]=b(j)}}window.rhe=function(a,c){void
+  0==c&&(c=a);var b={};\"number\"===typeof a&&void 0===k[a]&&(k[a]=!0,h+=a,b[lbl+\"heas\"]=h);\"number\"===typeof
+  c&&void 0===l[c]&&(l[c]=!0,i+=c,b[\"dvp_hease\"]=i);dvObj.registerEventCall(impId,b)};e.rhe=rhe;function
+  p(a,c){var b=document.createElement(a);b.id=(c||a)+\"-\"+impId;b.style.visibility=\"hidden\";b.style.position=\"absolute\";b.style.display=\"none\";return
+  b}\r\nfunction q(a){var c=r;Object.defineProperty(c,a,{get:function(){return this.getAttribute(a)},set:function(b){this.setAttribute(a,b);\"createEvent\"in
+  document?(b=document.createEvent(\"HTMLEvents\"),b.initEvent(\"change\",!1,!0),c.dispatchEvent(b)):(b=document.createEventObject(),c.fireEvent(\"onchange\",b))}})}var
+  s=p(\"form\");s.submit=function(){window.rhe(1,1)};var r=p(\"input\",\"txt\");r.name=r.id;r.type=\"text\";q(\"value\");q(\"textContent\");var
+  v=p(\"input\",\"btn\");v.name=v.id;v.type=\"button\";\r\nvar w=p(\"input\",\"sbmt\");w.name=w.id;w.type=\"submit\";w.click=function(){window.rhe(2,2)};w.ontouchstart=function(){window.rhe(2,2)};var
+  x=p(\"a\");x.href=\"javascript:window.rhe(16,16);\";if(\"\"!=alu){var y=p(\"a\");y.href=alu}e.document.body.insertBefore(s,d);e.document.body.insertBefore(x,d);s.insertBefore(r,d);s.insertBefore(v,d);s.insertBefore(w,d);o(r,8);o(v,4);o(w,2);o(s,1);\"\"!=alu&&(y=p(\"a\",\"alu\"),y.href=alu,e.document.body.insertBefore(y,d),o(y,32));\r\nif(\"\"!=ifu){var
+  z=p(\"iframe\");z.src=ifu;e.document.body.insertBefore(z,d);o(z,64)};} catch (e)
+  {}; });$dv.tags[$uid].set({\"billable\":{adArea: 100, duration: 100}});$dv.tags[$uid].dc
+  = $dv.tags[$uid].dc || [];$dv.tags[$uid].dc.push({\"rq\":{\"av\":98,\"ic\":true,\"fc\":true,\"adc\":100,\"mla\":true,\"ldav\":0},\"rp\":{\"mt\":\"isgmmims\",\"pt\":\"isgmpims\",\"mr\":\"GroupMMeasuredImpression\",\"pr\":\"GroupMPassedImpression\",\"eid\":17,\"bl\":true}});$dv.tags[$uid].dc.push({\"rq\":{\"av\":98,\"ic\":true,\"fc\":true,\"adc\":1000,\"mla\":false,\"ldav\":50},\"rp\":{\"mt\":\"isgmv4mims\",\"pt\":\"isgmv4dpims\",\"eid\":17,\"bl\":true}});\n(function()
+  {var dvObj = $dv;var impId = 'bacf7f5cc42144cc97d1eee757a218eb';var dvParams = {'useDvp':
+  'true','logRate': '100'};dvObj.pubSub.subscribe(dvObj==window.$dv?\"ImpressionServed\":\"BeforeDecisionRender\",impId,\"BHL\",
+  function() {function f(){var c=\"true\"===dvParams.useDvp?\"dvp_\":\"\",d=\"\";this.exec=function(){var
+  a={},b;a:{try{b=history.length;break a}catch(e){d+=\"|\"+e.message}b=void 0}b&&(a[c+\"brh\"]=b);c&&d&&(a.dvp_brherr=d);try{a&&dvObj.registerEventCall(impId,a)}catch(e){}}}try{(new
+  f).exec()}catch(c){};});})();var dvObj = $dv;function np764531(g,i){function d(){function
+  d(){function f(b,a){b=(i?\"dvp_\":\"\")+b;e[b]=a}var e={},a=function(b){for(var
+  a=[],c=0;c<b.length;c+=2)a.push(String.fromCharCode(parseInt(b.charAt(c)+b.charAt(c+1),32)));return
+  a.join(\"\")},h=window[a(\"3e313m3937313k3f3i\")];h&&(a=h[a(\"3g3c313k363f3i3d\")],f(\"pltfrm\",a));(function(){var
+  a=e;e={};dvObj.registerEventCall(g,a,2E3,true)})()}try{d()}catch(f){}}try{dvObj.pubSub.subscribe(dvObj==window.$dv?\"ImpressionServed\":\"BeforeDecisionRender\",g,\"np764531\",d)}catch(f){}}\n;np764531(\"bacf7f5cc42144cc97d1eee757a218eb\",false);var
+  dvObj=$dv;var impId='bacf7f5cc42144cc97d1eee757a218eb';dvObj.pubSub.subscribe('ImpressionServed',impId,'SupportedFonts',function(){\r\ntry{(function(){var
+  e=[\"Baskerville\",\"Athens\",\"Verina\",\"Helvetica\",\"Lucida Grande\",\"Apple
+  Casual\",\"Lucida Sans Unicode\",\"Wingdings\",\"FreesiaUPC\",\"Kalinga\",\"MS Serif\",\"Comic
+  Sans MS\",\"Trebuchet MS\",\"Calibri Light\",\"Gautami\",\"Simplified Arabic\",\"Webdings\",\"Droid
+  Sans\",\"Droid Serif\",\"Droid Sans Mono\",\"Roboto\",\"SamnsungOne\",\"Noto\",\"Arimo\",\"Tinos\",\"Cousine\",\"Caecilia\",\"AppleColorEmoji\",\"AppleColorEmoji\",\"CourierNewPSMT\",\"DejaVu
+  Sans Mono\",\"Vera Sans\",\"Ubuntu Mono\",\"Terminus Font\",\"GNU Unifont\",\"Fixedsys\"];var
+  i=[\"monospace\",\"sans-serif\",\"serif\"];var a=\"mmmmmmmmmmlli\";var n=\"72px\";var
+  r=document.getElementsByTagName(\"body\")[0];var o=document.createElement(\"span\");o.style.fontSize=n;o.innerHTML=a;var
+  t={};var s={};for(var l in i){o.style.fontFamily=i[l];r.appendChild(o);t[i[l]]=o.offsetWidth;s[i[l]]=o.offsetHeight;r.removeChild(o)}function
+  m(e){var a=false;for(var n in i){o.style.fontFamily=e+\",\"+i[n];r.appendChild(o);var
+  l=o.offsetWidth!=t[i[n]]||o.offsetHeight!=s[i[n]];r.removeChild(o);a=a||l}return
+  a}this.detect=m;var f=0;var d=0;for(var v in e){try{if(m(e[v])){if(v<32){f=(f|1<<v)>>>0}else
+  if(v<64){d=(d|1<<v)>>>0}}}catch(c){}}dvObj.registerEventCall(impId,{dvp_tf1:f,dvp_tf2:d},1e3)})()}catch(e){}\r\n});$dv.pubSub.subscribe('ImpressionServed',
+  'bacf7f5cc42144cc97d1eee757a218eb', 'wpdc', function() {try { var result = 0; var
+  cur = window; var tryNum = 0; try {    while (!result && tryNum < 10) {        if
+  (cur.maple != undefined) {            result = 1;            break;        }        if
+  (cur == cur.parent)            break;        tryNum++;        cur = cur.parent;
+  \   } } catch (er) {}\tif (result) {\t\t$dv.registerEventCall('bacf7f5cc42144cc97d1eee757a218eb',
+  { dvp_maple: result});\t}} catch (e) {}});$dv.tags[$uid].dc = $dv.tags[$uid].dc
+  || [];$dv.tags[$uid].dc.push({\"rq\":{\"av\":98,\"ic\":true,\"fc\":true,\"adc\":1000,\"mla\":false,\"ldav\":30},\"rp\":{\"mt\":\"ismms\",\"pt\":\"ispmxpms\"}});function
+  IVCallback(ViewAssureBootstrapper) {    if(ViewAssureBootstrapper && typeof(ViewAssureBootstrapper)==='function')
+  {       ViewAssureBootstrapper({ 'serverSettings': { 'protocol': 'https://', 'templateVersion':
+  '11', 'TKH': '1222337394577679117' } });   } else {       new dv_InViewService({
+  'protocol': 'https://' }).inViewManager();     }};$dv.CommonData.deviceType = 1;$dv.CommonData.detectedDeliveryType
+  = 1;$dv.pubSub.subscribe('ImpressionServed', $uid, 'createVersionSelector', function
+  () {var version = $dv.ViewabilityScriptVersion;if(!version) return;if($dv.ViewabilityScriptVersion2
+  && Math.random()*100 < 50) {   var version = $dv.ViewabilityScriptVersion2; } var
+  script = document.createElement('script'); script.type = 'text/javascript'; script.src
+  = 'https://cdn.doubleverify.com/avs' + version + '.js'; document.body.appendChild(script);});try{$dv.pubSub.publish('ImpressionServed',
+  $uid);$dv.pubSub.publish('ImpressionServed', $frmId);}catch(e){}"

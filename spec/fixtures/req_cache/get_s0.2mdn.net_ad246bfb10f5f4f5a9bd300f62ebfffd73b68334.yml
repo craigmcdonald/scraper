@@ -1,0 +1,62 @@
+---
+:scope: 
+:url: https://s0.2mdn.net/6257714/1498038978102/732443_BoS_750CB-300x250/index.html
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Accept-Ranges: bytes
+  Vary: Accept-Encoding
+  Content-Encoding: gzip
+  Content-Type: text/html
+  Access-Control-Allow-Origin: "*"
+  Content-Length: '1024'
+  Date: Sun, 23 Jul 2017 06:56:53 GMT
+  Expires: Mon, 24 Jul 2017 06:56:53 GMT
+  Last-Modified: Wed, 21 Jun 2017 09:56:18 GMT
+  X-Content-Type-Options: nosniff
+  Server: sffe
+  X-XSS-Protection: 1; mode=block
+  Cache-Control: public, max-age=86400
+  Age: '49993'
+  Alt-Svc: quic=":443"; ma=2592000; v="39,38,37,36,35"
+  Connection: close
+:content: "<!DOCTYPE html>\n<html lang=\"en\">\n\n<head>\n    <meta http-equiv=\"Content-Type\"
+  content=\"text/html; charset=utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\"
+  content=\"IE=edge,chrome=1\">\n    <meta name=\"viewport\" content=\"width=device-width,
+  initial-scale=1.0\">\n\n    <meta name=\"ad.size\" content=\"width=300,height=250\">\n\n
+  \   <script type=\"text/javascript\">\n        var clickTag = \"https://www.bankofscotland.co.uk/\";\n
+  \   </script>\n\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"styles.css\">\n<script
+  type=\"text/javascript\">\n    \n      (function() {\n        var relegateNavigation
+  = '';\n        var handleClickTagMessage = function(e) {\n          try {\n            var
+  eventData = JSON.parse(e.data);\n          } catch (err) {\n            return;\n
+  \         }\n          if (eventData.isInitClickTag) {\n            if (eventData.clickTags)
+  {\n              for (var i = 0; i < eventData.clickTags.length; i++) {\n                var
+  clkTag = eventData.clickTags[i];\n                window[clkTag.name] = clkTag.url;\n
+  \             }\n            } else if (eventData.clickTag) {\n              window.clickTag
+  = eventData.clickTag;\n            }\n            relegateNavigation = eventData.relegateNavigation;\n
+  \         }\n        };\n\n        if (open.call) {\n          window.open = function(open)
+  {\n            return function(url, name, features) {\n              if (relegateNavigation
+  === 'parent') {\n                var message = {'clickTag': url, 'isPostClickTag':
+  true};\n                parent.postMessage(JSON.stringify(message), '*');\n              }
+  else {\n                var args = [url, name];\n                if (features) {\n
+  \                 args.push(features);\n                }\n                open.apply(window,
+  args);\n              }\n            };\n          }(window.open);\n        }\n\n
+  \       if (window.addEventListener) {\n          window.addEventListener(\n              'message',
+  handleClickTagMessage, false);\n        } else {\n          window.attachEvent('onmessage',
+  handleClickTagMessage);\n        }\n      })();\n    \n  </script></head>\n    \n<body
+  onload=\"bannerInit();\">\n   <a href=\"javascript:window.open(window.clickTag)\">\n\n
+  \   <div id=\"main_container\">\n        <div id=\"main_content\">\n            <img
+  id=\"icon_bg1\" class=\"retina\" src=\"icon_bg1.png\">\n            <img id=\"icon_bg2\"
+  class=\"retina\" src=\"icon_bg2.png\">\n            <img id=\"icon_bg3\" class=\"retina\"
+  src=\"icon_bg3.png\">\n            \n            <img id=\"icon1\" class=\"retina\"
+  src=\"icon1.png\">\n            <img id=\"icon2\" class=\"retina\" src=\"icon2.png\">\n
+  \           <img id=\"icon3\" class=\"retina\" src=\"icon3.png\">\n            \n
+  \           <img id=\"f1_text1\" class=\"retina\" src=\"f1_text1.png\">\n           \n
+  \           <div id=\"cover\"></div>\n            \n            <img id=\"logo1\"
+  class=\"retina\" src=\"logo1.png\">\n            \n            <img id=\"f3_text1\"
+  class=\"retina\" src=\"f3_text1.png\">\n            <img id=\"f4_text1\" class=\"retina\"
+  src=\"f4_text1.png\">\n            \n            <img id=\"cta\" class=\"retina\"
+  src=\"cta.png\">\n            \n        </div>\n    </div>\n\n<script type=\"text/javascript\"
+  src=\"https://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenMax.min.js\"></script>\n<script
+  type=\"text/javascript\" src=\"main.js\"></script>\n</a>\n</body>\n\n</html>\n"

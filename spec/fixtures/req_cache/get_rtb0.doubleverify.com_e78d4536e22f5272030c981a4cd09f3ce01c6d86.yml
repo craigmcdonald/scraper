@@ -1,0 +1,58 @@
+---
+:scope: 
+:url: http://rtb0.doubleverify.com/verify.js?jsCallback=__verify_callback_857825858751&jsTagObjCallback=__tagObject_callback_857825858751&num=6&ctx=2225677&cmp=20048096&plc=200801269&sid=1206932&advid=&adsrv=&unit=300x250&isdvvid=&uid=857825858751&tagtype=&adID=&app=&sup=&isovv=0&dup=null&brid=5&brver=&bridua=3&chro=0&hist=undefined&winh=undefined&winw=undefined&wouh=undefined&wouw=undefined&srcurlD=0&ssl=0&refD=1&htmlmsging=1&aadid=d6ef76acaf4db5282a021ac0691ab76a90aacb06&aUrlD=&m1=9&vavbkt=4,8,1,23&lvvn=23&dvp_idcerr=63&eparams=DC4FC%3Dl9EEATbpTauTauHHH%5DC%3A89E%3E%40G6%5D4%40%5DF%3CTauAC%40A6CEJ%5CE%40%5CC6%3FETauAC%40A6CEJ%5Ce_bgcecb%5D9E%3E%3DU2%3F4r92%3A%3Fl9EEATbpTauTauHHH%5DC%3A89E%3E%40G6%5D4%40%5DF%3CTar9EEATbpTauTauEA4%5D8%40%408%3D6DJ%3F5%3A42E%3A%40%3F%5D4%40%3EU2%26C%3Dl&ver=84
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Cache-Control: max-age=0
+  Pragma: no-cache
+  Content-Type: text/javascript; charset=utf-8
+  Expires: 7/22/2017 8:50:05 PM
+  Server: Microsoft-IIS/8.0
+  X-Powered-By: ASP.NET
+  Date: Sun, 23 Jul 2017 20:50:05 GMT
+  Connection: close
+:content: "setTimeout(function(){\r\n    'use strict';\r\n    try{\r\n        var
+  stringifyFunc = null;\r\n\t\tif(window.JSON){\r\n\t\t\tstringifyFunc = window.JSON.stringify;\r\n\t\t}
+  else {\r\n\t\t\tif(window.parent && window.parent.JSON){\r\n\t\t\t\tstringifyFunc
+  = window.parent.JSON.stringify;\r\n\t\t\t}\r\n\t\t}\r\n\t\tif(!stringifyFunc){\r\n\t\t\treturn;\r\n\t\t}\r\n
+  \       var msg = {\r\n            action: 'notifyBrandShieldAdEntityInformation',\r\n
+  \           bsAdEntityInformation: {\r\n                brandShieldId:'eac2b2ee820b44e1905b4f79142ba008',\r\n
+  \               comparisonItems:[{name : 'cmp', value : 11159068},{name : 'plmt',
+  value : 11159078}]\r\n            }\r\n        };\r\n        var msgString = stringifyFunc(msg);\r\n
+  \       var bst2tWin = null;\r\n\r\n        var findAndSendMessage = function()
+  {\r\n            if (!bst2tWin) {\r\n                var frame = document.getElementById('bst2t_857825858751');\r\n
+  \               if (frame) {\r\n                    bst2tWin = frame.contentWindow;\r\n
+  \               }\r\n            }\r\n\r\n            if (bst2tWin) {\r\n                bst2tWin.postMessage(msgString,
+  '*');\r\n            }\r\n        };\r\n\r\n        findAndSendMessage();\r\n        setTimeout(findAndSendMessage,
+  50);\r\n        setTimeout(findAndSendMessage, 500);\r\n    } catch(err){}\r\n},
+  10);var impId = 'eac2b2ee820b44e1905b4f79142ba008';var dvObj = $dvbs;var rtnName
+  = dvObj==window.$dv ? 'ImpressionServed' : 'BeforeDecisionRender';dvObj.pubSub.subscribe(rtnName,
+  impId, 'HE_RTN', function () { try {var ifu = '';var alu = 'http://ad.doubleclick.net/ddm/clk/291583327;106680815;k';var
+  lbl='';var d=null,e=dvObj==window.$dv?parent:window,h=0,i=0,k=[],l=[],m=10;\r\nfunction
+  o(a,c){function b(b){return f=function(g){g.preventDefault();if(!t[c*Math.pow(2,m*b)]&&(rhe(c*Math.pow(2,m*b)),t[Math.pow(2,m*b)]=!0,a)){events=u[b];for(g=0;g<events.length;g++)a.removeEventListener?a.removeEventListener(events[g],f):a.detachEvent?a.detachEvent(\"on\"+events[g],f):a[\"on\"+events[g]]=f}}}var
+  u=[[\"click\"],[\"focus\"],\"input change keyup textInput keypress paste\".split(\"
+  \"),[\"touchstart\"]],t=[];t[c]=!1;if(a)for(var j=0;j<u.length;j++){events=u[j];for(var
+  n=0;n<events.length;n++)a.addEventListener?\r\na.addEventListener(events[n],b(j),!0):a.attachEvent?a.attachEvent(\"on\"+events[n],b(j)):a[\"on\"+events[n]]=b(j)}}window.rhe=function(a,c){void
+  0==c&&(c=a);var b={};\"number\"===typeof a&&void 0===k[a]&&(k[a]=!0,h+=a,b[lbl+\"heas\"]=h);\"number\"===typeof
+  c&&void 0===l[c]&&(l[c]=!0,i+=c,b[\"dvp_hease\"]=i);dvObj.registerEventCall(impId,b)};e.rhe=rhe;function
+  p(a,c){var b=document.createElement(a);b.id=(c||a)+\"-\"+impId;b.style.visibility=\"hidden\";b.style.position=\"absolute\";b.style.display=\"none\";return
+  b}\r\nfunction q(a){var c=r;Object.defineProperty(c,a,{get:function(){return this.getAttribute(a)},set:function(b){this.setAttribute(a,b);\"createEvent\"in
+  document?(b=document.createEvent(\"HTMLEvents\"),b.initEvent(\"change\",!1,!0),c.dispatchEvent(b)):(b=document.createEventObject(),c.fireEvent(\"onchange\",b))}})}var
+  s=p(\"form\");s.submit=function(){window.rhe(1,1)};var r=p(\"input\",\"txt\");r.name=r.id;r.type=\"text\";q(\"value\");q(\"textContent\");var
+  v=p(\"input\",\"btn\");v.name=v.id;v.type=\"button\";\r\nvar w=p(\"input\",\"sbmt\");w.name=w.id;w.type=\"submit\";w.click=function(){window.rhe(2,2)};w.ontouchstart=function(){window.rhe(2,2)};var
+  x=p(\"a\");x.href=\"javascript:window.rhe(16,16);\";if(\"\"!=alu){var y=p(\"a\");y.href=alu}e.document.body.insertBefore(s,d);e.document.body.insertBefore(x,d);s.insertBefore(r,d);s.insertBefore(v,d);s.insertBefore(w,d);o(r,8);o(v,4);o(w,2);o(s,1);\"\"!=alu&&(y=p(\"a\",\"alu\"),y.href=alu,e.document.body.insertBefore(y,d),o(y,32));\r\nif(\"\"!=ifu){var
+  z=p(\"iframe\");z.src=ifu;e.document.body.insertBefore(z,d);o(z,64)};} catch (e)
+  {}; });\n(function() {var dvObj = $dvbs;var impId = 'eac2b2ee820b44e1905b4f79142ba008';var
+  dvParams = {'useDvp': 'true','logRate': '100'};dvObj.pubSub.subscribe(dvObj==window.$dv?\"ImpressionServed\":\"BeforeDecisionRender\",impId,\"BHL\",
+  function() {function f(){var c=\"true\"===dvParams.useDvp?\"dvp_\":\"\",d=\"\";this.exec=function(){var
+  a={},b;a:{try{b=history.length;break a}catch(e){d+=\"|\"+e.message}b=void 0}b&&(a[c+\"brh\"]=b);c&&d&&(a.dvp_brherr=d);try{a&&dvObj.registerEventCall(impId,a)}catch(e){}}}try{(new
+  f).exec()}catch(c){};});})();var dvObj = $dvbs;function np764531(g,i){function d(){function
+  d(){function f(b,a){b=(i?\"dvp_\":\"\")+b;e[b]=a}var e={},a=function(b){for(var
+  a=[],c=0;c<b.length;c+=2)a.push(String.fromCharCode(parseInt(b.charAt(c)+b.charAt(c+1),32)));return
+  a.join(\"\")},h=window[a(\"3e313m3937313k3f3i\")];h&&(a=h[a(\"3g3c313k363f3i3d\")],f(\"pltfrm\",a));(function(){var
+  a=e;e={};dvObj.registerEventCall(g,a,2E3,true)})()}try{d()}catch(f){}}try{dvObj.pubSub.subscribe(dvObj==window.$dv?\"ImpressionServed\":\"BeforeDecisionRender\",g,\"np764531\",d)}catch(f){}}\n;np764531(\"eac2b2ee820b44e1905b4f79142ba008\",false);\n\n\ntry{__tagObject_callback_857825858751({ImpressionID:\"eac2b2ee820b44e1905b4f79142ba008\",
+  ServerPublicDns:\"tps605.doubleverify.com\"});}catch(e){}\ntry{$dvbs.pubSub.publish('BeforeDecisionRender',
+  \"eac2b2ee820b44e1905b4f79142ba008\");}catch(e){}\ntry{__verify_callback_857825858751({\nResultID:2,\nPassback:\"\",\nAdWidth:300,\nAdHeight:250});}catch(e){}\ntry{$dvbs.pubSub.publish('AfterDecisionRender',
+  \"eac2b2ee820b44e1905b4f79142ba008\");}catch(e){}\n"

@@ -1,0 +1,58 @@
+---
+:scope: 
+:url: https://s0.2mdn.net/6257714/1498038978102/732443_BoS_750CB-300x250/main.js
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Accept-Ranges: bytes
+  Vary: Accept-Encoding
+  Content-Encoding: gzip
+  Content-Type: text/javascript
+  Access-Control-Allow-Origin: "*"
+  Content-Length: '926'
+  Date: Sun, 23 Jul 2017 06:56:54 GMT
+  Expires: Mon, 24 Jul 2017 06:56:54 GMT
+  Last-Modified: Wed, 21 Jun 2017 09:56:18 GMT
+  X-Content-Type-Options: nosniff
+  Server: sffe
+  X-XSS-Protection: 1; mode=block
+  Cache-Control: public, max-age=86400
+  Age: '49992'
+  Alt-Svc: quic=":443"; ma=2592000; v="39,38,37,36,35"
+  Connection: close
+:content: "var fadeTime = .7;\n\nfunction bannerInit() {\n\n    document.getElementById('main_container').style.visibility
+  = 'visible';\n    \n    startTime = new Date();\n    \n    showf1();\n    \n    TweenMax.delayedCall(6,
+  hidef1);\n    TweenMax.delayedCall(20, hidef3);\n    \n}\n\n\nfunction showf1()
+  {\n\n     TweenMax.set(['#icon1'],{scale:0,transformOrigin:'50% 50%',x:135,y:119});\n
+  \    TweenMax.set(['#icon2'],{transformOrigin:'50% 50%',x:85,y:155});\n     TweenMax.set(['#icon3'],{scale:0,transformOrigin:'50%
+  50%',x:170,y:110});\n     \n     TweenMax.delayedCall(0, animateIconBg, ['icon_bg1',-250,150]);\n
+  \    TweenMax.delayedCall(1, animateIconBg, ['icon_bg2',-250,-150]);\n     TweenMax.delayedCall(2,
+  animateIconBg, ['icon_bg3',250,-150]);\n     \n    \n     TweenMax.to(['#f1_text1'],
+  fadeTime, {\n        opacity:1\n    });\n          \n       TweenMax.to(['#icon1'],
+  fadeTime, {\n        delay:1,\n        opacity:1,\n        transformOrigin:'50%
+  50%',\n        scale:.5,\n        ease: Back.easeOut\n    });\n    \n    \n    \n
+  \      var tl = new TimelineMax();\n    tl.add(TweenMax.to(['#icon2'], fadeTime/2,
+  {\n        delay:2,\n        opacity:1,\n        scaleX:0\n    }))\n    tl.add(TweenMax.to(['#icon2'],
+  fadeTime/2, {\n        scaleX:.5\n    }))\n        \n    \n    \n    TweenMax.to(['#icon3'],
+  fadeTime, {\n        delay:3,\n        opacity:1,\n        scale:.5,\n        ease:
+  Back.easeOut\n    });\n    \n    \n     \n}\n\nfunction hidef1() {\n\n\n    TweenMax.to('#f1_text1',
+  fadeTime, {\n        autoAlpha: 0\n    });\n    \n    TweenMax.to('#cover', fadeTime,
+  {\n        autoAlpha: 1,\n        onComplete:showf3\n    });\n}\n\n\n\nfunction
+  showf3() {\n\n  TweenMax.to(['#f3_text1'], fadeTime, {\n        opacity:1\n    });\n\n}\n\n\nfunction
+  hidef3() {\n\n\n    TweenMax.to('#f3_text1', fadeTime, {\n        autoAlpha: 0,\n
+  \       onComplete:showf4\n    });\n}\n\n\nfunction showf4() {\n\n  TweenMax.to(['#f4_text1'],
+  fadeTime, {\n        opacity:1\n    });\n  TweenMax.to(['#cta'], fadeTime, {\n        opacity:1,\n
+  \       delay:.5,\n        onComplete:endAnimation\n    });\n\n}\n\n\n\nfunction
+  endAnimation() {\n    var endTime = new Date()\n    console.log('Animation duration:
+  ' + ((endTime - startTime) / 1000) + ' seconds');\n}\n\n\n\n\n/*\n\nwindow.addEventListener(\"load\",
+  bannerInit);\n\n\ndocument.getElementById(\"main_container\").addEventListener(\"click\",
+  function(){\n    window.open(clickTag);\n});\n\n\n*/\n\n\n\n\n\n\nfunction animateIconBg(id,x,y){\n\n
+  \    var icon_bg = document.getElementById(id);\n     TweenMax.set(icon_bg,{opacity:1})\n
+  \      \n     for (var i = 0; i < 8; i++){\n   \n       var icon_bg_clone = icon_bg.cloneNode(true);
+  \n       \n       icon_bg_clone.id = id+'_' + i;\n       \n       icon_bg.parentNode.appendChild(icon_bg_clone);\n
+  \      \n       TweenMax.set(icon_bg_clone,{opacity:1})\n       \n      TweenMax.from(icon_bg_clone,
+  fadeTime, {\n        x:x,\n        y:y,\n        delay:i/35,\n        onComplete:removeMe,\n
+  \       onCompleteParams:[icon_bg_clone]\n    });\n\n     };\n      TweenMax.from(icon_bg,
+  fadeTime, {\n        x:x,\n        y:y\n    });\n\n}\n\nfunction removeMe(clone){\n\n
+  clone.parentElement.removeChild(clone);\n\n}"

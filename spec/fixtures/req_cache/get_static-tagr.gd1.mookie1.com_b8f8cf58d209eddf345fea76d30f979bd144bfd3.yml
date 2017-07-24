@@ -1,0 +1,80 @@
+---
+:scope: 
+:url: http://static-tagr.gd1.mookie1.com/s1/sas/eprivacy/ac.js?width=300&height=250
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Server: Apache/2.2.15 (Red Hat)
+  P3P: CP="NON DSP COR NID CURa PSAa PSDa OUR STP UNI COM NAV STA LOC OTC",policyref="/w3c/p3p.xml"
+  Last-Modified: Fri, 03 Feb 2017 10:01:47 GMT
+  ETag: '"ee0337-136e-5479d5ea718c0"'
+  Accept-Ranges: bytes
+  Cteonnt-Length: '4974'
+  Content-Type: text/javascript
+  Content-Encoding: gzip
+  Content-Length: '1460'
+  Vary: Accept-Encoding
+  Cache-Control: private, max-age=37072
+  Date: Sun, 23 Jul 2017 20:50:05 GMT
+  Connection: close
+:content: "(function (window, document, undefined) {\r\n    var gParams = function
+  (url) {\r\n        url = typeof url !== 'undefined' ? url : window.location.href;\r\n
+  \       var match,\r\n            pl = /\\+/g,\r\n            search = /[&\\?]([^&=]+)=?([^&]*)/g,\r\n
+  \           decode = function (s) {\r\n                return decodeURIComponent(s.replace(pl,
+  \" \"));\r\n            },\r\n            params = {};\r\n\r\n        while (match
+  = search.exec(url)) {\r\n            params[decode(match[1])] = decode(match[2]);\r\n
+  \       }\r\n        return params;\r\n    };\r\n\r\n    var sParams = function
+  (needle, haystack, def) {\r\n        return typeof haystack[needle] !== 'undefined'
+  ? haystack[needle] : def;\r\n    };\r\n\r\n    var appendFirstChild = function (element,
+  parent) {\r\n        if (typeof parent.firstChild !== 'undefined') {\r\n            parent.insertBefore(element,
+  parent.firstChild);\r\n        } else {\r\n            parent.appendChild(element);\r\n
+  \       }\r\n    };\r\n\r\n    var setElementPosition = function (element, position)
+  {\r\n        element.style.top = position[0] + 'px';\r\n        element.style.right
+  = position[1] + 'px';\r\n        element.style.bottom = position[2] + 'px';\r\n
+  \       element.style.left = position[3] + 'px';\r\n    };\r\n\r\n    // URL parameters\r\n
+  \   var document_scripts = document.getElementsByTagName('script');\r\n    var script
+  = document_scripts[document_scripts.length - 1];\r\n    var url_params = gParams(script.src);\r\n\r\n
+  \   // Config variables\r\n    var random = ('1' + Math.random()).replace('.', '');\r\n
+  \   var display_icon = sParams('display_icon', url_params, true);\r\n    var espans
+  = sParams('espans', url_params, 'top-right');\r\n    var width = sParams('width',
+  url_params, 0);\r\n    var height = sParams('height', url_params, 0);\r\n    var
+  base_url = '//static-tagr.gd1.mookie1.com/s1/sas/eprivacy/';\r\n    //for local
+  testing only\r\n    //var base_url = 'http://192.168.33.10/eprivacy/staging/';\r\n\r\n
+  \   switch (espans) {\r\n        case 'top-left':\r\n            position = [1,
+  undefined, undefined, 1];\r\n            break;\r\n        case 'top-right':\r\n
+  \           position = [1, 1, undefined, undefined];\r\n            break;\r\n        case
+  'bottom-right':\r\n            position = [undefined, 1, 1, undefined];\r\n            break;\r\n
+  \       case 'bottom-left':\r\n            position = [undefined, undefined, 1,
+  1];\r\n            break;\r\n        default:\r\n            displayicon = false;\r\n
+  \   }\r\n\r\n    var interstitial_display = function () {\r\n        switch (url_params.lang)
+  {\r\n            case 'pt':\r\n                language = '_pt';\r\n                break;\r\n
+  \           case 'en':\r\n                language = '';\r\n                break;\r\n
+  \           default:\r\n                language = '';\r\n        }\r\n        window.open(base_url
+  + 'interstitial' + language + '/index.html', 'adchoicesinterstitial', 'height=509,width=543,position=0,
+  directories=0, menubar=0');\r\n    };\r\n\r\n    window[random + 'show'] = function
+  () {\r\n        document.getElementById(random + 'icon').style.visibility = \"hidden\";\r\n
+  \       document.getElementById(random + 'icontext').style.visibility = \"visible\";\r\n
+  \   };\r\n\r\n    window[random + 'hide'] = function () {\r\n        document.getElementById(random
+  + 'icon').style.visibility = \"visible\";\r\n        document.getElementById(random
+  + 'icontext').style.visibility = \"hidden\";\r\n    };\r\n\r\n    if (display_icon)
+  {\r\n        var wrapper = document.createElement('div');\r\n        wrapper.style.padding
+  = '0px';\r\n        wrapper.style.border = '0px';\r\n        if (url_params.c) {\r\n
+  \           wrapper.style.margin = '-8px auto 0px auto';\r\n        } else {\r\n
+  \           wrapper.style.margin = '0px';\r\n        }\r\n        wrapper.style.overflow
+  = 'visible';\r\n        wrapper.style.width = width + 'px';\r\n        wrapper.style.height
+  = '0px';\r\n        wrapper.style.position = 'relative';\r\n\r\n        var icon
+  = document.createElement('div');\r\n        icon.id = random + 'icon';\r\n        icon.style.backgroundImage
+  = \"url('\" + base_url + \"icon.png')\";\r\n        icon.style.position = 'absolute';\r\n
+  \       icon.style.width = '19px';\r\n        icon.style.height = '15px';\r\n        icon.style.zIndex
+  = 1000;\r\n        setElementPosition(icon, position);\r\n        icon.onmouseover
+  = window[random + 'show'];\r\n\r\n        var icontext = document.createElement('div');\r\n
+  \       icontext.id = random + 'icontext';\r\n        icontext.style.backgroundImage
+  = \"url('\" + base_url + \"icontext.png')\";\r\n        icontext.style.cursor =
+  'pointer';\r\n        icontext.style.position = 'absolute';\r\n        icontext.style.width
+  = '77px';\r\n        icontext.style.height = '15px';\r\n        setElementPosition(icontext,
+  position);\r\n        icontext.style.visibility = 'hidden';\r\n        icontext.style.zIndex
+  = 1001;\r\n        icontext.onmouseout = window[random + 'hide'];\r\n        icontext.onclick
+  = interstitial_display;\r\n\r\n\r\n        wrapper.appendChild(icon);\r\n        wrapper.appendChild(icontext);\r\n
+  \       appendFirstChild(wrapper, script.parentNode);\r\n    }\r\n\r\n\r\n})(window,
+  document);\r\n\r\n"

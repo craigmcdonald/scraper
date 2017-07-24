@@ -1,0 +1,27 @@
+---
+:scope: 
+:url: https://cdn3.doubleverify.com/bst2tv3.html
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Content-Type: text/html
+  Content-Encoding: gzip
+  Last-Modified: Tue, 02 Sep 2014 17:01:34 GMT
+  Accept-Ranges: bytes
+  ETag: '"3348a8dcfc6cf1:0"'
+  Vary: Accept-Encoding
+  Server: Microsoft-IIS/7.0
+  X-Powered-By: ASP.NET
+  Content-Length: '806'
+  Date: Sun, 23 Jul 2017 20:50:05 GMT
+  Connection: close
+:content: "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+  \r\n<html> \r\n<head>  \t\r\n<script language=\"javascript\" type=\"text/javascript\">
+  \r\nvar BrandShieldTagToTag=function(){var a=this;a.bsAdEntityInfo=null;a.callbackRecieved=!1;a.timeLoaded=getCurrentTime();var
+  b=[],d=!1;a.setBSAdEntityInformation=function(c){a.bsAdEntityInfo=c;a.callbackReceived=!0;for(c=0;c<b.length;c++)b[c](a.bsAdEntityInfo)};a.getBSAdEntityInformation=function(c){a.bsAdEntityInfo?c(a.bsAdEntityInfo):b.push(c)};a.hasTagFoundMatch=function(){return
+  d};a.tellTagWeFoundMatch=function(){d=!0}},getCurrentTime=function(){return Date.now?Date.now():(new
+  Date).getTime()},\nreceiveMessage=function(a){try{if(window.JSON){var b=window.JSON.parse(a.data);if(b&&b.action)switch(b.action){case
+  \"notifyBrandShieldAdEntityInformation\":window.bstag2tag&&!window.bstag2tag.bsAdEntityInformation&&b.hasOwnProperty(\"bsAdEntityInformation\")&&window.bstag2tag.setBSAdEntityInformation(b.bsAdEntityInformation)}}}catch(d){}},load=function(){window.addEventListener?window.addEventListener(\"message\",receiveMessage,!1):window.attachEvent(\"onmessage\",receiveMessage);window.bstag2tag=new
+  BrandShieldTagToTag};\nwindow.debugScript||load();\n</script> \r\n</head> \r\n<body>
+  \r\n</body> \r\n</html> \r\n"

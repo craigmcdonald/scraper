@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/craigmcdonald/puffing-billy
-  revision: 30e594e91679ce59486280cf08e2d5f025a90ac5
+  revision: 3dd44a9f95fddb06f77239c687b97c9b5d7b90f0
   specs:
     puffing-billy (0.10.0)
       addressable (~> 2.4.0)

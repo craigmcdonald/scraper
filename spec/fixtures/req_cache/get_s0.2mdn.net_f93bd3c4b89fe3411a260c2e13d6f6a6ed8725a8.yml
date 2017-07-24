@@ -1,0 +1,29 @@
+---
+:scope: 
+:url: https://s0.2mdn.net/6257714/1498038978102/732443_BoS_750CB-300x250/icon3.png
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Accept-Ranges: bytes
+  Content-Type: image/png
+  Access-Control-Allow-Origin: "*"
+  Content-Length: '283'
+  Date: Sun, 23 Jul 2017 06:56:54 GMT
+  Expires: Mon, 24 Jul 2017 06:56:54 GMT
+  Last-Modified: Wed, 21 Jun 2017 09:56:18 GMT
+  X-Content-Type-Options: nosniff
+  Server: sffe
+  X-XSS-Protection: 1; mode=block
+  Cache-Control: public, max-age=86400
+  Age: '49993'
+  Alt-Svc: quic=":443"; ma=2592000; v="39,38,37,36,35"
+  Connection: close
+:content: !binary |-
+  iVBORw0KGgoAAAANSUhEUgAAAB8AAAAaCAMAAAB4vXe4AAAARVBMVEUAAAD/
+  ////////////////////////////////////////////////////////////
+  //////////////////////////9SnXPCAAAAFnRSTlMA+9XIv4QeDfaln2sx
+  9OpDzrqwTTQEhxjBvQAAAG9JREFUKM/tztsKhCAURuHtudRqjuv9H3UGKiFR
+  6DZoXSkfG36pWuxH+mWrYfT/F0CtPiqm18TgQsODGwDQT8Wcav+mmb2Hgcrf
+  GhQlow+e7UHZftGvs0Z6uVBmtTNioH8fkyw2SxvLwsu47N1+1n9vhilph2Ee
+  zAAAAABJRU5ErkJggg==

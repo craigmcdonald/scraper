@@ -55,6 +55,24 @@ Billy.configure do |c|
   c.persist_cache = true
   c.cache_path = 'spec/fixtures/req_cache/'
   c.non_successful_error_level = :warn
+  c.merge_cached_responses_whitelist = [
+    /fls.doubleclick.net\/activityi/,
+    /dpm.demdex.net/,
+    /doubleclick.net/,
+    /scorecardresearch.com/,
+    /pubmatic.com\/AdServer/,
+    /pixel.quantserve.com/,
+    /pr-bh.ybp.yahoo.com/,
+    /securepubads.g.doubleclick.net/,
+    /showads.pubmatic.com/,
+    /stats.g.doubleclick.net/,
+    /ums.rightmove.co.uk\/users\//,
+    /www.facebook.com\/impression.php/,
+    /www.facebook.com\/connect\/ping/,
+    /www.facebook.com\/impression/,
+    /www.google-analytics.com/,
+    /bam.nr-data.net/
+  ]
   c.ignore_params = ["http://4638770.fls.doubleclick.net,activityi",
                      "https://ad.doubleclick.net/ddm/adj/N5225.1566338.RIGHTMOVE.CO.UKNEW/B11390781.151980391",
                      "http://aktrack.pubmatic.com/AdServer/AdDisplayTrackerServlet",

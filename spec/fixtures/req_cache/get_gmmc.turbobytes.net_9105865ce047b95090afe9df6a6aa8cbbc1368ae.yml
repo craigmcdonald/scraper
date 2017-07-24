@@ -1,0 +1,42 @@
+---
+:scope: 
+:url: https://gmmc.turbobytes.net/radar_ias_dcm_mec_uk_v1.js?ad_id=400844855&campaign_id=20048096&advertiser_id=6257714&site_id=1206932&placement_id=200801269&cachebusting=2679539782
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Content-Encoding: gzip
+  Cache-Control: max-age=2592000,Public
+  Content-Type: application/x-javascript
+  Date: Sun, 23 Jul 2017 20:50:06 GMT
+  Etag: '"3a7aad3899cb827ddc0290b7e0af5446+gzip"'
+  Last-Modified: Mon, 08 May 2017 14:19:48 GMT
+  Server: ECS (lhr/47F4)
+  Vary: Accept-Encoding
+  x-amz-id-2: XoDljpRIxMFqDeQ5YKzeP57ywBVa3+juRfLe3jWYGzCVEMDGSteASv7OhhvdiPvBuc/iKUCyEss=
+  x-amz-request-id: 7091A75BCEFD6A00
+  X-Cache: HIT
+  Content-Length: '783'
+  Connection: close
+:content: "var createElement = function (src, parent) {\r\n    var element = document.createElement('img');\r\n
+  \   element.src = src;\r\n    element.width = 0;\r\n    element.height = 0;\r\n
+  \   parent.parentNode.appendChild(element);\r\n};\r\n\r\nvar getParametersFromUrl
+  = function (url) {\r\n    url = typeof url !== 'undefined' ? url : window.location.href;\r\n
+  \   var match,\r\n        pl = /\\+/g,\r\n        search = /[&\\?]([^&=]+)=?([^&]*)/g,\r\n
+  \           \r\n        decode = function (s) {\r\n            return decodeURIComponent(s.replace(pl,
+  \" \"));\r\n        },\r\n        params = {};\r\n\r\n    while (match = search.exec(url))
+  {\r\n        params[decode(match[1])] = decode(match[2]);\r\n    };\r\n\r\n    return
+  params;\r\n};\r\n\r\nfunction getScriptByString(searchStr) {\r\n    var scriptsOnPage
+  = document.getElementsByTagName('script');\r\n    for (var i =0; i <scriptsOnPage.length;
+  i++) {\r\n        var s = scriptsOnPage[i];\r\n        if (s.hasAttribute(\"src\")
+  && s.src.indexOf(searchStr) > -1) {\r\n            return s\r\n        }; \r\n    };\r\n\r\n};\r\n\r\nvar
+  createElement = function(url) {\r\n    var a = document.createElement(\"script\");\r\n
+  \   a.src = url\r\n    document.body.appendChild(a);\r\n};\r\n\r\nvar thisScript
+  = getScriptByString(\"gmmc.turbobytes\");\r\nvar params = getParametersFromUrl(thisScript.src);\r\nvar
+  DV = 'https://pixel.adsafeprotected.com/jload?anId=925228&advId=' + params.advertiser_id
+  + '&campId=' + params.campaign_id + '&pubId=' + params.site_id + '&chanId=display&placementId='
+  + params.placement_id + '&'; \r\n\r\n    if ( params.hasOwnProperty('pct') ){\r\n
+  \       var percentage = params.pct\r\n    } else {\r\n        var percentage =
+  5\r\n    };\r\n\r\n    if (load_calc()) {\r\n        createElement(DV, thisScript);\r\n
+  \   };\r\n\r\nfunction load_calc() { return Math.random() < (percentage / 100) ?
+  true : false; };"

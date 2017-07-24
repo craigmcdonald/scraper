@@ -1,0 +1,14 @@
+---
+:scope: 
+:url: http://p.adsymptotic.com/d/px?_pid=10291&_psign=9769cbad30cb221a3996d786047e2b31&_pu=OPTIONAL_WEBSITE_URL&_puuid=YOUR_COOKIE_ID&_rand=RANDOM_NUMBER&_redirect=http%3A//image2.pubmatic.com/AdServer/Pug%3Fvcode%3Dbz0yJnR5cGU9MSZjb2RlPTMwNTAmdGw9MTI5NjAw%26piggybackCookie%3D%24%7BUUID%7D%26r%3Dhttps%253A%252F%252Fp.adsymptotic.com%252Fd%252Fpx%253F_pid%253D10291%2526_psign%253D9769cbad30cb221a3996d786047e2b31%2526_puuid%253D%2524%257BPUBMATIC_UID%257D%250A
+:body: ''
+:status: 302
+:method: get
+:headers:
+  Set-Cookie: U=48bc95df2a78499785c471d243bbdddb;Path=/;Domain=.adsymptotic.com;Expires=Sat,
+    21-Oct-2017 20:49:59 GMT
+  Expires: Thu, 01 Jan 1970 00:00:00 GMT
+  Location: http://p.adsymptotic.com/d/px?_pid=10291&_psign=9769cbad30cb221a3996d786047e2b31&_pu=OPTIONAL_WEBSITE_URL&_puuid=YOUR_COOKIE_ID&_rand=RANDOM_NUMBER&_redirect=http%3A//image2.pubmatic.com/AdServer/Pug%3Fvcode%3Dbz0yJnR5cGU9MSZjb2RlPTMwNTAmdGw9MTI5NjAw%26piggybackCookie%3D%24%7BUUID%7D%26r%3Dhttps%253A%252F%252Fp.adsymptotic.com%252Fd%252Fpx%253F_pid%253D10291%2526_psign%253D9769cbad30cb221a3996d786047e2b31%2526_puuid%253D%2524%257BPUBMATIC_UID%257D%250A&_expected_cookie=48bc95df2a78499785c471d243bbdddb
+  Connection: close
+  Server: Jetty(9.3.12.v20160915)
+:content: ''
