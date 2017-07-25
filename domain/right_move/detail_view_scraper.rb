@@ -1,7 +1,5 @@
-require_relative 'base_scraper'
-
 module RightMove
-  class DetailViewScraper < BaseScraper
+  class DetailViewScraper < Grattoir::Scrapers::Base
     def initialize(url,opts={})
       @table_data = {}
       super

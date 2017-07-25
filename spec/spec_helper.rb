@@ -1,6 +1,7 @@
 require 'simplecov'
 SimpleCov.start
-Dir["#{__dir__.gsub('spec','lib/**/*.rb')}"].reverse.each {|f| require f }
+Dir["#{__dir__.gsub('spec','lib/*.rb')}"].reverse.each {|f| require f }
+Dir["#{__dir__.gsub('spec','domain/*.rb')}"].reverse.each {|f| require f }
 require "#{__dir__}/rails_logger.rb"
 Capybara.threadsafe = true
 Dotenv.load

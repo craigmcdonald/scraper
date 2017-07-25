@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe JSN::DataObject do
+describe Grattoir::Data::Model do
 
   describe 'accessing @data' do
 
@@ -88,7 +88,7 @@ describe JSN::DataObject do
     let(:data2) { {a: {b: {e: :f}}} }
     let(:obj1) { described_class.new(data1) }
     let(:obj2) { described_class.new(data2) }
-    let(:key_not_found) { DeepMergeError::KeyNotFound }
+    let(:key_not_found) { Grattoir::Errors::KeyNotFound }
 
     describe 'deep copy' do
       it 'should return a new object' do
@@ -100,19 +100,19 @@ describe JSN::DataObject do
       expect { obj1.deep_merge_at(:z, obj2) }.to raise_error(key_not_found)
     end
 
-    it 'should merge the two values for :b into a DataCollection' do
-      #TODO This is actually returning an Array, but it probably should be a DataCollection.
+    it 'should merge the two values for :b into a Data::Collection' do
+      #TODO This is actually returning an Array, but it probably should be a Data::Collection.
       result = obj1.deep_merge_at(:b, obj2)
       expect(result[:b].count).to eq(2)
     end
 
-    describe 'merging DataObjects containing collections' do
+    describe 'merging Data::Models containing collections' do
       let(:coldata1) { {b: [{c: :d},{e: :f}]} }
       let(:coldata2) { {b: [{w: :q},{r: :t}]} }
       let(:colobj1) { described_class.new(coldata1) }
       let(:colobj2) { described_class.new(coldata2) }
 
-      it 'should merge two DataCollections into a single DataCollection' do
+      it 'should merge two Data::Collections into a single Data::Collection' do
         result = colobj1.deep_merge_at(:b, colobj2)
         expect(result[:b].count).to eq(4)
       end
@@ -151,9 +151,9 @@ describe JSN::DataObject do
     describe 'trying to merge objects with keys at different levels' do
       let(:data3) { {b: {a: {l: :p}}} }
       let(:obj3) { described_class.new(data3) }
-      let(:mismatched_keys) { DeepMergeError::MismatchedKeys }
+      let(:mismatched_keys) { Grattoir::Errors::MismatchedKeys }
 
-      it 'should raise DeepMergeError::MismatchedKeys' do
+      it 'should raise Errors::MismatchedKeys' do
         expect { obj1.deep_merge_at(:a, obj3) }.to raise_error(mismatched_keys)
       end
     end

@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe JSN::Parser do
+describe Grattoir::Data::Parser do
   let(:json_invalid) {described_class.parse('string')}
   let(:json_valid) { described_class.parse("{\"a\": \"string\"}")}
 

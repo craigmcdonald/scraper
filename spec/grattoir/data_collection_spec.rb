@@ -1,11 +1,11 @@
 require 'spec_helper'
 
-describe JSN::DataCollection do
+describe Grattoir::Data::Collection do
 
   let(:collection) { described_class.new({a: [{b: :c}, {d: :e}]}) }
 
-  it 'should return JSONDataObjects for each item in an array' do
-    expect(collection.first).to be_kind_of(JSN::DataObject)
+  it 'should return Data::Models for each item in an array' do
+    expect(collection.first).to be_kind_of(Grattoir::Data::Model)
   end
 
   it 'should return a: for id' do
@@ -13,7 +13,7 @@ describe JSN::DataCollection do
   end
 
   describe 'with a more complex data shape' do
-    #note this is really a test of JSONDataObject and should get moved
+    #note this is really a test of Data::Model and should get moved
     #it is just a sanity check for now.
     let(:data) { {a:[{b:{c:{d: :e}}},{f:{g:{h: :i}}}]}}
     let(:collection) { described_class.new(data) }

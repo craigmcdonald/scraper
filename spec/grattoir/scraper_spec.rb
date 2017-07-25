@@ -1,4 +1,4 @@
-describe Scraper do
+describe Grattoir::Scrapers::Base do
 
   let(:browser) { double('Copybara') }
   let(:browser_instance) { double('Copybara Instance') }

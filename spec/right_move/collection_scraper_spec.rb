@@ -7,7 +7,7 @@ describe RightMove::CollectionScraper do
    {driver: :poltergeist_billy}) }
 
    it 'should return a properties collection' do
-     expect(spider.properties).to be_kind_of(JSN::DataCollection)
+     expect(spider.properties).to be_kind_of(Grattoir::Data::Collection)
    end
 
    it 'should return a property with an id of 60096055' do

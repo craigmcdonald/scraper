@@ -1,7 +1,5 @@
-require_relative 'base_scraper'
-
 module RightMove
-  class CollectionScraper < BaseScraper
+  class CollectionScraper < Grattoir::Scrapers::Base
 
     def after_initialize
       load_page
